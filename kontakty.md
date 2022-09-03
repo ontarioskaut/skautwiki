@@ -2,7 +2,7 @@
 title: Kontakty
 description: Nejdůležitější kontakty a oficiální informace
 published: true
-date: 2022-09-03T22:25:35.844Z
+date: 2022-09-03T23:32:21.619Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-03T18:05:57.348Z
