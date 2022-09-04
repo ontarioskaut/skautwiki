@@ -2,7 +2,7 @@
 title: O wiki
 description: K čemu to vše je?
 published: true
-date: 2022-09-04T20:26:14.142Z
+date: 2022-09-04T20:27:41.615Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:26:14.142Z
@@ -14,5 +14,5 @@ dateCreated: 2022-09-04T20:26:14.142Z
 - Proč to vzniklo
 - K čemu to slouží?
 - Pro koho to je?
-- Pobídnutí pro ostatní oddíly
+- Pobídnutí pro ostatní oddíly; odkaz na stránku [Chci se podílet](chci_se_podilet)
 - Podtrhnout, že jde o projekt, kde je důležitá spolupráce
