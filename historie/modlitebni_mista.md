@@ -2,7 +2,7 @@
 title: Modlitební místa
 description: 
 published: true
-date: 2022-09-04T19:52:49.316Z
+date: 2022-09-04T20:16:40.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T19:52:49.316Z
@@ -18,15 +18,15 @@ Zde můžete najít něco málo o našich modlitebních místech, lokaci, stavu 
   4) Archeologické naleziště - ze samotného modlitebního místa zbyly jen trosky
   5) Nonexistentní - z půvoního modlitebního místa nezbylo nic, co by nasvědčovalo, že tam někdy bylo
 
-> ## [Modlitební místo č. 1](/modlitebni_mista/mm1)
+> ## [Modlitební místo č. 1](mm1)
 > krátký popis
 {.is-info}
 
-> ## [Modlitební místo č. 2](/modlitebni_mista/mm2)
+> ## [Modlitební místo č. 2](mm2)
 > krátký popis
 {.is-info}
 
-> ## [Modlitební místo č. 3](/modlitebni_mista/mm3)
+> ## [Modlitební místo č. 3](mm3)
 > krátký popis
 {.is-info}
 
