@@ -2,7 +2,7 @@
 title: Jak psát stránky
 description: Návod, jak na samotné vytvoření a editaci stránek
 published: true
-date: 2022-09-03T23:32:04.312Z
+date: 2022-09-04T19:51:47.774Z
 tags: interní, návody
 editor: markdown
 dateCreated: 2022-08-11T21:29:06.266Z
@@ -26,4 +26,4 @@ V tomto návodu si vysvětlíme, jak vytvářet a upravovat stránky v tomto sof
 * Pokud by se hodila do stránky mapa s vlastními prvky, jsou tady [kronikomapy](/kronikomapy)
 * Používejte více nadpisů, podnadpisů a dalších úrovní, protože podle nich se vytváří obsah
 * Sdílejte své nápady :-)
-* **O psaní v Markdownu více [na této stránce](/interni/markdown)**
+* **O psaní v Markdownu více [na této stránce](markdown)**
