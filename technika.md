@@ -2,7 +2,7 @@
 title: Technika a IT
 description: 
 published: true
-date: 2022-09-03T23:32:07.102Z
+date: 2022-09-04T20:18:05.096Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T21:03:15.791Z
@@ -23,11 +23,11 @@ resp. budeme mít. Zatím tvoříme nějakou osnovu, aby se měli případní p�
 <br>
 
 ### Vychytávky
-- [:world_map: Tisknutí vlastní mapy *Jaké jsou možnosti tisku vlastní mapy např. na dvoudenku tak, aby nad tím člověk nestrávil hodiny času?*](/map2print)
+- [:world_map: Tisknutí vlastní mapy *Jaké jsou možnosti tisku vlastní mapy např. na dvoudenku tak, aby nad tím člověk nestrávil hodiny času?*](map2print)
 {.links-list}
 
 <br>
 
 ### Provozní záležitosti
-- [:potable_water: Voda ve srubu *Kde se bere vode z hadic ve srubu? Jak funguje celá soustava pro provoz? Jaké mohou nastat problémy a jak je řešit? Tady vše odpovíme!*](/voda_srub)
+- [:potable_water: Voda ve srubu *Kde se bere vode z hadic ve srubu? Jak funguje celá soustava pro provoz? Jaké mohou nastat problémy a jak je řešit? Tady vše odpovíme!*](voda_srub)
 {.links-list}
