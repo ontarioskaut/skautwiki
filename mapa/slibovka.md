@@ -2,7 +2,7 @@
 title: Slibovka
 description: Slibová louka, zkráceně Slibovka.
 published: true
-date: 2022-09-04T22:05:42.444Z
+date: 2022-09-04T22:08:46.744Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-03T17:37:37.303Z
@@ -22,5 +22,8 @@ Slibová louka, zkráceně slibovka, sousedí s loukou dolního tábořiště, H
 <h2>Tábořiště</h2>
 <p>
   Kvůli rozdělení mnohých oddílů začalo mít středisko problém s prostorem na tábořištích. Proto se v roce 2021 rozhodlo zde vytovřit třetí tábořiště. Tento akt se shledal s nesouhlasem u oddílů, jelikož byla Slibová louka hojně využívána k aktivitám i k průchodu dál a obě možnosti byly zablokovány. Na Slibovce se spí ve stanech Zubr. Další přístřešky tvoří rozkládací jídelna a plátěná střecha kuchyně. <br>
-  V prvních dvou letech, zejména z kapacitních důvodů a kvůli nesouhlasu oddílů, tuto louku využívaly pouze tábory rodinek.
+  V prvních dvou letech (2021–2022), zejména z kapacitních důvodů a kvůli nesouhlasu oddílů, tuto louku využívaly pouze tábory rodinek.
  </p>
+ 
+>  Doplnit fotky, časem provázat odkazy místa zmíněná v prvním odstavci. Až budou fungovat [kronikomapy](/interni/jak_psat_stranky/kronikomapy), tak vložit.
+{.is-warning}
