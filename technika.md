@@ -2,7 +2,7 @@
 title: Technika a IT
 description: 
 published: true
-date: 2022-09-04T20:18:05.096Z
+date: 2022-09-04T21:59:49.477Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T21:03:15.791Z
@@ -12,7 +12,7 @@ dateCreated: 2022-08-16T21:03:15.791Z
 Vítej v našem technickém koutku, kde se můžeme společně sdílet různé zlepšováky, rady a triky z této oblasti, které by se daly dále použít v naší činnosti. 
 
 > Ať už jde o megaúžasný projekt, vychytávku, maličkost či jen třeba radu (technického rázu), co si myslíš, že by mohla usnadnit práci ostatním nejemn okolo věcí skautských, naváhej a poděl se s námi! Vše je vítáno!
-Více nalezneš na stránce [Chci se podílet](/chci_se_podilet).
+Více nalezneš na stránce [Chci se podílet](/owiki/chci_se_podilet).
 {.is-info}
 
 <br>
