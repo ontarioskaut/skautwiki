@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-09-03T23:32:17.591Z
+date: 2022-09-04T22:02:11.977Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -93,3 +93,9 @@ Tady budou všechny možné odkazy ke všem oddílům, ať je vše dohromady a p
 {.links-list}
 - [<i class="fa-brands fa-facebook" style="color: #4267B2;"></i> SkautFórum - Zlínsko *https://www.facebook.com/groups/112268232784472* ](https://www.facebook.com/groups/112268232784472)
 {.links-list}
+
+<br>
+
+> Chybí zde něco? Ozvi se nám buď do komentu, nebo se sám/sama staň editorem. Více na [Chci se podílet](/owiki/chci_se_podilet)
+{.is-info}
+
