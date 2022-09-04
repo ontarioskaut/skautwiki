@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2022-09-04T20:13:08.687Z
+date: 2022-09-04T20:21:20.730Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -34,15 +34,15 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 
 
 ## O wiki
-- [:question: Proč tato stránka vznikla? *Informace o této stránce samotné a jejím účelu*](/ucel_stranky)
+- [:question: Proč tato stránka vznikla? *Informace o této stránce samotné a jejím účelu*](/owiki/ucel_stranky)
 - [:busts_in_silhouette: Náš tým *Kdo se podílí na obsahu wiki*](/tym)
 {.links-list}
 
 <br>
 
 ## Technické záležitosti
-- [:memo: Chci se podílet na obsahu *Tvá pomoc bude vždy vítána*](/chci_se_podilet)
-- [:envelope: Kontakt na správce *Něco nefunguje, jak by mělo? Dej nám vědět!*](/kontakt_spravce)
+- [:memo: Chci se podílet na obsahu *Tvá pomoc bude vždy vítána*](/owiki/chci_se_podilet)
+- [:envelope: Kontakt na správce *Něco nefunguje, jak by mělo? Dej nám vědět!*](/owiki/kontakt_spravce)
 {.links-list}
 
 
