@@ -2,7 +2,7 @@
 title: Jak psát stránky
 description: Návod, jak na samotné vytvoření a editaci stránek
 published: true
-date: 2022-09-04T19:51:47.774Z
+date: 2022-09-04T21:31:49.231Z
 tags: interní, návody
 editor: markdown
 dateCreated: 2022-08-11T21:29:06.266Z
@@ -23,7 +23,7 @@ V tomto návodu si vysvětlíme, jak vytvářet a upravovat stránky v tomto sof
 * Wikistránky jsou navzájem protkané hromadou odkazů. Pokud člověk nenarazí na odkaz, tak se ke stránce bez vyhledávání prostě nedostane. Na hlavní témata tedy dávejte odkazy na hlavní stránku a na ostatnícch stránkách odkazy opět nešetřete. Nebojte se vytvářet i odkazy na neexistující stránky v rámci wiki, pomohou jako počáteční impulz k jejich vytvoření
 * Pokud vidíte červený odkaz na dosud nevytvořenou stránku a máte co napsat, napište to. Nemusí to být kompletní, stačí něco. Až bude stránka kompletní, zveřejní se
 * Nebojte se komunikovat. Pokud víte, že někdo něco ví o zajímavém tématu, zkuste mu nabídnout možnost jej sem napsat. Zároveň pokud sami nestíháte, zkuste oslovit někoho, kdy by stránku mohl dopsat za vás. Wiki je od spolupráce, na jedné stránce může pracovat hned několik lidí.
-* Pokud by se hodila do stránky mapa s vlastními prvky, jsou tady [kronikomapy](/kronikomapy)
+* Pokud by se hodila do stránky mapa s vlastními prvky, jsou tady [kronikomapy](/technika/kronikomapy)
 * Používejte více nadpisů, podnadpisů a dalších úrovní, protože podle nich se vytváří obsah
 * Sdílejte své nápady :-)
 * **O psaní v Markdownu více [na této stránce](markdown)**
