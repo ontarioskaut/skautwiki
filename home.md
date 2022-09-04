@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2022-09-04T20:26:40.181Z
+date: 2022-09-04T20:28:33.235Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -10,7 +10,7 @@ dateCreated: 2022-08-05T23:15:55.710Z
 
 # Vítejte na wiki 6. skautského střediska
 
-Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké informace o historii, současnosti a různých vychytávkách. Pokud tě napadá něco k přidání, nebo by ses chtěl/a podílet na obsahu této wiki, jsi vítán/a. Více informací o podílení se na odsahu nalezneš na stránce [chci se podílet](chci_se_podilet). 
+Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké informace o historii, současnosti a různých vychytávkách. Pokud tě napadá něco k přidání, nebo by ses chtěl/a podílet na obsahu této wiki, jsi vítán/a. Více informací o podílení se na odsahu nalezneš na stránce [chci se podílet](/owiki/chci_se_podilet). 
 
 ## Témata
 - [:hourglass: Historie *Čas plyne jak voda. Pojďme si udělat celostřediskovou interaktivní kroniku.*](/historie)
