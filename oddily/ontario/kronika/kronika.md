@@ -2,7 +2,7 @@
 title: Kronika oddílu Ontario
 description: Informace ke kronice a rozcestí pro články
 published: true
-date: 2022-09-06T18:22:45.819Z
+date: 2022-09-06T18:23:53.531Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:22:04.647Z
@@ -16,7 +16,7 @@ Kronika oddílu Ontario je, jak již název napovídá, sborník zápisů z jedn
 
 ### 2017/18
 
-- [Úvodní slovo](oddily/ontario/kronika/uvod_17)
+- [Úvodní slovo](uvod_17)
 {.links-list}
 
 ## O Kronice
