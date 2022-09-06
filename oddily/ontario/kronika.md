@@ -2,7 +2,7 @@
 title: kronika
 description: 
 published: true
-date: 2022-09-06T19:11:06.043Z
+date: 2022-09-06T19:26:40.486Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
@@ -119,6 +119,8 @@ Kronika oddílu Ontario je, jak již název napovídá, sborník zápisů z jedn
 - [Společná výprava](spolecna_22)
 {.links-list}
 - [Frajerské čistění břehů Dřevnice](drevka_22)
+{.links-list}
+- [Gingova výprava Pálavou](palava_22)
 {.links-list}
 - [Družinová výprava Kanců](druzinovka_kanci_22)
 {.links-list}
