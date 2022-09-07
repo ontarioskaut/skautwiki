@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2022-09-07T12:39:43.575Z
+date: 2022-09-07T12:41:00.325Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -35,7 +35,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 
 ## O wiki
 - [:question: Proč tato stránka vznikla? *Informace o této stránce samotné a jejím účelu*](/owiki)
-- [:busts_in_silhouette: Náš tým *Kdo se podílí na obsahu wiki*](/tym)
+- [:busts_in_silhouette: Náš tým *Kdo se podílí na obsahu wiki*](/owiki/tym)
 {.links-list}
 
 <br>
