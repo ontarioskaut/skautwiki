@@ -2,7 +2,7 @@
 title: kronika
 description: 
 published: true
-date: 2022-09-06T19:26:40.486Z
+date: 2022-09-07T13:14:55.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
@@ -17,27 +17,16 @@ Kronika oddílu Ontario je, jak již název napovídá, sborník zápisů z jedn
 ### 2017/18
 
 - [Úvodní slovo](uvod_17)
-{.links-list}
 - [Zahajovací výprava](zahajovacka_17)
-{.links-list}
 - [Kovbojova výprava](kovboj_17)
-{.links-list}
 - [Vánoční výprava - Western](vanocka_17)
-{.links-list}
 - [Betlémské světlo](betlemske_svetlo_17)
-{.links-list}
 - [Filmfest](filmfest_18)
-{.links-list}
 - [Společná výprava - Návštšnvíci](spolecna_17)
-{.links-list}
 - [Čištění břehů Dřevnice](drevnice_18)
-{.links-list}
 - [Výprava do sudet](sudety_18)
-{.links-list}
 - [Družinová výprava Kanců](druzinovka_kanci_18)
-{.links-list}
 - [Družinová výprava Medojedů](druzinovka_medojedu_18)
-{.links-list}
 - [Tábor - Synové západu](tabor_18)
 {.links-list}
 
