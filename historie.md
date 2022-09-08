@@ -2,7 +2,7 @@
 title: Historie
 description: 
 published: true
-date: 2022-09-08T13:21:25.276Z
+date: 2022-09-08T13:46:00.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T14:10:37.610Z
@@ -14,5 +14,6 @@ dateCreated: 2022-09-01T14:10:37.610Z
 
 - [:latin_cross: Modlitební místa *Pojďme spolu zmapovat místa současná a minulá*](modlitebni_mista)
 - [:book: Historie střediska *Krátký vhled do historie střediska*](stredisko_historie_01)
+- [:house: Historie srubu *Stavba srubu a malý přehled stavební činnosti střediska*](historie_srub_web)
 {.links-list}
 
