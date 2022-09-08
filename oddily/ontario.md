@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-09-08T10:22:57.743Z
+date: 2022-09-08T10:23:14.274Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -37,6 +37,7 @@ Vznik
 Merch
 
 Ani oddíl Ontario se nebál vytvořit svou vlastní kolekci nejen oblečení. Hned během prvního roku vzniklo prnví verze třička a oddílové rozšíření hry Bang. Již 
+<a href="https://ontarioskaut.wixsite.com/ontario/kontakty">koupit</a>. 
 
 > jakože musí se to komplet dodělat a toto je nástřel kostry
 {.is-warning}
