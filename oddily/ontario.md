@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-09-07T13:28:12.024Z
+date: 2022-09-08T09:20:40.752Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -13,7 +13,7 @@ dateCreated: 2022-09-06T18:29:08.803Z
 51. oddíl skautů Ontario vznikl roku 2018. Členové jsou chlapci ve věku mezi 11 a 14 lety. 
 
 - [:book: Kronika *oddílová kronika z akcí*](/kronika)
-- [:clock: Narativní historie *shrnutí jednotlivých let oddílu*](/nart_historie)
+- [:hourglass: Narativní historie *shrnutí jednotlivých let oddílu*](/nart_historie)
 {.links-list}
 
 
