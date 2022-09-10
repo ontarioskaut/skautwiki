@@ -2,7 +2,7 @@
 title: Narativní historie
 description: 
 published: true
-date: 2022-09-06T17:54:26.767Z
+date: 2022-09-10T09:14:02.258Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T17:54:26.767Z
@@ -16,6 +16,8 @@ Historie oddílu Ontario je velice bohatá a každý rok se stane nepřeberné m
 
 > Zde by se měly nacházet obrázky z webu. Měly by.
 {.is-info}
+
+![prvni_zminka_ontario.webp](/obrazky/prvni_zminka_ontario.webp =100x)
 
 ## 2017
 
