@@ -2,7 +2,7 @@
 title: Odborky
 description: Poznámky a nápady k odborkám
 published: true
-date: 2022-09-11T22:13:25.287Z
+date: 2022-09-11T22:13:52.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T21:42:33.675Z
@@ -16,7 +16,7 @@ Ačkoliv ne ve všech oddílech našeho střediska se odborky plní a dávají d
 Oficiální stránka s odborkami je: [https://odborky.skaut.cz](https://odborky.skaut.cz)
 ## Seznam odborek
 ### Umělecké
-- [<i class="fa-duotone fa-masks-theater"></i> Divadelník/Divadelnice](divadenik)
+- [<i class="fa-regular fa-masks-theater"></i> Divadelník/Divadelnice](divadenik)
 - [Fotograf/Fotografka](fotograf)
 - [Muzikant/Muzikantka](muzikant)
 - [Umělec přírody/Umělkyně přírody](umelec_prirody)
