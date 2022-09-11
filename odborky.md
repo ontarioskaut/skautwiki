@@ -2,7 +2,7 @@
 title: Odborky
 description: Poznámky a nápady k odborkám
 published: true
-date: 2022-09-11T22:08:17.489Z
+date: 2022-09-11T22:10:17.400Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T21:42:33.675Z
@@ -13,6 +13,7 @@ Ačkoliv ne ve všech oddílech našeho střediska se odborky plní a dávají d
 > Pokud máš s nějakou odborkou zkušenosti jak z pohledu člena, tak vedoucího/patrona, poděl se s námi! Budeme rádi :heart:
 {.is-info}
 
+Oficiální stránka s odborkami je: [https://odborky.skaut.cz](https://odborky.skaut.cz)
 ## Seznam odborek
 ### Umělecké
 - [Divadelník/Divadelnice](divadenik)
