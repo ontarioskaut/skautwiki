@@ -2,7 +2,7 @@
 title: Náš tým
 description: Hlavní tvůrci naší wikipedie
 published: true
-date: 2022-09-11T16:34:56.043Z
+date: 2022-09-11T16:35:19.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-05T19:49:50.949Z
