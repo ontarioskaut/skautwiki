@@ -2,7 +2,7 @@
 title: Náš tým
 description: Hlavní tvůrci naší wikipedie
 published: true
-date: 2022-09-05T19:49:50.949Z
+date: 2022-09-11T16:34:56.043Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-05T19:49:50.949Z
@@ -13,11 +13,17 @@ Po shlédnutí některých článků čtenáře zajisté zajímá, kdo se o tyto
 
 ## Übermensch
 
-#### Pavel Pernička
+#### Hruška (Pavel Pernička)
 
 Sám sebe na svých stránkách charakterizoval jako mladého středoškoláka se zájmem o počítače, elektroniku a počasí, který jen tak mimochodem vede ve skautském oddíle. Jeho okolí by takto skromná slova rozhodně nepoužilo. Jeho znalosti meteorologie jsou úplně mimo úroveň ostatních, takže je ani netřeba rozebírat. V informatických dovednostech asi postačí, když se dozvíte, že tyto stránky kompletně vytvořil právě on.
 
 ## Obyčejný autorský pleb
 
-#### Napoleon
+#### Napoleon (Vojtěch Mikulášek)
 Každý projekt potřebuje člověka, který přináší nové (vpravdě ne vždy realizovatelné) nápady a povznáší veškeré idee do výšin. Byl to právě Napoleon, který přišel s nápadem na vytvoření interaktivní mapy a následným povýšením až do kompexního projektu. Nesmí se ale samozřejmě opomenout ani jeho autorská, výzkumně-badatelská, sběratelská, či fotografická činnost.
+
+## Wiki prokrastinátor
+
+#### Tom (Tomáš Kocián)
+
+Povinosti jsou nepříjemná, ba i pálčivá věc, a proto se jim snažíme vyhýbat. Avšak pouze Tom dokáže odkládání poviností proměnit v ušlechtilou věc - naši Wiki. Snad bych ani nepřeháněl, kdybych tvrdil, že bez něj, by byl náš projekt stále jen na papíře. Jeho přínos tomuto projektu zašel tak daleko, že má zbytek týmu strach o jeho středoškolské vzdělání. Proto není divu, že značná část obsahu, který se vám poštětstí uzřít, je právě z rukou této skovstné osoby.
