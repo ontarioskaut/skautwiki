@@ -2,7 +2,7 @@
 title: Meteorolog
 description: 
 published: true
-date: 2022-09-12T06:36:51.856Z
+date: 2022-09-12T06:37:23.475Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T22:22:21.462Z
@@ -15,7 +15,7 @@ dateCreated: 2022-09-11T22:22:21.462Z
 [PDF](https://odborky.skaut.cz/wp-content/uploads/2016/12/Pracovni-list-Meteorolog_uprava2_nahled01.pdf) | [WEB](https://odborky.skaut.cz/meteorolog/)
 </div>
 <br>
-
+.
 
 > Tady bude text
 {.is-info}
