@@ -2,7 +2,7 @@
 title: Náš tým
 description: Hlavní tvůrci naší wikipedie
 published: true
-date: 2022-09-11T16:35:19.591Z
+date: 2022-09-12T14:15:08.018Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-05T19:49:50.949Z
@@ -26,4 +26,4 @@ Každý projekt potřebuje člověka, který přináší nové (vpravdě ne vžd
 
 #### Tom (Tomáš Kocián)
 
-Povinosti jsou nepříjemná, ba i pálčivá věc, a proto se jim snažíme vyhýbat. Avšak pouze Tom dokáže odkládání poviností proměnit v ušlechtilou věc - naši Wiki. Snad bych ani nepřeháněl, kdybych tvrdil, že bez něj, by byl náš projekt stále jen na papíře. Jeho přínos tomuto projektu zašel tak daleko, že má zbytek týmu strach o jeho středoškolské vzdělání. Proto není divu, že značná část obsahu, který se vám poštětstí uzřít, je právě z rukou této skovstné osoby.
+Povinnosti jsou nepříjemná, ba i pálčivá věc, a proto se jim snažíme vyhýbat. Avšak pouze Tom dokáže odkládání povinností proměnit v ušlechtilou věc - naši Wiki. Snad bych ani nepřeháněl, kdybych tvrdil, že bez něj, by byl náš projekt stále jen na papíře. Jeho přínos tomuto projektu zašel tak daleko, že má zbytek týmu strach o jeho středoškolské vzdělání. Proto není divu, že značná část obsahu, který se vám poštětstí uzřít, je právě z rukou této skovstné osoby.
