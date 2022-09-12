@@ -1,8 +1,8 @@
 ---
-title: Meteorolog
+title: Odborka Meteorolog
 description: 
 published: true
-date: 2022-09-12T06:37:23.475Z
+date: 2022-09-12T06:38:35.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T22:22:21.462Z
