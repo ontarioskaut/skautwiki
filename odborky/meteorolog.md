@@ -2,7 +2,7 @@
 title: Odborka Meteorolog
 description: 
 published: true
-date: 2022-09-12T08:42:10.609Z
+date: 2022-09-12T08:43:43.966Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T22:22:21.462Z
@@ -18,4 +18,5 @@ dateCreated: 2022-09-11T22:22:21.462Z
 .
 
 > Odborku si u mě plní Tygr, takže jsem vypracoval [takovou tabulku](https://docs.google.com/spreadsheets/d/1QLf9WEBkbGvA229yAncPL01ldfzbPbbyd3qgiuG59Og/edit?usp=drivesdk), kde je jsem blíže definoval body z části Dokaž to. Celkově mi zadání příjde dost nekonkrétní.
+> Časem tady některé poznámky více rozeberu a přibude možná i pohled z Tygrovy strany.
 > – Hruška
