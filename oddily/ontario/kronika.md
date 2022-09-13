@@ -2,7 +2,7 @@
 title: kronika
 description: 
 published: true
-date: 2022-09-07T13:16:06.880Z
+date: 2022-09-13T18:23:40.654Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
@@ -81,7 +81,7 @@ Kronika oddílu Ontario je, jak již název napovídá, sborník zápisů z jedn
 - [Gingova výprava Pálavou](palava_22)
 - [Družinová výprava Kanců](druzinovka_kanci_22)
 - [Družinová výprava Medojedů](druzinovka_medojedu_22)
-- [Družinová výprava Lachtanů](druzinovka_medojedu_22)
+- [Družinová výprava Lachtanů](druzinovka_lachtnu_22)
 - [Tábor - Chin Long](tabor_22)
 {.links-list}
 
