@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2022-09-12T06:34:07.292Z
+date: 2022-09-13T18:13:14.588Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -17,6 +17,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:soccer: Aktivity & hry *Nějaké specialitky, co se osvědčily a chceme se o ně podělit*](/aktivity_hry)
 - [:star: Odborky *Různé poznámky k odborkám*](/odborky)
 - [:wrench: Technika a IT *Vše okolo techniky*](/technika)
+- [:house: Ubytování *Zajímavé možnosti ubytování na akce*](/technika)
 {.links-list}
 
 
