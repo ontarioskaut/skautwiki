@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-09-13T17:59:32.656Z
+date: 2022-09-13T18:02:12.205Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -28,6 +28,7 @@ Tady budou všechny možné odkazy ke všem oddílům, ať je vše dohromady a p
 {.is-info}
 
 - [Fotky Zonerama *https://eu.zonerama.com/ontario/948617*](https://eu.zonerama.com/ontario/948617)
+- [<i class="fa fa-brands fa-youtube" style="color: #FF0000"></i> Youtube](https://www.youtube.com/channel/UCmmVK8irfTb-h6jh8r2edlA)
 {.links-list}
 
 <br>
