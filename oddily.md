@@ -2,7 +2,7 @@
 title: Oddíly
 description: 
 published: true
-date: 2022-09-08T13:54:44.280Z
+date: 2022-09-13T17:45:12.410Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:10:48.624Z
@@ -11,14 +11,14 @@ dateCreated: 2022-09-07T13:10:48.624Z
 # Oddíly
 
 6. skautské středisko Zlín momentálně disponuje 12 oddíly.
-- Kategorie Benjamíci - Slůňata
-- Kategorie Světlušky - Berušky a Světlušky
-- Katogerie Vlčata - Vlčata a Štěňata
-- Kategorie Skautky - Medvědice a Artemis
-- Kategorie Skauti - [Ontario](/oddily/ontario) a Antares
-- Kategorie R&R - Albion
-- Oddíl Oldskautů
-- Oddíl rodinného skautingu
+- Kategorie Benjamíci - [Slůňata](slunata)
+- Kategorie Světlušky - [Berušky](berusky) a [Světlušky](svetlusky)
+- Katogerie Vlčata - [Vlčata](vlcata) a [Štěňata](stenata)
+- Kategorie Skautky - [Medvědice](medvedice) a [Artemis](artemis)
+- Kategorie Skauti - [Ontario](ontario) a [Antares](antares)
+- Kategorie R&R - [Albion](albion)
+- Oddíl [Oldskautů](oldskauti)
+- Oddíl [rodinného skautingu](rodinky)
 
 
 ## Historický vývoj oddílů
@@ -33,7 +33,7 @@ První chlapecký oddíl pro skauty byl ve středisku už od obnovení činnosti
 ### Rozrůstání počtu oddílů
 
 Z důvodu neustálého rozrůstání členské základy 6. střediska (za podpory případných názorových nesouhlasů uvnitř vedení) byly postupně všechny hlavní kategorie nuceny vytvořit druhý paralerní oddíl. Velikost oddílu je částečně omezená počtem 20 stanů na tábořišti (z nichž je ještě nutné mít jeden vyhrazen jako Zdravoťák). Navíc je vyšší počet problematičtější při organizaci víkendových výprav a výrazně omezuje možnosti individuálního přístupu.
-Nejdříve se tak stalo o prázdninách roku 2018, kdy se od oddílu Antares oddělil oddíl Ontario. (Popis můžete najít také v [kronice](/oddily/ontario/kronika/uvod_17)). Situace se částečně uklidnila a zbytek oddílu očekával vývoj situace. Poté následovalo vytvoření tří nových paralerních oddílů v průběhu tří let. Roku 2020 vznikl oddíl v kategorii světlušek pojmenovaný Berušky. Následujícího roku vznikl oddíl skautek - Artemis. Vlčata se svému rozdělení velice bránila, i přesto již neměli možnost pojmout přísun nových členů. Proto vznikl mírně pokusný oddíl nazvaný Štěňata, který nepřebíral žádné stávající členy z oddílu Vlčat, pouze nové příchozí z benjamínků. 
+Nejdříve se tak stalo o prázdninách roku 2018, kdy se od oddílu Antares oddělil oddíl Ontario. (Popis můžete najít také v [kronice](ontario/kronika/uvod_17)). Situace se částečně uklidnila a zbytek oddílu očekával vývoj situace. Poté následovalo vytvoření tří nových paralerních oddílů v průběhu tří let. Roku 2020 vznikl oddíl v kategorii světlušek pojmenovaný Berušky. Následujícího roku vznikl oddíl skautek - Artemis. Vlčata se svému rozdělení velice bránila, i přesto již neměli možnost pojmout přísun nových členů. Proto vznikl mírně pokusný oddíl nazvaný Štěňata, který nepřebíral žádné stávající členy z oddílu Vlčat, pouze nové příchozí z benjamínků. 
 
 > ještě old skauty a rodinky.
 {.is-info}
