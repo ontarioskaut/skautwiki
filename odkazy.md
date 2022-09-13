@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-09-04T22:02:11.977Z
+date: 2022-09-13T17:59:32.656Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -27,12 +27,17 @@ Tady budou všechny možné odkazy ke všem oddílům, ať je vše dohromady a p
 > Reddit je uzavřený, aby na něj nehleděli náhodní lidé mimo středisko. Pokud chceš přístup, musíš být na redditu přihlášený a musíš požádat o přístup.
 {.is-info}
 
+- [Fotky Zonerama *https://eu.zonerama.com/ontario/948617*](https://eu.zonerama.com/ontario/948617)
+{.links-list}
+
 <br>
 
 ## Medvědice
 - [<i class="fa fa-globe"></i> Stránky *http://medvedice.zlin6.cz*](http://medvedice.zlin6.cz)
 {.links-list}
 - [<i class="fa fa-brands fa-instagram" style="color: #C13584"></i> Instagram *@medvedice52zlin*](https://www.instagram.com/medvedice52zlin/)
+- [Fotky Rajče *https://52medvedice.rajce.idnes.cz*](https://52medvedice.rajce.idnes.cz)
+- [<i class="fa fa-brands fa-youtube" style="color: #FF0000"></i> Youtube](https://www.youtube.com/channel/UCqvIIudDMmduujEu7HNmpAQ)
 {.links-list}
 
 <br>
