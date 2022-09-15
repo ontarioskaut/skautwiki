@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-09-13T18:05:52.231Z
+date: 2022-09-15T15:44:07.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -27,7 +27,7 @@ Tady budou všechny možné odkazy ke všem oddílům, ať je vše dohromady a p
 > Reddit je uzavřený, aby na něj nehleděli náhodní lidé mimo středisko. Pokud chceš přístup, musíš být na redditu přihlášený a musíš požádat o přístup.
 {.is-info}
 
-- [Fotky Zonerama *https://eu.zonerama.com/ontario/948617*](https://eu.zonerama.com/ontario/948617)
+- [Fotky Zonerama *https://eu.zonerama.com/ontario*](https://eu.zonerama.com/ontario/1063884)
 - [<i class="fa fa-brands fa-youtube" style="color: #FF0000"></i> Youtube](https://www.youtube.com/channel/UCmmVK8irfTb-h6jh8r2edlA)
 {.links-list}
 
