@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-09-13T17:41:35.158Z
+date: 2022-10-10T06:43:20.015Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -22,21 +22,36 @@ dateCreated: 2022-09-06T18:29:08.803Z
 {.is-info}
 
 
-Cíle a aktivity
+## Cíle a aktivity
 
-Aktuální vedení
 
-Bývalé vedení
 
-Družiny
+## Aktuální a bývale vedení
+
+Od září roku 2021 je vůdcem oddílu David Bush Holík. Jeho zástupcem je Matěj Škarka. Tuto roli převzali po Janu Homerovi Riedlovi, respektive Lukášovi Lubášovi Machalíkovi, kteří oddíl vedli od jeho vzniku v roce 2017. Po odstoupení z funkce i oddílu se rozhodli přejít do vyšších pozic a nyní se angažují v rámci fungování střediska.
+Je dobré ale upozornit, že Lubáš dělal zástupce a hospodáře již několik let před vznikem samotného oddílu.
+
+
+
+## Družiny
+
+Oddíl Ontario vznikl se dvěmi družinami - Kanci a Medojedy. Tak tomu bylo až do roku 2021 kdy vznikla třetí družina - Lachtani.
+
+Ve vedení Medojedů začínal Vojtěch Rychlonožka Palíšek spolu s Vojtou Radarem Brhelem, u Kanců Bush s Matějem. V září 2019 se Kanců ujal Tuty a Tom, Medojedů Napoleon a Drak. Prvními rádci družiny Lachtanů byl Hruška a Kuba.
+
+Logo si družina navrhovala sama a zobrazuje tlapu medojeda snažící se dosáhnout k nádobě s medem. Tato nádoba značí cíle a hodnoty. Natažená tlapa pak odvahu a odhodlání těchto hodnot dosáhnout.
+Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. 
+
 
 Vývoj počtu členů
 
+Vývoj oddílové rady
+
 Vznik
 
-Merch
+## Merch
 
-Ani oddíl Ontario se nebál vytvořit svou vlastní kolekci nejen oblečení. Hned během prvního roku vzniklo prnví verze třička a oddílové rozšíření hry Bang. Již 
+Ani oddíl Ontario se nebál vytvořit svou vlastní kolekci nejen oblečení. Hned během prvního roku vzniklo prnví verze třička a oddílové rozšíření hry Bang. Postupně se merch rozšířil o mikinu a s jistým odstupem, následovala druhá verze trička i mikiny.  
 <a href="https://ontarioskaut.wixsite.com/ontario/kontakty">koupit</a>. 
 
 > jakože musí se to komplet dodělat a toto je nástřel kostry
