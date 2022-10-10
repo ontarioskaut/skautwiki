@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-10-10T06:43:20.015Z
+date: 2022-10-10T06:44:40.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -39,8 +39,12 @@ Oddíl Ontario vznikl se dvěmi družinami - Kanci a Medojedy. Tak tomu bylo až
 
 Ve vedení Medojedů začínal Vojtěch Rychlonožka Palíšek spolu s Vojtou Radarem Brhelem, u Kanců Bush s Matějem. V září 2019 se Kanců ujal Tuty a Tom, Medojedů Napoleon a Drak. Prvními rádci družiny Lachtanů byl Hruška a Kuba.
 
+### Loga
+
 Logo si družina navrhovala sama a zobrazuje tlapu medojeda snažící se dosáhnout k nádobě s medem. Tato nádoba značí cíle a hodnoty. Natažená tlapa pak odvahu a odhodlání těchto hodnot dosáhnout.
-Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. 
+Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. Lachtani si jako symbol zvolili své zvíře svírající v ruce sekeru. 
+
+### Vznik jmen
 
 
 Vývoj počtu členů
