@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-10-10T06:44:40.511Z
+date: 2022-10-10T06:45:24.476Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -42,7 +42,7 @@ Ve vedení Medojedů začínal Vojtěch Rychlonožka Palíšek spolu s Vojtou Ra
 ### Loga
 
 Logo si družina navrhovala sama a zobrazuje tlapu medojeda snažící se dosáhnout k nádobě s medem. Tato nádoba značí cíle a hodnoty. Natažená tlapa pak odvahu a odhodlání těchto hodnot dosáhnout.
-Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. Lachtani si jako symbol zvolili své zvíře svírající v ruce sekeru. 
+Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. Lachtani si jako symbol zvolili své zvíře svírající v ruce sekeru. Tento nástroj může značit vše od .....
 
 ### Vznik jmen
 
