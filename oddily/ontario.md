@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-10-10T06:45:24.476Z
+date: 2022-10-11T20:04:47.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -42,12 +42,15 @@ Ve vedení Medojedů začínal Vojtěch Rychlonožka Palíšek spolu s Vojtou Ra
 ### Loga
 
 Logo si družina navrhovala sama a zobrazuje tlapu medojeda snažící se dosáhnout k nádobě s medem. Tato nádoba značí cíle a hodnoty. Natažená tlapa pak odvahu a odhodlání těchto hodnot dosáhnout.
-Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. Lachtani si jako symbol zvolili své zvíře svírající v ruce sekeru. Tento nástroj může značit vše od .....
+Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou vpřed. Odvahou v širším smyslu, tedy také s odvahou k obhajobě Pravdy nebo odvahy posouvat se v životě stále kupředu. Lachtani si jako symbol zvolili své zvíře svírající v ruce sekeru. Tento nástroj může značit vše od snahy pro vytváření lepšího světa až po agresivní sklony. Zamýšlený záměr není znám v celé jeho šíři.
 
 ### Vznik jmen
 
 
-Vývoj počtu členů
+
+## Vývoj počtu členů
+
+Oddíl začínal s pouhými 14 členy (což bylo zapříčiněno rozdělením od oddílu Antares)
 
 Vývoj oddílové rady
 
@@ -55,7 +58,8 @@ Vznik
 
 ## Merch
 
-Ani oddíl Ontario se nebál vytvořit svou vlastní kolekci nejen oblečení. Hned během prvního roku vzniklo prnví verze třička a oddílové rozšíření hry Bang. Postupně se merch rozšířil o mikinu a s jistým odstupem, následovala druhá verze trička i mikiny.  
+Ani oddíl Ontario se nebál vytvořit svou vlastní kolekci nejen oblečení. Hned během prvního roku vzniklo prnví verze třička a oddílové rozšíření hry Bang. Postupně se merch rozšířil o mikinu a s jistým odstupem, následovala druhá verze trička i mikiny.
+Nezanedbatelnou, ovšem neprodejnou, částí vybavení jsou speciální etapové šátky (dělány pro tábor 2018 a 2020) a dřevěné motýlky.
 <a href="https://ontarioskaut.wixsite.com/ontario/kontakty">koupit</a>. 
 
 > jakože musí se to komplet dodělat a toto je nástřel kostry
