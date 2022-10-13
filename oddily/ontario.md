@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2022-10-11T20:25:39.696Z
+date: 2022-10-13T09:18:52.354Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -49,6 +49,8 @@ Kanci mají ve znaku,jak jinak, kance, směřujícího cílevědomě a s odvahou
 
 
 ## Vývoj počtu členů
+
+![vyvoj_poctu_clenu.png](/obrazky/vyvoj_poctu_clenu.png)
 
 Oddíl začínal s pouhými 14 členy (což bylo zapříčiněno rozdělením od oddílu Antares)
 
