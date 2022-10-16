@@ -2,7 +2,7 @@
 title: Gams2
 description: program Gams2 s pravidly her
 published: true
-date: 2022-10-16T20:30:45.571Z
+date: 2022-10-16T20:31:49.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T20:17:11.029Z
