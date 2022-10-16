@@ -2,7 +2,7 @@
 title: PraSe
 description: pracovní setkání
 published: true
-date: 2022-10-16T20:14:55.670Z
+date: 2022-10-16T20:33:57.863Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-16T20:14:55.670Z
@@ -22,5 +22,8 @@ Oficiálně je po nepřítomnosti na akci vyžadováno sepsání eseje nebo spl�
 Jak již bylo řečeno v prvním odstavci, akce je pro středisko  životně důležitá a většinová přítomnost vedoucích je bezpodmíněčně nutná. Mnoho jiných motivací než tlak vlastní zodpovědnosti, respektive loyalita ke Středisku, a setkávání s dalšími vedoucími tak de facto neexistuje
 
 ## Možnosti řešení
+
+## Historie
+Nějaká forma vzdělávání byla ve středisku nutná de facto odjakživa. První dochovanou zmínkou je ovšem záznam na stránkách. V době zápisu se akce konala čtyřikrát do roka.
 
 
