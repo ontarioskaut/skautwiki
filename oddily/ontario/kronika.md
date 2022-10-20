@@ -2,7 +2,7 @@
 title: kronika
 description: 
 published: true
-date: 2022-09-13T18:24:48.155Z
+date: 2022-10-20T18:01:44.489Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
