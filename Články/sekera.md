@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2022-10-31T06:59:14.430Z
+date: 2022-10-31T06:59:33.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
