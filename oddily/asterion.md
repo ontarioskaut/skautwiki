@@ -2,7 +2,7 @@
 title: Asterion
 description: paralelní oddíl pro věkovou kategorii Vlčat
 published: true
-date: 2022-10-31T07:38:21.757Z
+date: 2022-10-31T07:39:55.425Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-31T07:13:31.330Z
