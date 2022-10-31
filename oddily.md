@@ -2,7 +2,7 @@
 title: Oddíly
 description: 
 published: true
-date: 2022-09-14T07:35:23.981Z
+date: 2022-10-31T07:08:41.799Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:10:48.624Z
@@ -13,7 +13,7 @@ dateCreated: 2022-09-07T13:10:48.624Z
 6. skautské středisko Zlín momentálně disponuje 12 oddíly.
 - Kategorie Benjamíci - [Slůňata](slunata)
 - Kategorie Světlušky - [Berušky](berusky) a [Světlušky](svetlusky)
-- Katogerie Vlčata - [Vlčata](vlcata) a [Štěňata](stenata)
+- Katogerie Vlčata - [Vlčata](vlcata) a [Asterion](asterion)
 - Kategorie Skautky - [Medvědice](medvedice) a [Artemis](artemis)
 - Kategorie Skauti - [Ontario](ontario) a [Antares](antares)
 - Kategorie R&R - [Albion](albion)
