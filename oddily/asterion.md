@@ -2,7 +2,7 @@
 title: Asterion
 description: paralelní oddíl pro věkovou kategorii Vlčat
 published: true
-date: 2022-10-31T07:39:55.425Z
+date: 2022-10-31T07:43:44.022Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-31T07:13:31.330Z
@@ -13,6 +13,8 @@ dateCreated: 2022-10-31T07:13:31.330Z
 Oddíl pro věkovou kategorii vlčat vzniknuvší roku 2022.
 
 ## Vznik
+
+Oddíl Vlčat již nebyl schopný přijímat dostatečné množství nových členů. Proto se iniciativní rodiče rozhodli založit nový oddíl.
 
 ## Název
 
