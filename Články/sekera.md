@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2022-10-31T06:57:59.033Z
+date: 2022-10-31T06:59:14.430Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -52,3 +52,8 @@ Mezi neobvyklé můžeme zařadit
 ## Vítězové
 
 Jméno vítězné družiny je tradičně vypáleno lupou na topůrko sekery. Vítězi jsou:
+
+- 2018 Kanci
+- 2019 nesoutěžilo se
+- 2020 Kanci
+- 2021 Kanci
