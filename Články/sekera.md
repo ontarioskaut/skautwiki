@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2022-10-31T06:55:32.979Z
+date: 2022-10-31T06:57:59.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -39,12 +39,15 @@ Mezi klasické patří:
 
 Mezi obvyklé patří také
 
+- znalost kroje
 - přepalování provázku
 - buzola
 - odhad
 - řezání pilou / sekání sekerou (popřípadě zatloukání hřebíků)
 
+Mezi neobvyklé můžeme zařadit
 
+- úkoly na spolupráci (viz. dotkni se stromu co nejvýše)
 
 ## Vítězové
 
