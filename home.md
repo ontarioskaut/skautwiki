@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2022-11-03T10:53:48.930Z
+date: 2022-11-03T10:54:32.279Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -30,7 +30,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:blue_book: Kontakty *Důležité kontakty*](/kontakty)
 - [:world_map: Mapa skautských míst *Přehled skauty pojmenovaných míst*](/mapa)
 - [:two_men_holding_hands: Oddíly *Přehled oddílů a jejich historie a vývoje*](/oddily)
-- [:: Články *Rozcestí pro další články týkající se zejména střediska*](/clanky)
+- [:: Články *Rozcestí pro další články týkající se zejména střediska*](/Články)
 {.links-list}
 
 <br>
