@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2022-11-14T06:18:17.604Z
+date: 2022-11-14T06:18:55.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -18,5 +18,5 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |Název|Cena/clověk|Info|Hodnocení|Postele|Kontakt|
 |-----|-----------|----|---------|-------|-------|
 |blablahdhdh|00kč|nevím|9/10|yes please|mail@mail.com|
-|Holešovská hájenka|50 / 100 | Přímo v zámeckém parku, přízemní budova|9/10|ne|jakub@tokaheya.cz|
-|Krčská klubovna střediska Blaník|?/?|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|ne|mail@mail.com|
+|Holešovská hájenka|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|ne|jakub@tokaheya.cz|
+|Krčská klubovna střediska Blaník|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|ne|mail@mail.com|
