@@ -2,20 +2,18 @@
 title: Odborka Horolezec
 description: 
 published: true
-date: 2022-11-17T23:06:45.846Z
+date: 2022-11-17T23:08:29.298Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-14T06:41:00.695Z
 ---
 
-# Odborka Horolezec
 <div class="headerimage">
   <img src="https://odborky.skaut.cz/wp-content/uploads/2018/06/Horolezec-250x250.png" width="100px">
   <h1>Horolezec / Horolezkyně</h1>
     
 [PDF](https://odborky.skaut.cz/wp-content/uploads/2018/06/Pracovni-list-Horolezec-uprava2_nahled021.pdf) | [WEB](https://odborky.skaut.cz/horolezec-horolezkyne/)
 </div>
-<br>
 
 Jedná se o jednu ze sporotvních odborek. Má za cíl prověřovat lezecké schopnosti uvnitř i na skalách a ověřovat některé znalosti a dovednosti, které jsou k lezení nutné.
 
