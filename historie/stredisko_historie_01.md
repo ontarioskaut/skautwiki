@@ -2,7 +2,7 @@
 title: Historie 6. skautského střediska Zlín
 description: kopie z webu
 published: true
-date: 2022-09-08T13:17:05.570Z
+date: 2022-11-17T22:26:15.187Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-08T13:17:05.570Z
@@ -11,6 +11,9 @@ dateCreated: 2022-09-08T13:17:05.570Z
 # Historie 6. skautského střediska Zlín
 
 Tým této wikipedie není první, který se pokoušel o soupis historie. Toto je přepis ze stránek <a href="http://www.zlin6.cz/?ukaz=65_kratce_z_historie&IdMenu=65&grafika=0">střediska</a>.
+> Podrobnější fakta o historii zlínského skautingu a našeho střediska jsou sepsány v [Almanachu](http://zlin6.cz/?ukaz=154__%97_rok_2020&grafika=0)
+{.is-info}
+
 
 ## 1945 až 1948
 
