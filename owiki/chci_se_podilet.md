@@ -2,7 +2,7 @@
 title: Jak se podílet na obsahu
 description: 
 published: true
-date: 2022-11-17T23:55:29.398Z
+date: 2022-11-17T23:56:06.091Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T22:01:41.527Z
@@ -14,7 +14,7 @@ Moc nás těší, že jsi zavítal na tuto stránku! Wikistránka by totiž neby
 Napadá Tě, co ti tady chybí? Chtěl/a bys něco upravit? Připoj se do našeho týmu! Když se připojíš, vůbec tě to nezavazuje k tomu, že bys musel/a pořád něco psát. Klidně můžeš přispět jen jednu drobnost, kolik toho přidáš je jen na Tobě. 
 
 ## Jakto, že nemůžu psát komentáře?!
-Aby nám tady nevandalizovali náhodní kolemjdoucí, zavedli jsme v komentářích restrikce. Jelikož psaní komentářů je primárně pro skauty z našeho střediska, je vyžadováno založení účtu přes střediskovou emailovou adresu. Jak se registrovat najdeš na stránce [Uživatelské účty](uzivatelske_ucty).
+Aby nám tady nevandalizovali náhodní kolemjdoucí, zavedli jsme v komentářích restrikce. Jelikož psaní komentářů je primárně pro skauty z našeho střediska, je vyžadováno založení účtu přes střediskovou emailovou adresu. Jak se registrovat najdeš na stránce [../Uživatelské účty](uzivatelske_ucty).
 
 Jsi člen, který nemá střediskový email? Nevadí! Neváhej se obrátit na někoho z [realizačního týmu](kontakt_spravce).
 
