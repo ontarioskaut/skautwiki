@@ -2,7 +2,7 @@
 title: O wiki
 description: K čemu to vše je?
 published: true
-date: 2022-11-17T23:21:30.908Z
+date: 2022-11-17T23:27:02.975Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:26:14.142Z
@@ -19,7 +19,7 @@ Je otázka zajisté důležitá, ale možná mírně nesprávně položená. Nyn
 
 ## Pro koho to je?
 
-Čtení (ale do jisté míry dokonce i autorství) wiki je otevřené a věříme, že články budou zajímavé pro širokou veřejnost. Primární cílová skupina je ale, poměrně logicky, naše středisko, včetně jeho přátel či lidí s ním jakkoliv spjatých.
+Prohlížení je umožněno úplně všem, neboť věříme, že články budou zajímavé pro širokou veřejnost. Komentování a dokonce i autorství na naší wiki je otevřené pro skauty a skautky z našeho střediska. Primární cílová skupina je tedy, poměrně logicky, naše středisko, včetně jeho přátel či lidí s ním jakkoliv spjatých.
 
 ## Připoj se
 
