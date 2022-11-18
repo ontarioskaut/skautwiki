@@ -2,7 +2,7 @@
 title: Hájenka Holešov
 description: 
 published: true
-date: 2022-11-18T00:38:58.791Z
+date: 2022-11-18T00:56:40.377Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-18T00:38:58.791Z
@@ -20,6 +20,8 @@ dateCreated: 2022-11-18T00:38:58.791Z
 - hodně stolů a židlí
 ## Kapacita
 cca 30 lidí
+## Cena
+50-100 Kč/člověk
 ## Kontakt
 - jakub@tokaheya.cz
 - http://www.skritek.org/hajenka
