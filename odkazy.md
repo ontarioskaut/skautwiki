@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-09-15T15:44:07.042Z
+date: 2022-11-18T00:00:21.872Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -21,6 +21,7 @@ Tady budou všechny možné odkazy ke všem oddílům, ať je vše dohromady a p
 
 ## Ontario
 - [<i class="fa fa-globe"></i> Stránky *http://ontario.zlin6.cz*](http://ontario.zlin6.cz)
+- [<i class="fa fa-brands fa-instagram" style="color: #C13584"></i> Instagram *@skauti_ontario*](https://www.instagram.com/skauti_ontario/)
 - [<i class="fa-brands fa-reddit" style="color: #FF5700;"></i> Reddit *https://www.reddit.com/r/ontarioskaut*](https://www.reddit.com/r/ontarioskaut)
 {.links-list}
 
