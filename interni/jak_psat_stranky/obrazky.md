@@ -2,7 +2,7 @@
 title: Vkládání a úprava obrázků
 description: 
 published: true
-date: 2022-09-11T19:22:26.610Z
+date: 2022-11-26T12:44:10.204Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-10T09:12:44.317Z
@@ -17,6 +17,9 @@ dateCreated: 2022-09-10T09:12:44.317Z
 Pro vložení obrázku najděte vlevo ikonu "vložit objekt" Následně musíte nejdříve obrázek nahrát na uložiště (toto probíhá v právé části, nejčastěji skrz tlačítko procházet). Po výběru objektu jej nahrajete (ideálně do nějaké rozumné složky) a případně přejmenujete (vyhněte se veškeré diakritice atd., dělá to bordel).
 Po nahrání souboru stačí obrázek vložit. 
 Pokud chcete jeden obrázek použít vícekrát, stačí ho nahrát jendou a vícekrát vkládat.
+> pozor, každý obrázek může mít velikost maximálně 5 MB
+{.is-warning}
+
 
 
 ## Změna velikosti
