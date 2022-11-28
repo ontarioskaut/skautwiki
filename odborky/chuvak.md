@@ -2,7 +2,7 @@
 title: Odborka Chůvák
 description: 
 published: true
-date: 2022-11-28T06:59:44.664Z
+date: 2022-11-28T07:00:08.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-26T12:52:49.895Z
@@ -18,5 +18,5 @@ dateCreated: 2022-11-26T12:52:49.895Z
 </div>
 &nbsp;
 
-> Odborku mám na starosti, ale o její plnění zatím nikdo nepožádal. Představil jsem ji ale na výpravě
+> Odborku mám na starosti, ale o její plnění zatím nikdo nepožádal. Představil jsem ji ovšem na výpravě
 > **– Tuty**
