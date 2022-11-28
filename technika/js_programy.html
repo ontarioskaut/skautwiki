@@ -1,0 +1,29 @@
+<!--
+title: JS programy
+description: 
+published: true
+date: 2022-11-28T07:42:12.741Z
+tags: 
+editor: code
+dateCreated: 2022-11-28T07:42:12.741Z
+-->
+
+<h1>"JS Programy"</h1>
+<p>Vzhledem k tomu, že rozhraní stránek umožňuje psaní v html, lze pracovat také s javasrciptem </p>
+
+
+<input type="text" id="num1"/> +
+<input type="text" id="num2"/> =
+<input type="text" id="sum" readonly="readonly"/>
+<input type="button" value="Calculate the sum" onclick="calc()"/>
+ 
+<script>
+    function calc() {
+        let num1 = Number(document.querySelector("#num1").value);
+        let num2 = Number(document.querySelector("#num2").value);
+        let sum = num1 + num2;
+        document.getElementById("sum").value = sum;
+    }
+</script>
+
+
