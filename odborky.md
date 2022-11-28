@@ -2,7 +2,7 @@
 title: Odborky
 description: Poznámky a nápady k odborkám
 published: true
-date: 2022-11-14T06:42:21.318Z
+date: 2022-11-28T06:33:39.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-11T21:42:33.675Z
