@@ -2,7 +2,7 @@
 title: Jak psát stránky
 description: Návod, jak na samotné vytvoření a editaci stránek
 published: true
-date: 2022-12-04T23:01:56.777Z
+date: 2022-12-04T23:02:35.760Z
 tags: interní, návody
 editor: markdown
 dateCreated: 2022-08-11T21:29:06.266Z
