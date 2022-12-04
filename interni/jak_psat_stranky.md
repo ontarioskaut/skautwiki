@@ -2,7 +2,7 @@
 title: Jak psát stránky
 description: Návod, jak na samotné vytvoření a editaci stránek
 published: true
-date: 2022-09-04T21:47:01.379Z
+date: 2022-12-04T22:55:57.860Z
 tags: interní, návody
 editor: markdown
 dateCreated: 2022-08-11T21:29:06.266Z
@@ -27,3 +27,5 @@ V tomto návodu si vysvětlíme, jak vytvářet a upravovat stránky v tomto sof
 * Používejte více nadpisů, podnadpisů a dalších úrovní, protože podle nich se vytváří obsah
 * Sdílejte své nápady :-)
 * **O psaní v Markdownu více [na této stránce](markdown)**
+
+<embed type="text/html" src="https://www.meteopress.cz/kamery-embed/cam001093/" width="500" height="200">
