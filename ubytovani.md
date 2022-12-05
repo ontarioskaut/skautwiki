@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2022-11-18T01:11:18.233Z
+date: 2022-12-05T06:17:36.158Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -24,3 +24,4 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |-----|---|-----------|----|---------|--------|-------|
 |[Holešovská hájenka](hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|?|jakub@tokaheya.cz|
 |[Klubovna střediska Blaník](blanik_krc) :house: :fleur_de_lis:|Praha-Krč|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|?|mail@mail.com|
+|[Fara Ostrožská lhota](ostr_lhota) :house:|Ostrožská lhota|1500 celkem|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|?|mail@mail.com|
