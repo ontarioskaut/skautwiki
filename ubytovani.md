@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2022-12-12T06:18:07.718Z
+date: 2022-12-12T07:19:44.055Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
