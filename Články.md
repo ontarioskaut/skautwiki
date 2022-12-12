@@ -2,7 +2,7 @@
 title: Články
 description: Rozcestník pro články zejména o středisku
 published: true
-date: 2022-12-12T07:42:35.324Z
+date: 2022-12-12T07:43:52.585Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T06:11:51.972Z
