@@ -2,7 +2,7 @@
 title: Akademie
 description: Tradiční skautská akademie 6. střediska
 published: true
-date: 2022-10-17T06:10:14.555Z
+date: 2022-12-12T07:43:05.128Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T06:10:14.555Z
