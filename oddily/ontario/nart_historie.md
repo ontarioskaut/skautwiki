@@ -2,7 +2,7 @@
 title: Narativní historie
 description: 
 published: true
-date: 2022-09-13T18:21:51.374Z
+date: 2022-12-15T11:20:16.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T17:54:26.767Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-06T17:54:26.767Z
 
 # Narativní historie oddílu
 
-Historie oddílu Ontario je velice bohatá a každý rok se stane nepřeberné množství nových událostí. Jeden člen oddílové rady ovšem každý rok píše shrnutí roku <a href="https://ontarioskaut.wixsite.com/ontario/historie-odd%C3%ADlu">předešlého</a>. 
+Historie oddílu Ontario je velice bohatá a každý rok se stane nepřeberné množství nových událostí. Jeden člen oddílové rady (který nebude jmenován, dokud se nestane součástí wiki týmu) ovšem pravidělně píše shrnutí roku <a href="https://ontarioskaut.wixsite.com/ontario/historie-odd%C3%ADlu">předešlého</a>. 
 
 ## ????/2017 
 
