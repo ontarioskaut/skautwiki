@@ -2,7 +2,7 @@
 title: kronika
 description: 
 published: true
-date: 2022-11-24T16:36:42.333Z
+date: 2022-12-16T12:18:05.027Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
@@ -91,7 +91,7 @@ Kronika oddílu Ontario je, jak již název napovídá, sborník zápisů z jedn
 - [Zahajovací výprava - Holešov](zahajovacka_22)
 - [Mezidružinová soutěž](soutez_22)
 - [Teambulding vedení](teambuilding_22)
-- [Vánoční výprava - ](vanocka_22)
+- [Vánoční výprava - Alone?](vanocka_22)
 {.links-list}
 
 ## O Kronice
