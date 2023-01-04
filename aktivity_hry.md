@@ -2,7 +2,7 @@
 title: Hry a aktivity
 description: 
 published: true
-date: 2022-11-18T01:14:42.418Z
+date: 2023-01-04T15:46:02.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T19:44:18.420Z
@@ -14,6 +14,9 @@ Vymýšlet program pro každotýdenní schůzky je poměrně náročná záleži
 Naše středisko již sice má pro své vnitřní potřeby program [Gams2](/Články/gams2) s dosti obsáhlou sbírkou her, ale bohužel je poměrně složité přidat novou hru tak, aby byla viditelná pro všechny ostatní. Právě z toho důvodu existuje tato stránka, kde můžete přispět něčím novým.
 
 V ideálním případě se zde objeví receptář zajímavých jednoduchých her, vysvětlení složitějších her a aktivit (včetně přiložených materiálů) a možná i zápisy z některých schůzek, kde budou tyto aktivity poskládány za sebe v logickém pořadí a s myšlenkou. Samozřejmě vše s prostorem pro diskuzi a doplnění ostatními.
+
+
+<a href="https://docs.google.com/document/d/1SdjTYMUT4kpNh4SJ9VAWJKDgEPJCwTWbO-u5R_r6ftA/edit?usp=sharing"> random tomova blbost</a>
 
 ## Kategorie
 Špuntové hry
