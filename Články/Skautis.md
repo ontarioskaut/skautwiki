@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-05T11:07:36.557Z
+date: 2023-01-05T11:13:03.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -33,6 +33,10 @@ Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel na
 ### Hlášenka tábora
 
 ### Správa osob
+
+Je vhodné v průběhu roku udržovat aktuální databázi členů (I přesto, že teoreticky nutné je to až před registrací). Zejména v září přesunout a přijmout přestupující jedince.
+Pro přijmutí osoby v záložce "členové" otevřít tlačítko "přidat osobu". Označit možnost "existující osoba" a vyhledat ji (jméno občas dělá problémy s diakritikou a velikostí písmen).
+
 
 ### Další
 
