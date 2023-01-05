@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-05T11:14:34.574Z
+date: 2023-01-05T11:17:05.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -40,6 +40,7 @@ Je vhodné v průběhu roku udržovat aktuální databázi členů (I přesto, �
 To se dělá přes v záložce "členové" přes tlačítko "Hromadné změny členství".
 
 Pro přijmutí osoby v záložce "členové" otevřít tlačítko "přidat osobu". Označit možnost "existující osoba" a vyhledat ji (jméno občas dělá problémy s diakritikou a velikostí písmen).
+<a href="https://napoveda.skaut.cz/skautis/jednotka/clenove">více informací</a>
 
 
 ### Další
