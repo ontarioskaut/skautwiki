@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-05T11:07:20.980Z
+date: 2023-01-05T11:07:36.557Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -36,7 +36,7 @@ Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel na
 
 ### Další
 
-#### Zveřejnění na mapě oddílů
+##### Zveřejnění na mapě oddílů
 Pokud má jednotka zájem o zveřejnění na <a href="https://www.skaut.cz/mapa/?misto=">oficiální mapě oddílů</a>, musí na kartě jednotky v záložce "nábory" přidat termíny schůzek a odpovídající náborové kategorie, popřípadě poznámku a krátké představení jednotky. Oddíl tak bude dohledatelný pro zájemce.
 
 
