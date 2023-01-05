@@ -2,13 +2,13 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-05T10:30:56.863Z
+date: 2023-01-05T11:01:14.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
 ---
 
-# Skautis
+# SkautIS
 Skautis, tedy skautská informační síť, je web sloužící pro zprávu administrativu a řízení skautských jednotek. 
 
 ## Základní informace
@@ -20,11 +20,13 @@ U každé jendotky je uvedeno zařazení v celkovém systému, základní inform
 
 ## Úkoly a práce se skautisem
 Skautis je i přes neustále zdokonalování pro necvičené oko stále uživatelsky ne zcela příjemný, i přesto jsou skautští vedoucí nuceni v něm každý rok provést několik operací.
+Popis je opatřen odkazy na oficiální stránku nápovědy.
 
-Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel nastavenou správnou roli. 
+Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel nastavenou správnou roli. (Většinou tedy "Vedoucí/admin"). Role se může zdánlivě sama od sebe změnit například po přihlášení ke kurzu. Každý uživatel si může (ve svojí osobní kartě v záložce "Účet a role ve SkautISu" upravit rozbalovací nabídku jeho rolí). <a href="https://napoveda.skaut.cz/skautis/informacni-system/uzivatel/role-a-prava">více informací</a>.
 
 > doplnit obrázek
 {.is-warning}
+
 
 
 
