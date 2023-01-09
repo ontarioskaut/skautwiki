@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T07:06:07.416Z
+date: 2023-01-09T07:07:08.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -43,6 +43,7 @@ Ve třetím kroku přichází na řadu samotná registrace. Tedy vybrat registra
 Tlačítkem budou vybrané osoby zaregistrované **do vybrané registrační kategorie**. Minulé roky byly registrační kategorie jen dvě - s časopisem a bez něho. A "bez časopisu" byla výchozí, takže některé oddíly skončily na rok bez časopisů (což jim nutně nemusí vadit, ale asi to není cíl).
 <a href="https://napoveda.skaut.cz/skautis/registrace">více informací</a>
 
+(akcí se mohou účastnit
 
 ### Hlášenka tábora
 
