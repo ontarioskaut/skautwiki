@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T06:55:33.585Z
+date: 2023-01-09T07:03:16.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -39,7 +39,7 @@ V první fázi je důležité zkontrolovat základní informace. Tyto ale povět
 
 Druhým krokem je kontrola členské základy. (Mít tam jen ty, kteří plánují do skautu chodit, respektive plánují platit registraci).
 
-Ve třetím kroku přichází na řadu samotná registrace. Tedy vybrat registrační kategorii
+Ve třetím kroku přichází na řadu samotná registrace. Tedy vybrat registrační kategorii a navolit do ní osoby. Zatrhnout "přidat existující osoby" nevytvářet nové. Navíc je možné použít tlačítko "vybrat vše". 
 
 
 ### Hlášenka tábora
