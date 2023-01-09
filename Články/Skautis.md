@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T06:37:45.473Z
+date: 2023-01-09T06:52:46.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -33,11 +33,13 @@ Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel na
 
 Jedna z nejdůležitějších úloh oddílového vedení je odevzdat registraci. Vedení střediska ji má povinnost odevzdat do konce ledna, v našem středisku ji proto oddíly odevzdávají do půlky ledna a peníze se tradičeně vybírají v listopadu (aby byl dostatek času pro zevidevání).
 
-Po deadlinu pro placení je nutné v h.skautingu zkontrolovat, zda zaplatili všichni.
+Po deadlinu pro placení je nutné v h.skautingu zkontrolovat, zda zaplatili všichni a upozornit ty, kteří tak neučinili, aby tak učinili co nejdříve (v přepisování těch, kteří zaplatili, může dojít k chybám, takže je to často jen otázka upozornění).
 
 V první fázi je důležité zkontrolovat základní informace. Tyto ale povětšinou zůstávají stejné jako minulý rok (popřípadě byly změněny již dříve a navíc jdou změnit i později).
 
-Druhým krokem je kontrola členské základy. 
+Druhým krokem je kontrola členské základy. (Mít tam jen ty, kteří plánují do skautu chodit, respektive plánují platit registraci).
+
+
 
 
 ### Hlášenka tábora
