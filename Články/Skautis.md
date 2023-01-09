@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-05T11:17:15.562Z
+date: 2023-01-09T06:21:55.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -30,6 +30,9 @@ Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel na
 {.is-warning}
 
 ### Registrace
+
+Jedna z nejdůležitějších úloh oddílového vedení je odevzdat registraci. Vedení střediska ji má povinnost odevzdat do konce ledna, v našem středisku ji proto oddíly odevzdávají do půlky ledna a peníze se tradičeně vybírají v listopadu (aby byl dostatek času pro zevidevání).
+
 
 ### Hlášenka tábora
 
