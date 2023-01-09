@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T07:40:16.351Z
+date: 2023-01-09T07:43:12.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -46,7 +46,7 @@ Po registraci všech osob musí být odevzdána. Kontrola může ukázat několi
 
 <a href="https://napoveda.skaut.cz/skautis/registrace">více informací</a>
 
-(akcí se mohou účastnit
+(akcí se mohou teoreticky účastnit i lidé bez registrace, proto může být pro vedoucí bez přímé funkce téměř zbytečná. Registrací se ale stávají součástí Junáka atd.)
 
 ### Hlášenka tábora
 
