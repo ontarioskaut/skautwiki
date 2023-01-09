@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T07:03:16.245Z
+date: 2023-01-09T07:06:07.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -40,6 +40,8 @@ V první fázi je důležité zkontrolovat základní informace. Tyto ale povět
 Druhým krokem je kontrola členské základy. (Mít tam jen ty, kteří plánují do skautu chodit, respektive plánují platit registraci).
 
 Ve třetím kroku přichází na řadu samotná registrace. Tedy vybrat registrační kategorii a navolit do ní osoby. Zatrhnout "přidat existující osoby" nevytvářet nové. Navíc je možné použít tlačítko "vybrat vše". 
+Tlačítkem budou vybrané osoby zaregistrované **do vybrané registrační kategorie**. Minulé roky byly registrační kategorie jen dvě - s časopisem a bez něho. A "bez časopisu" byla výchozí, takže některé oddíly skončily na rok bez časopisů (což jim nutně nemusí vadit, ale asi to není cíl).
+<a href="https://napoveda.skaut.cz/skautis/registrace">více informací</a>
 
 
 ### Hlášenka tábora
