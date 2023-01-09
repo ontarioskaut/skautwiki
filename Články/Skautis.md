@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T07:43:12.210Z
+date: 2023-01-09T07:45:24.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -49,6 +49,8 @@ Po registraci všech osob musí být odevzdána. Kontrola může ukázat několi
 (akcí se mohou teoreticky účastnit i lidé bez registrace, proto může být pro vedoucí bez přímé funkce téměř zbytečná. Registrací se ale stávají součástí Junáka atd.)
 
 ### Hlášenka tábora
+
+S dostatečným předstihem před táborem (tedy cca 15.06.) musí být odevzdána hlášenka tábora (která je zkontrolována a až následně odeslána střediskem). Hlášenka slouží jak oficiálním složkám jako Hygienické stanici, v horším případě policii, tak Junáku.
 
 ### Správa osob
 
