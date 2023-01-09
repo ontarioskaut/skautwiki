@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T06:23:46.488Z
+date: 2023-01-09T06:32:33.992Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -33,7 +33,7 @@ Před začátkem jakékoli práce je nutné si zkontrolovat, zda má uživtel na
 
 Jedna z nejdůležitějších úloh oddílového vedení je odevzdat registraci. Vedení střediska ji má povinnost odevzdat do konce ledna, v našem středisku ji proto oddíly odevzdávají do půlky ledna a peníze se tradičeně vybírají v listopadu (aby byl dostatek času pro zevidevání).
 
-V první fázi je důležité zkontrolovat
+V první fázi je důležité zkontrolovat základní informace. Tyto ale povětšinou zůstávají stejné jako minulý rok (popřípadě byly změněny
 
 
 ### Hlášenka tábora
