@@ -2,7 +2,7 @@
 title: Modlitební místa
 description: 
 published: true
-date: 2023-01-12T16:48:18.069Z
+date: 2023-01-12T16:55:08.613Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T19:52:49.316Z
