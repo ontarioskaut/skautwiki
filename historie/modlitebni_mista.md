@@ -2,7 +2,7 @@
 title: Modlitební místa
 description: 
 published: true
-date: 2023-01-12T16:47:44.039Z
+date: 2023-01-12T16:48:18.069Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T19:52:49.316Z
@@ -30,4 +30,7 @@ Zde můžete najít něco málo o našich modlitebních místech, lokaci, stavu 
 > krátký popis
 {.is-info}
 
+> ## [Modlitební místo č. 4](mm3)
+> krátký popis
+{.is-info}
 
