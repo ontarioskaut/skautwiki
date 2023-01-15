@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-01-15T11:22:15.726Z
+date: 2023-01-15T11:22:54.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -27,13 +27,13 @@ Soutěžilo se po družinách, hodnoceni byli ale také jednotlivci a to nejen v
 |1|	kliky |	udělej 10 kliků	|10 |
 
 |2|dřepy |	udělej 10 dřepů	| 10|
-|3|	shyby	|udělej 1 shyb	5
-|4|	odborka|	splň jeden náhodný bod odborky (po poradě s patronem)	150
-|5|	čtení|	přečti 10 stran knihy	35
-|6|stezka| (kromě již zmíněných)	splň jeden ještě nesplněný bod stezky, podepsaný nebo schválený patronem (body stezky splněné před zahájením výzvy mají poloviční hodnotu, tedy 20 bodů, takže do tabulky si připočtěte 0.5). 	40
-|7|	stlaní postele|	ustel si postel (můžeš ustal i postel ostaních ve své rodině, ale každou postel smíš ustlat jen jednou za den)	15
-|8|	vytvoření memu|	vytvoř meme a přidej ho na náš reddit	40
-|9|	vynesu koš|	vynes koš s opdaky (pokud je plný) (plasty, papír,... samozřejmě dám do tříděného)	20
+|3|	shyby	|udělej 1 shyb	|5|
+|4|	odborka|	splň jeden náhodný bod odborky (po poradě s patronem) |	150|
+|5|	čtení|	přečti 10 stran knihy	|35|
+|6|stezka| (kromě již zmíněných)	splň jeden ještě nesplněný bod stezky, podepsaný nebo schválený patronem (body stezky splněné před zahájením výzvy mají poloviční hodnotu, tedy 20 bodů, takže do tabulky si připočtěte 0.5). 	|40|
+|7|	stlaní postele|	ustel si postel (můžeš ustal i postel ostaních ve své rodině, ale každou postel smíš ustlat jen jednou za den)	|15|
+|8|	vytvoření memu|	vytvoř meme a přidej ho na náš reddit	|40|
+|9|	vynesu koš|	vynes koš s opdaky (pokud je plný) (plasty, papír,... samozřejmě dám do tříděného)	|20|
 
 ## Průběh kola
 
