@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-01-15T11:17:21.298Z
+date: 2023-01-15T11:22:15.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -42,5 +42,9 @@ Soutěžilo se po družinách, hodnoceni byli ale také jednotlivci a to nejen v
 První kolo proběhlo na podzim roku 2022. Bojovali mezi sebou 3 družiny a soutěž trvala shruba 2 týdny.
 
 Síň slávy
+
+| Rok | Výherní  družina | Celkový výherce |Lovec bobříků| Nabušenec | Giga Chad | Uklizeč | Čtenář|
+| ----- | ------- | ----- |-----| ---- | ---- | ---- | ----|
+| 2022 | Medojedi | Jóža |Jóža| Tobík |Mira | Teo | Kuba|
 
 
