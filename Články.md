@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-16T06:50:00.614Z
+date: 2023-01-16T06:51:55.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -11,7 +11,12 @@ dateCreated: 2023-01-16T06:50:00.614Z
 # Články
 Rozcestník
 
+- [:emoji: Akademie ](akademie)
+- [:emoji: Džejms ](džejms)
+- [:emoji: Gams2 ](gams2)
+- [:emoji: Klubovny ](klubovny)
+- [:emoji: PraSE ](prase)
+- [:emoji: Sekera ](sekera)
 - [:emoji: Skautis ](skautis)
-- [:emoji: Historie střediska *Krátký vhled do historie střediska*](stredisko_historie_01)
-- [:emoji: Historie srubu *Stavba srubu a malý přehled stavební činnosti střediska*](historie_srub_web)
+- [:emoji: Vlastnictví klubovy ](vlastnictvi_klubovny)
 {.links-list}
