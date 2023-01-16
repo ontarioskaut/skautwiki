@@ -2,7 +2,7 @@
 title: Články
 description: Rozcestník pro články zejména o středisku
 published: true
-date: 2022-12-12T07:43:52.585Z
+date: 2023-01-16T06:45:27.557Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T06:11:51.972Z
@@ -17,4 +17,5 @@ Rozcestník pro články zejména o středisku. Respektive brzy by sem mohl být
 - [:emoji: Klubovny **](klubovny)
 - [:emoji: PraSe **](prase)
 - [:emoji: Sekera **](sekera)
+- [:emoji: Skautis **](skautis)
 {.links-list}
