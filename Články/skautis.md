@@ -1,8 +1,8 @@
 ---
-title: Články
+title: Články/skautis
 description: Rozcestník pro články zejména o středisku
 published: true
-date: 2023-01-16T06:45:27.557Z
+date: 2023-01-16T06:46:02.508Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T06:11:51.972Z
