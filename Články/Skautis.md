@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-16T06:22:04.754Z
+date: 2023-01-16T06:25:01.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -75,6 +75,9 @@ Pro přijmutí osoby v záložce "členové" otevřít tlačítko "přidat osobu
 
 ##### Zveřejnění na mapě oddílů
 Pokud má jednotka zájem o zveřejnění na <a href="https://www.skaut.cz/mapa/?misto=">oficiální mapě oddílů</a>, musí na kartě jednotky v záložce "nábory" přidat termíny schůzek a odpovídající náborové kategorie, popřípadě poznámku a krátké představení jednotky. Oddíl tak bude dohledatelný pro zájemce.
+
+#### Změna časopisů
+První krok je mít časopisy zaregistrované. V druhém kroce lze uvažovat o jejich změně podle věkové skupiny. To se provádí na kartě oddílu v záložce časopisy a provádí se to po jednotlivcích.
 
 
 
