@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-16T06:51:59.876Z
+date: 2023-01-16T06:52:32.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -12,7 +12,7 @@ dateCreated: 2023-01-16T06:50:00.614Z
 Rozcestník
 
 - [:emoji: Akademie ](akademie)
-- [:emoji: Džejms ](džejms)
+- [:emoji: Džejms ](dzejms)
 - [:emoji: Gams2 ](gams2)
 - [:emoji: Klubovny ](klubovny)
 - [:emoji: PraSE ](prase)
