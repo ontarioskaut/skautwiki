@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-01-09T07:45:24.788Z
+date: 2023-01-16T06:22:04.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -51,6 +51,14 @@ Po registraci všech osob musí být odevzdána. Kontrola může ukázat několi
 ### Hlášenka tábora
 
 S dostatečným předstihem před táborem (tedy cca 15.06.) musí být odevzdána hlášenka tábora (která je zkontrolována a až následně odeslána střediskem). Hlášenka slouží jak oficiálním složkám jako Hygienické stanici, v horším případě policii, tak Junáku.
+
+V první záložce se doplňují základní informace, jako poloha, jména vedoucích tábora a kontakty na ně (tuto část lze povětšinou okopírovat z předchozích let). 
+Následuje odhadovaný počet osob. U těchto je nejjednodušší navolit z existujících a použít "vybrat vše". Toto přidá nepovinný jmený seznam, na druho stranu taky doplní části o počtu účastníků, takže není důvod, to vypisovat ručně. 
+Třetí částí je odhadovaný rozpočet. Ten de facto nemusí být podle skutečnosti (a pokud se hlášenka odevzdvává před vyplněním přihlášek, tak ani nebude), ale lze nějak odhadnout z minulých let. Tetnto rozpočet by měl vycházet nějak rozumně a v plusu (nebo se započítanou rezervou), není ale vyžadováno nic podrobného.
+Před uzavřením a odevzdáním hlášenky se ještě musí řešit chybové hlášky. Mezi nejčastější spadá vůdce bez vůdcovské zkoušky, k němu stačí dopsat komentář, že na ní právě pracuje (a ideálně by to měla být pravda).
+<a href="https://napoveda.skaut.cz/skautis/akce/tabory/hlasenka-zobrazeni-editace">více informací</a>
+
+
 
 ### Správa osob
 
