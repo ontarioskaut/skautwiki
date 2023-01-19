@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-19T10:16:59.762Z
+date: 2023-01-19T10:18:02.893Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -10,7 +10,8 @@ dateCreated: 2023-01-16T06:50:00.614Z
 
 # Články
 
-Jedna z hlavních náplní wikipedie pro širokou veřejnost jsou články na téměř jakékoliv téma, shrnující základní informace, popřípadě podávající stručné návody. Zde se nachází rozcestník na ně.
+Jedna z hlavních náplní wikipedie pro širokou veřejnost jsou články na téměř jakékoliv téma, shrnující základní informace, popřípadě podávající stručné návody.
+Zde se nachází rozcestník na ně.
 
 > Samozřejmě můžete přispět svým článkem, popřípadě alespoň návrhem na téma článku
 {.is-info}
