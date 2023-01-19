@@ -2,7 +2,7 @@
 title: Vkládání a úprava obrázků
 description: 
 published: true
-date: 2023-01-19T13:48:21.588Z
+date: 2023-01-19T13:48:39.561Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-10T09:12:44.317Z
