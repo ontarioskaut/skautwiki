@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-01-19T09:57:49.925Z
+date: 2023-01-19T10:00:29.105Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -16,8 +16,8 @@ dateCreated: 2022-09-06T18:29:08.803Z
 
 - [:book: Kronika *oddílová kronika z akcí*](kronika)
 - [:hourglass: Narativní historie *shrnutí jednotlivých let oddílu*](nart_historie)
-- [:emoji: Sociální sítě ](socialni_site)
-- [:emoji: Mezidružinová soutěž ](mezidruzinova_soutez)
+- [:iphone: Sociální sítě ](socialni_site)
+- [:trophy: Mezidružinová soutěž ](mezidruzinova_soutez)
 {.links-list}
 
 > Pokud máte zájem se připojit k tomuto oddílu, kontaktujte někoho z jeho <a href="https://ontarioskaut.wixsite.com/ontario/kontakty">vedení</a>. 
