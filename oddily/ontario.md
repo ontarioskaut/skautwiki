@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-01-19T10:00:29.105Z
+date: 2023-01-19T12:13:10.110Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -10,7 +10,7 @@ dateCreated: 2022-09-06T18:29:08.803Z
 
 # 51. oddíl skautů Ontario
 
-51. oddíl skautů Ontario vznikl roku 2018 jako paralerní oddíl pro věkovou kategorii skautů. Členové jsou chlapci ve věku mezi 11 a 14 lety a na konci školního roku 2021/2022 jich v oddíle bylo 22. V téžě době se o chod oddílu staralo 10 vedoucích. 
+51.&nbsp;oddíl skautů Ontario vznikl roku 2018 jako paralerní oddíl pro věkovou kategorii skautů. Členové jsou chlapci ve věku mezi 11 a 14 lety a na konci školního roku 2021/2022 jich v oddíle bylo 22. V téžě době se o chod oddílu staralo 10 vedoucích. 
 
 ## Rozcestník pro další články o oddíle.
 
