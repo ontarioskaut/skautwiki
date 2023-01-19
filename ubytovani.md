@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-01-19T11:05:13.834Z
+date: 2023-01-19T11:05:45.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -28,8 +28,3 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|mail@mail.com|
 
 
-`<sortable>
-^  Col1  ^  Col3  ^  Col3      ^
-|  1     | one    |25/12/2008  |
-|  2     | two    |10/12/2008  |
-</sortable>`
