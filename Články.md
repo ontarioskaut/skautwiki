@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-19T10:13:28.704Z
+date: 2023-01-19T10:13:56.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -26,6 +26,6 @@ Jedna z hlavních náplní wikipedie pro širokou veřejnost jsou články na t�
 - [:hotel: Klubovny ](klubovny)
 - [:pig: PraSE ](prase)
 - [🪓 Sekera ](sekera)
-- [:emoji: Skautis ](skautis)
+- [:computer: Skautis ](skautis)
 - [:emoji: Vlastnictví klubovy ](vlastnictvi_klubovny)
 {.links-list}
