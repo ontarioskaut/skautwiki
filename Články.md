@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-19T10:08:02.384Z
+date: 2023-01-19T10:11:30.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -22,7 +22,7 @@ Jedna z hlavních náplní wikipedie pro širokou veřejnost jsou články na t�
 
 - [🎭 Akademie ](akademie)
 - [:emoji: Džejms ](dzejms)
-- [:emoji: Gams2 ](gams2)
+- [:game_die: Gams2 ](gams2)
 - [:emoji: Klubovny ](klubovny)
 - [:emoji: PraSE ](prase)
 - [:emoji: Sekera ](sekera)
