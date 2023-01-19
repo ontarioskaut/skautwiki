@@ -2,7 +2,7 @@
 title: Vkládání a úprava obrázků
 description: 
 published: true
-date: 2022-11-26T13:31:57.756Z
+date: 2023-01-19T13:48:21.588Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-10T09:12:44.317Z
@@ -30,3 +30,10 @@ Před pravou závorku pro úpravu velikosti připište mezeru a "=". Následuje 
 
 ![prvni_zminka_ontario.webp](/obrazky/prvni_zminka_ontario.webp =100x)
 `![prvni_zminka_ontario.webp](/obrazky/prvni_zminka_ontario.webp =100x)`
+
+## Ve visual editoru
+Zde je vše udělané jednoduše. Stačí jen stisknout tlačítko obrázku a nahrát obrázek stejně, jak již bylo zmíněno.
+
+![img_20230119_143922.jpg](/img_20230119_143922.jpg)
+
+# Obrázky nelze vlkádat vložením ze schtánky!!!
