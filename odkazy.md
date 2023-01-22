@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2023-01-22T19:39:34.759Z
+date: 2023-01-22T19:43:34.003Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -95,6 +95,8 @@ Oddíl světlušek od 7 do 10 let
 
 ## Berušky
 Oddíl světlušek od 7 do 10 let
+
+- [<i class="fa fa-globe"></i> Stránky *https://https://berusky.skauting.cz/*](https://berusky.skauting.cz)
 - [<i class="fa fa-globe"></i> Stránky *https://berusky.wixsite.com/zlin6*](https://berusky.wixsite.com/zlin6)
 {.links-list}
 
