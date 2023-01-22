@@ -2,7 +2,7 @@
 title: Kronika Ontario
 description: 
 published: true
-date: 2023-01-22T19:22:03.114Z
+date: 2023-01-22T19:23:13.817Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:27:43.690Z
