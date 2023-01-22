@@ -2,7 +2,7 @@
 title: Odkazy
 description: 
 published: true
-date: 2022-11-18T00:12:45.726Z
+date: 2023-01-22T19:39:34.759Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-01T15:29:33.142Z
@@ -29,7 +29,7 @@ Oddíl skautů od 11 do 14 let
 > Reddit je uzavřený, aby na něj nehleděli náhodní lidé mimo středisko. Pokud chceš přístup, musíš být na redditu přihlášený a musíš požádat o přístup.
 {.is-info}
 
-- [Fotky Zonerama *https://eu.zonerama.com/ontario*](https://eu.zonerama.com/ontario/1063884)
+- [:fireworks: Fotky Zonerama *https://eu.zonerama.com/ontario*](https://eu.zonerama.com/ontario/1063884)
 - [<i class="fa fa-brands fa-youtube" style="color: #FF0000"></i> Youtube](https://www.youtube.com/channel/UCmmVK8irfTb-h6jh8r2edlA)
 {.links-list}
 
@@ -47,7 +47,7 @@ Oddíl skautek od 11 do 14 let
 - [<i class="fa fa-globe"></i> Stránky *http://medvedice.zlin6.cz*](http://medvedice.zlin6.cz)
 {.links-list}
 - [<i class="fa fa-brands fa-instagram" style="color: #C13584"></i> Instagram *@medvedice52zlin*](https://www.instagram.com/medvedice52zlin/)
-- [Fotky Rajče *https://52medvedice.rajce.idnes.cz*](https://52medvedice.rajce.idnes.cz)
+- [:fireworks: Fotky Rajče *https://52medvedice.rajce.idnes.cz*](https://52medvedice.rajce.idnes.cz)
 - [<i class="fa fa-brands fa-youtube" style="color: #FF0000"></i> Youtube](https://www.youtube.com/channel/UCqvIIudDMmduujEu7HNmpAQ)
 {.links-list}
 
