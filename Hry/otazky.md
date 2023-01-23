@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-01-23T07:31:11.460Z
+date: 2023-01-23T07:43:25.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -17,21 +17,38 @@ Stejně jako u her se už někteří o vhodné otázky pokoušeli, například <
 ## ABCD
 U ABCD je vždy odpoveď "A" správná
 
-### Skautské dovednosti
+### Skautské
 
 |otázka| A  |  B  |  C |  D  |
 |----------------| ------ | ------ | ------ | ------|
 |Kdo uspořádal první skautský tábor?|Robert Baden Powell|Houmr|Leos Hrdlička| Svojsík|
+|Jak zní roverské heslo?|Sloužím|Buď připraven|Heslo|Sezame otevři se|
 
-###Historie
+
+### Historie
 |otázka| A  |  B  |  C |  D  |
 |----------------| ------ | ------ | ------ | ------|
 
-
-###Mix
+### Zeměpis
 |otázka| A  |  B  |  C |  D  |
 |----------------| ------ | ------ | ------ | ------|
-|Jak se v dřívějších dobách říkalo obecnímu vězení?|šatlava|krčma|chládek|špíž|
+|Jak se jmenuje nejvyšší hora České republiky?|Sněžka|Ještěd|Říp|Praděd|
+|Jak se jmenuje nejvyšší hora světa? A pohoří ?|Mount Everest, Himaláje 8849 m.n.m.|Kilimandžáro|Elbrus|Mount Blanc|
+|Jak se jmenuje nejdelší řeka ČR? A kde pramení?|Vltava, Šumava 430,2 km|Labe|Odra|Dunaj|
+
+
+
+
+### Mix
+|otázka| A  |  B  |  C |  D  |
+|----------------| ------ | ------ | ------ | ------|
+|Jak se v dřívějších dobách říkalo obecnímu vězení? | šatlava|krčma|chládek|špíž|
+|Koho znázorňuje socha před zlínským kongresovým centrem?|Emil Zátopek|Tomáš baťa|Tomáš Garrigue Masaryk|Jan Amos Komenský|
+|Kdo je vyobrazený na papírové stokoruně?|Ema Destinová|Božena Němcová|Karel IV|Hruška|
+
+
+
+
 
 ## Tipovací
 
