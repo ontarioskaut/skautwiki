@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2023-01-19T16:02:13.297Z
+date: 2023-02-18T00:10:47.281Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -32,6 +32,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:world_map: Mapa skautských míst *Přehled skauty pojmenovaných míst*](/mapa)
 - [:two_men_holding_hands: Oddíly *Přehled oddílů a jejich historie a vývoje*](/oddily)
 - [:mortar_board: Články *Rozcestí pro další články týkající se zejména střediska*](/Články)
+- [:mortar_board: SkautIS *Záležitosti okolo tohoto informačního systému*](/Články/skautis)
 {.links-list}
 
 <br>
