@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2022-09-13T17:25:45.641Z
+date: 2023-03-05T15:36:23.691Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -15,6 +15,10 @@ Zde vám proto přinášíme rozcestí odkazů pro popsaná místa.
 
 
 > <a href="https://kronikomapy.pernicka.cz">Odkaz na mapu</a>
+{.is-info}
+
+
+> Nikdo z toho není nadšený, ale provizorní mapa je udělána přes google maps, k nahlédnutí na <a href="https://www.google.com/maps/d/u/1/edit?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&usp=sharing">zde</a>.
 {.is-info}
 
 
