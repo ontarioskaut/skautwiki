@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2023-03-05T15:36:23.691Z
+date: 2023-03-06T06:18:02.483Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -21,6 +21,8 @@ Zde vám proto přinášíme rozcestí odkazů pro popsaná místa.
 > Nikdo z toho není nadšený, ale provizorní mapa je udělána přes google maps, k nahlédnutí na <a href="https://www.google.com/maps/d/u/1/edit?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&usp=sharing">zde</a>.
 {.is-info}
 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Lidečko
 - [Slibovka](slibovka)
