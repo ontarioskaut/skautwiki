@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-03-09T10:02:30.587Z
+date: 2023-03-09T10:08:14.005Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -27,7 +27,8 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |[Fara Ostrožská lhota](ostr_lhota) :house:|Ostrožská lhota|1500 celkem|2 velké místnosti, dostatečná kuchyň, dostatek toalet, bus jezdí tak 3x denně|9/10|60|mail@mail.com|
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|mail@mail.com|
 |[Základna Olomouc](zakladna_olomouc) :house: :fleur_de_lis:|Olomouc|140 Kč|Hodně místa klidně 60 lidí, vybavená kuchyň, talířů tak pro 50 lidí|9/10|60|mail@mail.com|
-|[Klubovna Vyškov](klubovna_vyskov) :house: :fleur_de_lis:|Vyškov|90 Kč|_|_/10|_|mail@mail.com|
+|[Klubovna Vyškov](klubovna_vyskov) :house: :fleur_de_lis:|Vyškov|90 Kč| _ |_ /10|_ |mail@mail.com|
+|[Srub v Lidčku](srub_lidecko) :house: :fleur_de_lis:|Lidečko Račné| _ Kč| _ |9 /10|_ |mail@mail.com|
 
 
 
