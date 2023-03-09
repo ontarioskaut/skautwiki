@@ -2,7 +2,7 @@
 title: Fara Ostrožská Lhota
 description: 
 published: true
-date: 2022-12-12T07:19:28.122Z
+date: 2023-03-09T10:15:15.183Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T07:19:28.122Z
@@ -29,4 +29,5 @@ až cca 60 lidí na spaní
 ## Cena
 1500 Kč, fixní pro naši skupinu
 ## Kontakt
-?
+https://www.farnost-ostrozska-lhota.cz/podrubrika.php?ID=42
+faostrozskalhota@ado.cz
