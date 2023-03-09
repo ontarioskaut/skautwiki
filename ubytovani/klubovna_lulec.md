@@ -2,7 +2,7 @@
 title: Klubovna Luleč
 description: 
 published: true
-date: 2022-12-12T07:28:32.489Z
+date: 2023-03-09T10:16:23.560Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-12T07:25:54.987Z
@@ -27,7 +27,9 @@ do 20 lidí
 ## Cena
 50 Kč/os/noc
 ## Kontakt
-?
+https://1ovsslulec.skauting.cz/klubovna/
+klubovna.lulec@skaut.cz
+
 ## Poznámky
 - Nevysedat na zastávce Luleč rozc. Nachází se mimo obec, cca 2 km od klubovny.
 - Autobusy do Vyškova jezdí nepříjemně málo často.
