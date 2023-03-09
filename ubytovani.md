@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-03-09T10:30:41.236Z
+date: 2023-03-09T10:43:25.705Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -28,7 +28,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|klubovna.lulec@skaut.cz|
 |[Základna Olomouc](zakladna_olomouc) :house: :fleur_de_lis:|Olomouc|140 Kč|Hodně místa klidně 60 lidí, vybavená kuchyň, talířů tak pro 50 lidí|9/10|60|soptik.kuba@gmail.com|
 |[Klubovna Vyškov](klubovna_vyskov) :house: :fleur_de_lis:|Vyškov|90 Kč| _ |_ /10|_ |rezervacevyskov@skaut.cz|
-|[Srub v Lidčku](srub_lidecko) :house: :fleur_de_lis:|Lidečko Račné| _ Kč| Dvoupatrový srub, v přírodě. Dvojplotýnka a základní nádobí. | _ /10| 30 |mail@mail.com|
+|[Srub v Lidečku](srub_lidecko) :house: :fleur_de_lis:|Lidečko Račné| _ Kč| Dvoupatrový srub, v přírodě. Dvojplotýnka a základní nádobí. | _ /10| 30 |mail@mail.com|
 
 
 
