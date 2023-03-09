@@ -2,7 +2,7 @@
 title: Klubovna Praha-Krč
 description: 
 published: true
-date: 2022-11-18T00:55:51.097Z
+date: 2023-03-09T10:11:03.971Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-18T00:55:51.097Z
@@ -36,4 +36,5 @@ až cca 55 lidí na spaní
 ## Cena
 ?
 ## Kontakt
-?
+kk@blanik.info
+https://www.blanik.info/kk
