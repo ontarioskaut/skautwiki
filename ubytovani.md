@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-03-19T17:54:23.969Z
+date: 2023-03-19T18:32:13.362Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -22,8 +22,8 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 
 |Název|Kde|Cena/clověk|Info|Hodnocení|kapacita|Kontakt|
 |-----|---|-----------|----|---------|--------|-------|
-|[Holešovská hájenka](hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|?|jakub@tokaheya.cz|
-|[Klubovna střediska Blaník](blanik_krc) :house: :fleur_de_lis:|Praha-Krč|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|?|kk@blanik.info |
+|[Holešovská hájenka](hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|30|jakub@tokaheya.cz|
+|[Klubovna střediska Blaník](blanik_krc) :house: :fleur_de_lis:|Praha-Krč|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|40|kk@blanik.info |
 |[Fara Ostrožská lhota](ostr_lhota) :house:|Ostrožská lhota|1500 celkem|2 velké místnosti, dostatečná kuchyň, dostatek toalet, bus jezdí tak 3x denně|9/10|60|faostrozskalhota@ado.cz|
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|klubovna.lulec@skaut.cz|
 |[Základna Olomouc](zakladna_olomouc) :house: :fleur_de_lis:|Olomouc|140 Kč|Hodně místa klidně 60 lidí, vybavená kuchyň, talířů tak pro 50 lidí|9/10|60|soptik.kuba@gmail.com|
