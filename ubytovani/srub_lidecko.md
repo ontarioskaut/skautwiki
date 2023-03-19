@@ -2,7 +2,7 @@
 title: Srub v Lidečku
 description: 
 published: true
-date: 2023-03-09T10:47:13.519Z
+date: 2023-03-19T18:34:28.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T10:41:00.744Z
@@ -29,4 +29,4 @@ problém může být s nádobím
 http://zlin6.cz/?ukaz=133_&IdMenu=133&grafika=0
 kwasak@zlin6.cz
 ## Poznámky
--na stránkách jsou všechny informace
+- stránky jsou překvapivě dobře zpracované a přehledné
