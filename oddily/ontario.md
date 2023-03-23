@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-01-19T12:13:10.110Z
+date: 2023-03-23T10:26:52.814Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -59,6 +59,8 @@ Oddíl začínal s pouhými 14 členy (což bylo zapříčiněno rozdělením od
 Vývoj oddílové rady
 
 ## Vznik
+
+Oddíl se oddělil od oddílu Antares na konci tábora 2017. Již brzy však slávu mateřské skupiny překonal. Hlavním důvodem rozdělení byl přílišný počet členů.
 
 ## Merch
 
