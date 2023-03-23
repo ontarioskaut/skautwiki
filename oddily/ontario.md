@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-03-23T10:26:52.814Z
+date: 2023-03-23T10:27:02.243Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -60,7 +60,7 @@ Vývoj oddílové rady
 
 ## Vznik
 
-Oddíl se oddělil od oddílu Antares na konci tábora 2017. Již brzy však slávu mateřské skupiny překonal. Hlavním důvodem rozdělení byl přílišný počet členů.
+Oddíl se oddělil od oddílu Antares na konci tábora 2017. Již brzy však slávu mateřské skupiny překonal. Hlavním důvodem rozdělení byl přílišný počet členů. Více naleznete v kronice.
 
 ## Merch
 
