@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:14:41.459Z
+date: 2023-04-03T06:16:14.723Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -95,7 +95,7 @@ U ABCD je vždy odpoveď "A" správná
 - Kolik procent čechů ohrožuje obezita?  18,5%
 - V jakém roce se naposledy vyskytl případ nákazy vzteklinou v ČR? 2002
 - Kolik musí člověk sníst banánů, aby zemřel na ozáření? 10 mil. (je tam hodně draslíků, draslík 40K je radioaktivní)
-- Kolik gramů hořké čokolády je potřeba na otravu psa, který váží 20 kg? PS.: nezkoušejte bez dozoru zvěrolékaře 25g
+- Kolik gramů hořké čokolády je potřeba na otravu psa, který váží 20 kg? 25g
 - Jaká je rychlost šíření světla ve vakuu? 299 792 458 m/s
 - Kolik se v roce 2021 stalo dopravních nehod, u kterých musela být policie? 99 332
 - Jaká je momentální kurz eura v CZK? podíváme se
