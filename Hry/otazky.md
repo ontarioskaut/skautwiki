@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T05:57:46.440Z
+date: 2023-04-03T06:00:10.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -68,6 +68,8 @@ U ABCD je vždy odpoveď "A" správná
 - Kdy přistál první člověk na měsíci? 1969
 - Kdy na Moravu přišli Cyril a Metoděj? 863
 - Kdy byl upálen mistr Jan Hus? 06.07.1415
+- Kdy byla vydána Zlatá bula sicilská 1212
+- Kdy proběhla invaze vojsk Varšavské smlouy? 21.08.1968
 
 ### Skaut
 - Kolik kluků bylo na prvním skautském táboře - 20
@@ -102,6 +104,8 @@ U ABCD je vždy odpoveď "A" správná
 - Jmenuj jednoho knížete Velkomoravské říše. (Svatopluk, Mojmír, Rostislav)
 - Zástupci kterých států podepsali Mnichovskou dohodu? Itálie, Německo, Francie, GB
 - Jak se jmenovalo první české písmo? Hlaholice
+- Kdo byl prvním českým králem? Vratislav II.
+
 
 ### Skaut
 
