@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:08:27.803Z
+date: 2023-04-03T06:09:24.721Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -63,6 +63,9 @@ U ABCD je vždy odpoveď "A" správná
 - Jaký je obvod rovníku? 40 000 km
 - Jaký je průměr země? 6378 km
 - Kolik je hor s výškou přes 8000 m.n.m? 14
+- Kolik je států uznaných OSN? 193
+
+
 ### Historie
 - Ve kterém roce byla bitva na Bílé hoře? – 1620
 - Kdy skončila WW2 v Evropě? 08.05.1945
