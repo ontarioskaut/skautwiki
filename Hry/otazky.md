@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:11:40.045Z
+date: 2023-04-03T06:14:41.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -26,6 +26,8 @@ U ABCD je vždy odpoveď "A" správná
 |----------------| ------ | ------ | ------ | ------|
 |Kdo uspořádal první skautský tábor?|Robert Baden Powell|Houmr|Leos Hrdlička| Svojsík|
 |Jak zní roverské heslo?|Sloužím|Buď připraven|Heslo|Sezame otevři se|
+|Kdo byl zakladatelem skauting v USA?|E.T.Seaton|Robert Baden-Powell|H.W.S Baden-Powell|Wiliam A. Smyth|
+
 
 
 ### Historie
@@ -48,9 +50,6 @@ U ABCD je vždy odpoveď "A" správná
 |Jak se v dřívějších dobách říkalo obecnímu vězení? | šatlava|krčma|chládek|špíž|
 |Koho znázorňuje socha před zlínským kongresovým centrem?|Emil Zátopek|Tomáš baťa|Tomáš Garrigue Masaryk|Jan Amos Komenský|
 |Kdo je vyobrazený na papírové stokoruně?|Ema Destinová|Božena Němcová|Karel IV|Hruška|
-
-
-
 
 
 ## Tipovací
@@ -87,6 +86,8 @@ U ABCD je vždy odpoveď "A" správná
 - Kdy byl 1. dívčí český skautský tábor? - 1915
 - Kolik členů má středisková rada? 22
 - Jaké je číslo popisné kudlovské klubovny? 360
+- Kdy byl založen skaut? 1907
+
 
 ### Mix
 - Kolik lidí žije na světě? Tolerance 200milionů. - 8 mld <a href="https://www.worldometers.info/cz/">přesné číslo</a>
