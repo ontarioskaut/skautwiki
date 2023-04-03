@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:03:48.185Z
+date: 2023-04-03T06:06:25.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -71,6 +71,9 @@ U ABCD je vždy odpoveď "A" správná
 - Kdy byla vydána Zlatá bula sicilská 1212
 - Kdy proběhla invaze vojsk Varšavské smlouy? 21.08.1968
 - Kdy došlo ke vzniku samostatné ČR? 01.01.1993
+- Kdy padl Řím? 476
+- Kdy byla objevena Amerika? 1492
+- Kdy zemřel MOhamed? 623
 
 ### Skaut
 - Kolik kluků bylo na prvním skautském táboře - 20
@@ -110,10 +113,7 @@ U ABCD je vždy odpoveď "A" správná
 - Jaké národy kdy sídlili na území mezopotámie? Sumerové, Asyřané, Babyloňané a další
 - Kdo byl prvním americkým prezidentem? George Washington
 
-
-
-
-
 ### Skaut
 
 ### Mix
+- Jaká je nejvyšší budova světa? Burj Khalifa
