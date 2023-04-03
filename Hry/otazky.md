@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:06:25.051Z
+date: 2023-04-03T06:07:49.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -60,6 +60,9 @@ U ABCD je vždy odpoveď "A" správná
 - Kolik měří nejvyšší hora Slovenska ? -Gerlachovský štít ,,,info. –2654 m.n.m
 - Kolik měří nejdelší řeka Světa? -Amazonka- Je dlouhá 7062 km
 - Jaká je vzdálenost od Zlíne do Olomouce vzdušnou čarou 50,9 km
+- Jaký je obvod rovníku? 40 000 km
+- Jaký je průměr země? 6378 km
+- Kolik je hor s výškou přes 8000 m.n.m? 14
 ### Historie
 - Ve kterém roce byla bitva na Bílé hoře? – 1620
 - Kdy skončila WW2 v Evropě? 08.05.1945
@@ -98,7 +101,7 @@ U ABCD je vždy odpoveď "A" správná
 ## Jen správná odpověď
 
 ## Zeměpis
-
+-  Jak se jmenuje průplav mezi Amerikou a Asií? Beringův
 ### Historie
 - Jak dopadly demonstrace na Náměstí Nebeského Klidu? Byly zmasakrovány
 - Kolik bylo vypuštěno amerických jaderných bomb během WW2? 2+1 testovací
