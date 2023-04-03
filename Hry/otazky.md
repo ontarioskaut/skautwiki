@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-02-19T17:09:24.511Z
+date: 2023-04-03T05:57:46.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -62,6 +62,12 @@ U ABCD je vždy odpoveď "A" správná
 - Jaká je vzdálenost od Zlíne do Olomouce vzdušnou čarou 50,9 km
 ### Historie
 - Ve kterém roce byla bitva na Bílé hoře? – 1620
+- Kdy skončila WW2 v Evropě? 08.05.1945
+- Kdy skončila WW2 ve světě? 02.09.1945
+- Kdy proběhl útok na Dvojčata? 11.01.2001
+- Kdy přistál první člověk na měsíci? 1969
+- Kdy na Moravu přišli Cyril a Metoděj? 863
+- Kdy byl upálen mistr Jan Hus? 06.07.1415
 
 ### Skaut
 - Kolik kluků bylo na prvním skautském táboře - 20
@@ -83,3 +89,20 @@ U ABCD je vždy odpoveď "A" správná
 - Kolik má 21. budova poschodí? 16
 - Kdy byl napsán román George Orwella 1984? 1948
 
+## Jen správná odpověď
+
+## Zeměpis
+
+### Historie
+- Jak dopadly demonstrace na Náměstí Nebeského Klidu? Byly zmasakrovány
+- Kolik bylo vypuštěno amerických jaderných bomb během WW2? 2+1 testovací
+- Kdo byl první člověk na Měsíci? Neil Armstrong
+-  Kdo je prvním doloženým přemyslovským panovníkem? Bořivoj
+- Kdo je prvním doloženým českým panovníkem? Sámo
+- Jmenuj jednoho knížete Velkomoravské říše. (Svatopluk, Mojmír, Rostislav)
+- Zástupci kterých států podepsali Mnichovskou dohodu? Itálie, Německo, Francie, GB
+- Jak se jmenovalo první české písmo? Hlaholice
+
+### Skaut
+
+### Mix
