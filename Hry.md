@@ -2,7 +2,7 @@
 title: Hry a Aktivity
 description: 
 published: true
-date: 2023-04-03T13:57:28.934Z
+date: 2023-04-03T14:06:45.920Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T19:44:18.420Z
@@ -18,5 +18,6 @@ Záložka pro pomoc vedoucím s hrami, aktivitami a mnohým dlaším.
 ---
 - [:bomb: Bomba *Jak na audiovizuální bombu pro obzvláštnění her*](bomba)
 - [:computer: Virus *Falešný virus na cool technologickou pátrací hru*](homer-virus)
+- [:mag_right: QR game *Chodící/běhací hra s navzájem se odkazujícími QR kódy*](qr-game)
 {.links-list}
 
