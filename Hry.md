@@ -2,7 +2,7 @@
 title: Hry a Aktivity
 description: 
 published: true
-date: 2023-04-03T06:31:09.131Z
+date: 2023-04-03T13:57:28.934Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T19:44:18.420Z
@@ -13,7 +13,10 @@ dateCreated: 2022-09-13T19:44:18.420Z
 Záložka pro pomoc vedoucím s hrami, aktivitami a mnohým dlaším.
 
 - [:game_die: Hry *Soupis užitečných her a odkazů*](Hry)
-- [:question: Otázky *Soupis různých otázek pro aktivity a hryy*](otazky)
-
+- [:question: Otázky *Soupis různých otázek pro aktivity a hry*](otazky)
+{.links-list}
+---
+- [:bomb: Bomba *Jak na audiovizuální bombu pro obzvláštnění her*](bomba)
+- [:computer: Virus *Falešný virus na cool technologickou pátrací hru*](homer-virus)
 {.links-list}
 
