@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2022-10-31T06:59:33.416Z
+date: 2023-04-03T05:15:24.871Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -12,6 +12,8 @@ dateCreated: 2022-10-24T06:45:06.847Z
 Sekera je tradiční mezidružinová, popřípadě mezioddílová soutěž ve skautských dovednostech pořádaná během táborů.
 
 Průběh kopíruje systém Svojsíkových závodů. Soutěží se v celé družině. Ta má zadanou trasu, doběhne ke stanovišti a zde splní nějaký úkol. Tento je obodován (záleží na typu úkolu, zda se jedná o bodový nebo časový údaj). A družina se posune k dalšímu stanovišti. 
+
+A ač sekera zatím neopustila kruhy oddílů skautů, do boje o ni se v poslední době zapojuje také oddíl skautek, či druhý ze stejné věkové kategorie.
 
 ## Historie
 > Doplnit historii vzniku
@@ -51,7 +53,8 @@ Mezi neobvyklé můžeme zařadit
 
 ## Vítězové
 
-Jméno vítězné družiny je tradičně vypáleno lupou na topůrko sekery. Vítězi jsou:
+Jméno vítězné družiny je tradičně vypáleno lupou na topůrko sekery. 
+Vítězi od držení sekery oddílem Ontario jsou:
 
 - 2018 Kanci
 - 2019 nesoutěžilo se
