@@ -2,7 +2,7 @@
 title: Hry a Aktivity
 description: 
 published: true
-date: 2023-04-03T06:26:00.819Z
+date: 2023-04-03T06:27:28.920Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-13T19:44:18.420Z
@@ -12,8 +12,8 @@ dateCreated: 2022-09-13T19:44:18.420Z
 
 Záložka pro pomoc vedoucím s hrami, aktivitami a mnohým dlaším.
 
-- [::Hry **](Hry)
-- [:: Otázky **](otazky)
+- [::Hry *Soupis užitečných her a odkazů*](Hry)
+- [:: Otázky *Soupis různých otázek pro aktivity a hryy*](otazky)
 
 {.links-list}
 
