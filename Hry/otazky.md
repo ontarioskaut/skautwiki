@@ -2,7 +2,7 @@
 title: Otázky
 description: otázky pro různé aktivity a hry
 published: true
-date: 2023-04-03T06:16:14.723Z
+date: 2023-04-03T06:16:59.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-19T10:35:55.520Z
@@ -106,7 +106,7 @@ U ABCD je vždy odpoveď "A" správná
 
 ## Jen správná odpověď
 
-## Zeměpis
+### Zeměpis
 -  Jak se jmenuje průplav mezi Amerikou a Asií? Beringův
 ### Historie
 - Jak dopadly demonstrace na Náměstí Nebeského Klidu? Byly zmasakrovány
