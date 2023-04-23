@@ -2,14 +2,14 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-04-23T18:20:53.469Z
+date: 2023-04-23T18:22:09.406Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
 ---
 
 # Přehled ubytování 
-Tady máme společný, volně rozšiřovatelný, seznam možností ubytování na skautské akce. Pokud máte něco osvědčeného, budeme rádi, když se podělíte.
+Tady máme společný, volně rozšiřovatelný, seznam možností ubytování na skautské akce. Pokud máte něco osvědčeného, budeme rádi, když se podělíte. (Můžete buď v komentáři nebo po přihlášení rozšiřte přehled)
 
 > Již dříve vznikl pokus o něco podobného. Ale nechceme porušovat autorská práva majitelů proto vkládáme pouze s omezeným přístupem: <a href="https://docs.google.com/spreadsheets/d/116oM0DL1-3EimeF5AFWvOeUNHrSAbsZo/edit?usp=sharing&ouid=111050924856016951167&rtpof=true&sd=true">odkaz</a>
 {.is-info}
