@@ -2,7 +2,7 @@
 title: Srub v Lidečku
 description: 
 published: true
-date: 2023-04-23T18:24:53.102Z
+date: 2023-04-23T18:27:08.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-09T10:41:00.744Z
@@ -23,7 +23,7 @@ ešusy jsou doporučeny vlastní
 spánek na zemi, pohodlně 30 osob.
 problém může být s nádobím
 ## Cena
-100 Kč/os/noc
+100 Kč/os/noc (ne pro oficialní skautské akce oddílů našeho střediska)
 (s minimem 1000 Kč)
 ## Kontakt
 http://zlin6.cz/?ukaz=133_&IdMenu=133&grafika=0
