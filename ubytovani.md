@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-04-23T18:16:36.718Z
+date: 2023-04-23T18:20:53.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -14,6 +14,11 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 > Již dříve vznikl pokus o něco podobného. Ale nechceme porušovat autorská práva majitelů proto vkládáme pouze s omezeným přístupem: <a href="https://docs.google.com/spreadsheets/d/116oM0DL1-3EimeF5AFWvOeUNHrSAbsZo/edit?usp=sharing&ouid=111050924856016951167&rtpof=true&sd=true">odkaz</a>
 {.is-info}
 
+> Taktéž někdo na internetu udělal [Mapový přehled](https://1url.cz/@zakladny)
+{.is-info}
+
+
+
 ### Legenda:
 :camping:=kemp/otevřený prostor
 :house:=budova 
@@ -22,7 +27,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 
 |Název|Kde|Cena/clověk|Info|Hodnocení|kapacita|Kontakt|
 |-----|---|-----------|----|---------|--------|-------|
-|[Holešovská hájenka](hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|30|jakub@tokaheya.cz|
+|[Holešovská hájenka(hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|30|jakub@tokaheya.cz|
 |[Klubovna střediska Blaník](blanik_krc) :house: :fleur_de_lis:|Praha-Krč|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|40|kk@blanik.info |
 |[Fara Ostrožská lhota](ostr_lhota) :house:|Ostrožská lhota|1500 celkem|2 velké místnosti, dostatečná kuchyň, dostatek toalet, bus jezdí tak 3x denně|9/10|60|faostrozskalhota@ado.cz|
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|klubovna.lulec@skaut.cz|
