@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-03-19T18:33:35.829Z
+date: 2023-04-23T18:16:36.718Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -29,6 +29,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |[Základna Olomouc](zakladna_olomouc) :house: :fleur_de_lis:|Olomouc|140 Kč|Hodně místa klidně 60 lidí, vybavená kuchyň, talířů tak pro 50 lidí|9/10|60|soptik.kuba@gmail.com|
 |[Klubovna Vyškov](klubovna_vyskov) :house: :fleur_de_lis:|Vyškov|90 Kč| 4 velké místnosti, vždy s polovičním druhým patrem. Velká kuchyň (hluboké talíře jen pro 20 lidí, jinak dobře vybavena)|9 /10| 50 |rezervacevyskov@skaut.cz|
 |[Srub v Lidečku](srub_lidecko) :house: :fleur_de_lis:|Lidečko Račné| 100 Kč| Dvoupatrový srub, v přírodě. Dvojplotýnka a základní nádobí. | 7 /10| 30 |mail@mail.com|
+|[Fara Kelč](fara_kelc) :house: :bed:|Kelč| ?? Kč| TODO: doplnit (Albion tam byl)| ? /10| ?? |mail@mail.com|
 
 
 
