@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-04-23T18:22:09.406Z
+date: 2023-05-03T14:44:32.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -14,7 +14,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 > Již dříve vznikl pokus o něco podobného. Ale nechceme porušovat autorská práva majitelů proto vkládáme pouze s omezeným přístupem: <a href="https://docs.google.com/spreadsheets/d/116oM0DL1-3EimeF5AFWvOeUNHrSAbsZo/edit?usp=sharing&ouid=111050924856016951167&rtpof=true&sd=true">odkaz</a>
 {.is-info}
 
-> Taktéž někdo na internetu udělal [Mapový přehled](https://1url.cz/@zakladny)
+> Taktéž někdo na internetu udělal docela obsáhlý [Mapový přehled](https://1url.cz/@zakladny)
 {.is-info}
 
 
