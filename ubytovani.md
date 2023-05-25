@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-05-03T14:44:32.347Z
+date: 2023-05-25T21:29:25.593Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -27,7 +27,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 
 |Název|Kde|Cena/clověk|Info|Hodnocení|kapacita|Kontakt|
 |-----|---|-----------|----|---------|--------|-------|
-|[Holešovská hájenka(hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|30|jakub@tokaheya.cz|
+|[Holešovská hájenka](hajenka_holesov) :house:|Holešov|50 / 100 Kč| Přímo v zámeckém parku, přízemní budova|9/10|30|jakub@tokaheya.cz|
 |[Klubovna střediska Blaník](blanik_krc) :house: :fleur_de_lis:|Praha-Krč|?? Kč|koupelna mimo objekt, chybějící dřez, kuchyň otřesná|2/10|40|kk@blanik.info |
 |[Fara Ostrožská lhota](ostr_lhota) :house:|Ostrožská lhota|1500 celkem|2 velké místnosti, dostatečná kuchyň, dostatek toalet, bus jezdí tak 3x denně|9/10|60|faostrozskalhota@ado.cz|
 |[Klubovna Luleč](klubovna_lulec) :house: :fleur_de_lis:|Luleč u Vyškova|50 Kč|Dvě místnosti a půda, do Vyškova jezdí busy sporadicky a nelze na to spoléhat. Zastávka "Luleč rozc." je nechutně daleko|7/10|15|klubovna.lulec@skaut.cz|
