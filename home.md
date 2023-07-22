@@ -2,13 +2,16 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2023-02-18T00:13:11.729Z
+date: 2023-07-22T18:17:07.788Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
 ---
 
 # Vítejte na wiki 6. skautského střediska
+
+> Web v tuto chvíli není odsouhlasenou oficiální stránkou střediska. Ovšem to neznamená, že se to někdy nezmění a že nebude plnit svůj účel sdílení zkušeností, znalostí a zážitků ze skautského prostředí našeho střediska.
+{.is-warning}
 
 Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké informace o historii, současnosti a různých vychytávkách. Pokud tě napadá něco k přidání, nebo by ses chtěl/a podílet na obsahu této wiki, jsi vítán/a. Více informací o podílení se na odsahu nalezneš na stránce [chci se podílet](/owiki/chci_se_podilet). 
 
