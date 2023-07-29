@@ -2,7 +2,7 @@
 title: Tisknutí vlastní mapy
 description: 
 published: true
-date: 2022-09-03T23:32:10.215Z
+date: 2023-07-29T23:11:51.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T22:34:35.149Z
@@ -34,4 +34,9 @@ Na to píšu jednoduchý skript v Pythonu:
 - cahcování dlaždic, protože nechceme přetěžovat tileservery [openstreetmap](https://openstreetmap.org) nebo jinší
 - **Teď se nevytvoří obrázky pro přesně vybranou oblast, vše je totiž zaokrouhlené na kachličky**, takže se musí přidat ořezávání krajových kachliček (vypočítá se, na kterém bodě v ose X nebo Y se kachlička šmikne)
 ![nacrt_map_box-tiles.png](/obrazky/nacrt_map_box-tiles.png)
-
+## Co má normální smrtelník udělat, aby dostal mapu
+- jít na http://bboxfinder.com/
+- vytvořit obdélník v místě, co tě zajímá
+- zkopírovat hodnoty `box` (viz obrázek)
+![bbox.png](/obrazky/bbox.png)
+- poslat je Hruškovi
