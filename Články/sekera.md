@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-04-03T05:15:24.871Z
+date: 2023-08-26T18:57:25.210Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -58,5 +58,7 @@ Vítězi od držení sekery oddílem Ontario jsou:
 
 - 2018 Kanci
 - 2019 nesoutěžilo se
-- 2020 Kanci
+- 2020 nesoutěžilo se
 - 2021 Kanci
+- 2022 Kanci
+- 2023 Medojedi
