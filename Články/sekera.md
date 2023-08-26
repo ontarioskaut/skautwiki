@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-26T20:34:51.546Z
+date: 2023-08-26T20:35:46.199Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -57,7 +57,7 @@ Mezi neobvyklé můžeme zařadit
 
 ## Ročníky
 
-Vítězové a umístění podle družin
+Jednotlivé ročníky, vítězové a umístění podle družin
 
 ### 2018 
  1. Kanci (Ontario)
