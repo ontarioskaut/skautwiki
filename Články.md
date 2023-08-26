@@ -2,7 +2,7 @@
 title: Články
 description: rozcestník pro články týkající se skautu nebo střediska
 published: true
-date: 2023-01-19T10:18:02.893Z
+date: 2023-08-26T20:50:43.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T06:50:00.614Z
@@ -29,4 +29,5 @@ Zde se nachází rozcestník na ně.
 - [🪓 Sekera ](sekera)
 - [:computer: Skautis ](skautis)
 - [:hand: Vlastnictví klubovy ](vlastnictvi_klubovny)
+- [Ankety](ankety)
 {.links-list}
