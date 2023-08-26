@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-26T18:57:25.210Z
+date: 2023-08-26T19:06:34.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -51,14 +51,30 @@ Mezi neobvyklé můžeme zařadit
 
 - úkoly na spolupráci (viz. dotkni se stromu co nejvýše)
 
-## Vítězové
+## Ročníky
 
-Jméno vítězné družiny je tradičně vypáleno lupou na topůrko sekery. 
-Vítězi od držení sekery oddílem Ontario jsou:
+Vítězové a umístění podle družin
 
-- 2018 Kanci
-- 2019 nesoutěžilo se
-- 2020 nesoutěžilo se
-- 2021 Kanci
-- 2022 Kanci
-- 2023 Medojedi
+### 2018 
+ 1. Kanci (Ontario)
+ 2. Medojedi (Ontario)
+ 3. a 4. družiny Antares
+ ### 2019 nesoutěžilo se
+
+### 2020 nesoutěžilo se
+### 2021 
+1. Kanci (Ontario)
+### 2022 
+1. Kanci (Ontario)
+2. Kaňky (Medvědice)
+3. Medojedi (Ontario)
+4.
+5.
+6. Činčily (Medvědice)
+### 2023 
+1. Medojedi (Ontario)
+2. Kaňky (Medvědice)
+3. Kanci (Ontario)
+4. 
+5.
+6. Činčily (Medvědice)
