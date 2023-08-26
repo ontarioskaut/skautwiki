@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-26T20:34:08.079Z
+date: 2023-08-26T20:34:51.546Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -18,10 +18,10 @@ A ač sekera zatím neopustila kruhy oddílů skautů, do boje o ni se v posledn
 ## Historie
 > Doplnit historii vzniku
 {.is-info}
-
+### Momentální držitel - Medojedi (Ontario)
 ![img_20230816_095715_hdr.jpg](/img_20230816_095715_hdr.jpg)
 ![img_20230816_095721_hdr.jpg](/img_20230816_095721_hdr.jpg)
-### Momentální držitel - Medojedi (Ontario)
+
 
 Zlomový bod přišel pro sekeru s létem 2018, kdy se sekera opět stala mezioddílovou soutěží. Právě v tomto roce o ni soutěžil oddíl Ontario s oddílem Antares. Ontario zvítězilo a tak nad ní získalo držení. V roce 2021, 2022, 2023 se o ní tentýž oddíl utkal s Medvědicemi.
 
