@@ -2,7 +2,7 @@
 title: Ankety
 description: 
 published: true
-date: 2023-08-27T14:35:23.330Z
+date: 2023-08-27T14:40:20.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-26T20:53:02.534Z
@@ -17,3 +17,9 @@ Mícháš krupičnou kaši??
 </form>
 
 [Q:Decimal Height]() What is your height?
+
+[poll]
+1. option one
+2. option two
+3. option three
+[/poll]
