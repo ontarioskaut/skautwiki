@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2023-07-22T18:17:07.788Z
+date: 2023-08-27T18:49:43.754Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -19,6 +19,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:hourglass: Historie *Čas plyne jak voda. Pojďme si udělat celostřediskovou interaktivní kroniku.*](/historie)
 - [:soccer: Aktivity & hry *Nějaké specialitky, co se osvědčily a chceme se o ně podělit*](/Hry)
 - [:star: Odborky *Různé poznámky k odborkám*](/odborky)
+- [:book: Workshopy a praxe *Poznatky ke vzdělávacím blokům na táborech*](/workshopy_praxe)
 - [:wrench: Technika a IT *Vše okolo techniky*](/technika)
 - [:house: Ubytování *Zajímavé možnosti ubytování na akce*](/ubytovani)
 - [:thought_balloon: Psychologie](/psychologie)
