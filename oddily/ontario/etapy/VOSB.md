@@ -2,7 +2,7 @@
 title: VOSB
 description: 
 published: true
-date: 2023-03-16T11:06:48.437Z
+date: 2023-08-27T09:47:51.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:50:49.465Z
@@ -39,4 +39,4 @@ V celé etapě jde o zisk informací. Vstupujeme do ní slepí, bez kritického 
 
 
 ## Side story z vymýšlení
-Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napoleon a Tom a vysnili si etapu o cestování časem a prostroem, nejen to předešlých etap ale i volně do minulosti. Kvůli časové a zejména materiálové problematice jim to však bylo osekáno, do této podoby.
+Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napoleon a Tom a vysnili si etapu o cestování časem a prostorem, nejen do předešlých etap, ale i volně do minulosti. Kvůli časové a zejména materiální problematice jim to však bylo osekáno do této podoby.
