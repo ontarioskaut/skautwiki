@@ -2,7 +2,7 @@
 title: Asterion
 description: 53. oddíl vlčat
 published: true
-date: 2023-08-27T22:46:31.974Z
+date: 2023-08-27T22:49:21.291Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-31T07:13:31.330Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-31T07:13:31.330Z
 
 # Asterion
 
-53. oddíl pro věkovou kategorii vlčat založený v září roku 2022.
+53. oddíl vlčat založený v září roku 2022.
 
 ## Vznik
 
