@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2023-08-27T14:01:30.709Z
+date: 2023-08-27T14:06:00.909Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -13,10 +13,10 @@ dateCreated: 2022-09-04T20:14:43.106Z
 6.&nbsp;skautské středisko Zlín má dlouhou tradici. Jeho vývoj po Sametové revoluci je ale neodlučitelně spjat s Lidečkem. Mnozí z členů střediska znají okolí tábořišt lépe, než cokoli jiného, s každým místem mají spojené mnohé události a uvědomují si, že podobně to měla také předchozí generace. Tyto události mohou být mezi mladšími snad téměř zapomenuty, čímž by lidstvo přišlo o neskutečné bohatství. Kromě Lidečka oddíly působí a působily samozřejmě také na dalších místech, z nichž první v řadě stojí Zlín. 
 Zde vám proto přinášíme rozcestí odkazů pro popsaná místa.
 
-Tým wikipedie chtěl lepší, vlastní a originální systém, i tento od google ale provizorně funguje a můžeme ho ukázat:
+Tým wikipedie chtěl lepší, vlastní a originální systém. Jako prozatimní řešení jsme začali ale používat systém od google a webovou aplikaci Mapotic. Obě jsou funkční, ale mají své nedostatky.
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&ehbc=2E312F"></iframe>
 
-A fungující je také verze za použití webové aplikace Mapotic.
 
 <div style="-webkit-overflow-scrolling: touch; overflow-y: auto; line-height: 0px;"><iframe style="overflow: hidden; width: 100%; height: 600px;" allow="geolocation *; camera *;" frameborder="0" src="https://www.mapotic.com/mapa-skautskych-mist-6-strediska/embed"></iframe></div>
 
