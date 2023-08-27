@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2023-08-27T18:49:43.754Z
+date: 2023-08-27T18:54:07.177Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
