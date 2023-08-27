@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-08-27T09:57:25.335Z
+date: 2023-08-27T10:00:30.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -19,6 +19,7 @@ dateCreated: 2022-09-06T18:29:08.803Z
 - [:iphone: Sociální sítě ](socialni_site)
 - [:trophy: Mezidružinová soutěž ](mezidruzinova_soutez)
 - [📒 Etapy](etapy)
+- [📜Příhody](prihody)
 {.links-list}
 
 > Pokud máte zájem se připojit k tomuto oddílu, kontaktujte někoho z jeho <a href="https://ontarioskaut.wixsite.com/ontario/kontakty">vedení</a>. 
