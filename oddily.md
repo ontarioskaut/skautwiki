@@ -2,7 +2,7 @@
 title: Oddíly
 description: 
 published: true
-date: 2023-03-23T11:01:20.539Z
+date: 2023-08-27T22:05:25.973Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:10:48.624Z
@@ -23,6 +23,7 @@ dateCreated: 2022-09-07T13:10:48.624Z
 
 ## Historický vývoj oddílů
 
+
 ### Vznik oddílu pro R&R
 
 První chlapecký oddíl pro skauty byl ve středisku už od obnovení činnosti. Již pro školní rok 1991/92 se oddíl rozdělil na dva paralerní oddíly pro tutéž kategorii. Tak tomu bylo až do roku 2011/12 kdy se oddíl Albion změnil v Roverský.
@@ -32,8 +33,11 @@ První chlapecký oddíl pro skauty byl ve středisku už od obnovení činnosti
 
 ### Rozrůstání počtu oddílů
 
-Z důvodu neustálého rozrůstání členské základy 6. střediska (za podpory případných názorových nesouhlasů uvnitř vedení) byly postupně všechny hlavní kategorie nuceny vytvořit druhý paralerní oddíl. Velikost oddílu je částečně omezená počtem 20 stanů na tábořišti (z nichž je ještě nutné mít jeden vyhrazen jako Zdravoťák). Navíc je vyšší počet problematičtější při organizaci víkendových výprav a výrazně omezuje možnosti individuálního přístupu.
-Nejdříve se tak stalo o prázdninách roku 2018, kdy se od oddílu [Antares](antares) oddělil oddíl [Ontario](ontario). (Popis můžete najít také v [kronice](ontario/kronika/uvod_17)). Situace se částečně uklidnila a zbytek oddílu očekával vývoj situace. Poté následovalo vytvoření tří nových paralerních oddílů v průběhu tří let. Roku 2020 vznikl oddíl v kategorii světlušek pojmenovaný [Berušky](berusky). Následujícího roku vznikl oddíl skautek - [Artemis](artemis). [Vlčata](vlcata) se svému rozdělení velice bránila, i přesto již neměli možnost pojmout přísun nových členů. Proto vznikl mírně pokusný oddíl nazvaný [Štěňata](stenata), který nepřebíral žádné stávající členy z oddílu Vlčat, pouze nové příchozí z benjamínků. 
+Z důvodu neustálého rozrůstání členské základy 6. střediska byly postupně všechny hlavní kategorie nuceny vytvořit druhý paralelní oddíl. Svou roli sehrávala také různost pohledů a názorů na činnost oddílu. Velikost oddílu je mimo jiné omezená počtem 20 stanů na tábořišti (z nichž je ještě nutné mít jeden vyhrazen jako Zdravoťák). Navíc je vyšší počet problematičtější při organizaci víkendových výprav a může omezovat možnosti individuálního přístupu.
+Nejdříve se tak stalo o prázdninách roku 2018, kdy se od oddílu [Antares](antares) oddělil oddíl [Ontario](ontario). (Popis můžete najít také v [kronice](ontario/kronika/uvod_17)). Situace se částečně uklidnila a zbytek oddílu očekával vývoj situace. Poté následovalo vytvoření tří nových paralerních oddílů v průběhu tří let. Roku 2020 vznikl oddíl v kategorii světlušek pojmenovaný [Berušky](berusky). Následujícího roku vznikl oddíl skautek - [Artemis](artemis). [Vlčata](vlcata). Proto v září roku 2021 vznikla v rámci oddílu [Slůňat](slunata) experimentální družina [Štěňata](stenata) složená z odrostlejších chlapeckých členů Slůňat. O rok později, v září roku 2022 na jejím základě vznikl nový oddíl vlčat - [Asterion](Asterion).
+
+> Rozrůstání počtu oddílů není první svého druhu - obdobný proces probíhal ve středisku v 90. letech 20. století. V nultých letech 21. století pak zase proces opačný - redukce v důsledku zmenšování členské základny. Pamětníci ještě žijí (:
+{.is-info}
 
 > ještě old skauty a rodinky.
 {.is-info}
