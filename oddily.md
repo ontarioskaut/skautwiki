@@ -2,7 +2,7 @@
 title: Oddíly
 description: 
 published: true
-date: 2023-08-27T22:09:18.435Z
+date: 2023-08-27T22:13:27.746Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:10:48.624Z
@@ -26,7 +26,7 @@ dateCreated: 2022-09-07T13:10:48.624Z
 
 ### Vznik oddílu pro R&R
 
-První chlapecký oddíl pro skauty byl ve středisku už od obnovení činnosti. Již pro školní rok 1991/92 se oddíl rozdělil na dva paralerní oddíly pro tutéž kategorii. Tak tomu bylo až do roku 2011/12 kdy se oddíl Albion změnil v Roverský.
+První chlapecký oddíl pro skauty byl ve středisku už od obnovení činnosti. Již pro školní rok 1991/92 se oddíl rozdělil na dva paralelní oddíly pro tutéž kategorii. Tak tomu bylo až do roku 2011/12 kdy se oddíl Albion změnil v Roverský.
 
 ### Vznik oddílu pro Benjamínky
 
