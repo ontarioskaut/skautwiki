@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2023-04-03T13:48:45.725Z
+date: 2023-08-27T14:01:30.709Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -15,6 +15,10 @@ Zde vám proto přinášíme rozcestí odkazů pro popsaná místa.
 
 Tým wikipedie chtěl lepší, vlastní a originální systém, i tento od google ale provizorně funguje a můžeme ho ukázat:
 <iframe src="https://www.google.com/maps/d/embed?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&ehbc=2E312F"></iframe>
+
+A fungující je také verze za použití webové aplikace Mapotic.
+
+<div style="-webkit-overflow-scrolling: touch; overflow-y: auto; line-height: 0px;"><iframe style="overflow: hidden; width: 100%; height: 600px;" allow="geolocation *; camera *;" frameborder="0" src="https://www.mapotic.com/mapa-skautskych-mist-6-strediska/embed"></iframe></div>
 
 > Původně náš tým vyvíjel tuto webovou aplikaci na vlastní mapy, ale nedočkala se zdárného konce (resp. téměř ani začátku...). Pokud rád programuješ, můžeme společně projekt oživit. Napiš nám na [některý z kontaktů](/owiki/kontakt_spravce).
 > [Tady je web](https://kronikomapy.pernicka.cz) a [Tady je Github repozitář](https://github.com/ontarioskaut/kronikomapy)
