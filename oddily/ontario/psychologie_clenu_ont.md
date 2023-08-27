@@ -2,7 +2,7 @@
 title: Psychologie členů
 description: Psychologický rozbor emocí zachycených na členech oddílu
 published: true
-date: 2023-08-27T10:04:59.373Z
+date: 2023-08-27T10:05:23.449Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T10:05:53.634Z
@@ -30,7 +30,7 @@ A zde je radost doplněna mírným zmatením, pozorovatelným zejména v očích
 Zde naopak vidíme zářný příklad toho, kdy se emoce nejen nedotkly očí, ale dokonce ani tváře. Vyjádření radosti vztyčeným prsten tak je opravdu klamné. Skutečná emoce by se vzhledme k okolnostem měla pohybovat poblíž zklamání, že výsledkem snahy byl pouhý diplom, nebo únavy a to jak z aktivity tak z fotografa.
 
 ## Deprese
-Deprese, či smutek, je jedna z emocí, které se vedoucí naopak snaží vyhnout. Vyjímkou je snad jen dojemný proslov, či smrt hlavního hrdiny etapy, zejména jendá-li se o Napoleona. Další tolerovanou příčinou smutku je konec výpravy, či programu, který se evidentně povedl. Tehdy je člen smutný, protože se nechce ze skautského prostředí vrátít zpět do běžné reality, ať k tomu má již jakýkoli důvod. Právě tento výjimečný stav lze pozorovat i na fotce níže.
+Deprese, či smutek, je jedna z emocí, které se vedoucí naopak snaží vyhnout. Vyjímkou je snad jen dojemný proslov, či smrt hlavního hrdiny etapy, zejména jedná-li se o Napoleona. Další tolerovanou příčinou smutku je konec výpravy, či programu, který se evidentně povedl. Tehdy je člen smutný, protože se nechce ze skautského prostředí vrátít zpět do běžné reality, ať k tomu má již jakýkoli důvod. Právě tento výjimečný stav lze pozorovat i na fotce níže.
 ![f05.jpg](/obrazky/emoce/f05.jpg =300x)
 
 ## Rozrušení
