@@ -2,7 +2,7 @@
 title: Tisknutí vlastní mapy
 description: 
 published: true
-date: 2023-07-29T23:11:51.386Z
+date: 2023-08-27T18:39:41.426Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T22:34:35.149Z
@@ -40,3 +40,5 @@ Na to píšu jednoduchý skript v Pythonu:
 - zkopírovat hodnoty `box` (viz obrázek)
 ![bbox.png](/obrazky/bbox.png)
 - poslat je Hruškovi
+## Využití
+- už se to jednou hodilo, když medvědice plánovaly dvoudenku. Ovšem nakonec zřejmě změnily trasu atak naše mapa byla nejspíše nevyužita
