@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-27T09:37:41.375Z
+date: 2023-08-27T09:39:37.323Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -59,16 +59,16 @@ Mezi neobvyklé můžeme zařadit
 
 Jednotlivé ročníky, vítězové a umístění podle družin
 
-### 2018 
+### [2018](/Články/sekera/2018)
  1. Kanci (Ontario)
  2. Medojedi (Ontario)
  3. a 4. družiny Antares
  ### 2019 nesoutěžilo se
 
 ### 2020 nesoutěžilo se
-### 2021 
+### [2021](/Články/sekera/2021)
 1. Kanci (Ontario)
-### 2022 
+### [2022](/Články/sekera/2022)
 1. Kanci (Ontario)
 2. Kaňky (Medvědice)
 3. Medojedi (Ontario)
