@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-26T20:36:21.132Z
+date: 2023-08-27T09:37:41.375Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -79,6 +79,6 @@ Jednotlivé ročníky, vítězové a umístění podle družin
 1. Medojedi (Ontario)
 2. Kaňky (Medvědice)
 3. Kanci (Ontario)
-4. 
-5.
+4. Lachtani (Ontario)
+5. Lišky (Medvědice)
 6. Činčily (Medvědice)
