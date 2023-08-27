@@ -2,7 +2,7 @@
 title: Psychologie členů
 description: Psychologický rozbor emocí zachycených na členech oddílu
 published: true
-date: 2023-08-27T10:05:23.449Z
+date: 2023-08-27T10:07:05.256Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T10:05:53.634Z
@@ -38,7 +38,7 @@ Občas se stává, že podle výrazu jednoduše nelze poznat, o jakou emoci se j
 ![f02.jpg](/obrazky/emoce/f02.jpg =300x)
 
 ## Strach
-Cucání prstu značí snahu o návrat k matčině prsu, děje se to tedy ve chvílích, kdy se dospívající jedinec snaží dosáhnout klidu a pohody ve stresových situacích. 
+Cucání prstu značí snahu o návrat k matčině prsu, děje se to tedy ve chvílích, kdy se dospívající jedinec snaží dosáhnout klidu a pohody ve stresových situacích. Tomuto jevu psychologická obec říká regrese. 
 Na osobě vlevo naopak můžeme opět vidět radost. Tentokrát ale radost špatnou, evidentně zlomyslnou, ke které moderní společnost často vede. Zatahování spodního rtu přes okraj zubů může značit vícero dějství, v jednom jde o znak silné potřeby se nadechnout vyvolené silným návalem emocí a s tím spojených projevů, typicky smíchu.
 ![f01.png](/obrazky/emoce/f01.png)
 
