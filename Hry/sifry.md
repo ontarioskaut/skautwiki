@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:33:19.371Z
+date: 2023-08-28T14:36:29.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -69,6 +69,12 @@ Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce
 
 
 ## Definice nové abecedy
+Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo
+
+řešení: ROHAN
+- caesarova šifra: spibo
+
+
 
 ## Definované šifr (se šifrovacím pravítkem)
 
