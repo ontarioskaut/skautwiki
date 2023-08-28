@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T13:56:01.045Z
+date: 2023-08-28T14:06:39.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -36,10 +36,16 @@ Morseovka patří mezi mezi skauty velmi rozšířenou šifru. Samotná morseovk
 |M| _ _ |Mává|
 
 
+Méně známá tabulka zobrazuje postupné rozložení podle množství čárek a teček. I tato může být někdy využita k šifrám.
+![morse-tabulka.png](/obrazky/morse-tabulka.png)
 
 řešení: Gondor
 - základní: _ _ . / _ _ _ / _ . / _ . . / _ _ _ / . _ . //
-
+- převrácená: . . _ / . . . / . _ / . _ _ / . . . / _ . _ //
+- záměna za obrázky: :frowning_face: :frowning_face: :smiley: :neutral_face:  :frowning_face: :frowning_face: :frowning_face: :neutral_face: :frowning_face: :smiley: :neutral_face: :frowning_face: :smiley: :smiley: :neutral_face: :frowning_face: :frowning_face: :frowning_face: :neutral_face: :smiley:  :neutral_face: :smiley:  
+- speciální:
+	 - vlny
+	 - les
 
 
 
