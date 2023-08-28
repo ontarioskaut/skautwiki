@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:18:19.644Z
+date: 2023-08-28T14:21:14.488Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -51,6 +51,15 @@ pzn. záměna může být také například 1 a 0, častá je šipka otočená n
 	- velká malá písmena: AFd BMW Gq Tli XCV rTg
   - lichá sudá čísla: 241 682 83 479 862 741
   - morseovku lze schovat do čehokoli, co má dvě varianty. Zde je ukázaných pár, možností je ale celá řada. Kromě velkých a malých písmen, nebo licých a sudých čísel, se může jednat například o souhlásky a samohlásky. Stejný princip lze použít u obrázků. Nemusí jít o dva/tři obrázky, ale o dvě/tři kategorie obrázků.
+  
+## Další
+
+řešení: Eriador
+- text zapsán pozpátku: Rodaire
+- každé druhé: Ewroiaapdlomr
+- přední - zadní: Eidroar
+
+
   
 
 
