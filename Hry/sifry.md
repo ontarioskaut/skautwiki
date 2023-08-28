@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:22:15.037Z
+date: 2023-08-28T14:27:40.806Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -61,7 +61,15 @@ pzn. záměna může být také například 1 a 0, častá je šipka otočená n
 - každé druhé: Ewroiaapdlomr
 - přední - zadní: Eidroar
 
-## Číselné
+## Definice nové abecedy
+
+## Definované šifr (se šifrovacím pravítkem)
+
+## Zbylé
+
+řešené: Sirmarilion
+- dvojice znaků > AC znamená B: RT HJ QS LN ZB QS HJ KM HJ NP MO
+- 
 
 
   
