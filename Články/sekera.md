@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-28T13:02:54.380Z
+date: 2023-08-28T13:11:32.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -51,9 +51,10 @@ Mezi obvyklé patří také
 - odhad
 - řezání pilou / sekání sekerou (popřípadě zatloukání hřebíků)
 
-Mezi neobvyklé můžeme zařadit
+Mezi méně obvyklé můžeme zařadit
 
 - úkoly na spolupráci (viz. dotkni se stromu co nejvýše)
+- úkoly z běžného života - hledání v jízdních řádech, dříve v telefoních seznamech
 
 ## Ročníky
 
