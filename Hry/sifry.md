@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:21:14.488Z
+date: 2023-08-28T14:21:46.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -14,6 +14,8 @@ Stejně jako je užitečné mít někde sepsané otázky, které lze znovu použ
 
 > Pokud budou mít autoři dostatek času, tak se možná pokusí udělat k tomuto souboru taktéž programový dodatek na šifrování a dešifrování
 {.is-info}
+
+## Základní teorie
 
 
 ## Morseovka
