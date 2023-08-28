@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:27:40.806Z
+date: 2023-08-28T14:33:19.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -60,6 +60,13 @@ pzn. záměna může být také například 1 a 0, častá je šipka otočená n
 - text zapsán pozpátku: Rodaire
 - každé druhé: Ewroiaapdlomr
 - přední - zadní: Eidroar
+- čtverce
+|-|-|-|
+|E|E|R|
+|R|W|O|
+|I|A|D|
+Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce) a výchozí pozice též nemusí být vždy nahoře. 
+
 
 ## Definice nové abecedy
 
