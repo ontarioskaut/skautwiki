@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-28T14:06:39.854Z
+date: 2023-08-28T14:18:19.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -17,10 +17,10 @@ Stejně jako je užitečné mít někde sepsané otázky, které lze znovu použ
 
 
 ## Morseovka
-Morseovka patří mezi mezi skauty velmi rozšířenou šifru. Samotná morseovka je ale poměrně často poněkud fádní a je velmi jednoduché čárky a tečky nahradit libovolnou jinou dvojicí symoblů. (Nejčastěji tedy trojicí se započtením oddělovacího znaku).
+Morseovka patří mezi mezi skauty velmi rozšířenou šifru. Samotná morseovka je ale poměrně často poněkud fádní a je velmi jednoduché čárky a tečky nahradit libovolnou jinou dvojicí symoblů. (Nejčastěji tedy trojicí se započtením oddělovacího znaku). Morseovka navíc dobře slouží jako nástavba na jinou šifru. (už zapsání řešení morseovky pozpátku může výrazně prodloužit čas luštění, jelikož nebude možné tak snadno hádat další znaky.)
 
 |--|-----|----------------|--|-----|----------------|
-|A|._ | Akát|N| _ . | Nástup|
+|A|. _ | Akát|N| _ . | Nástup|
 |B|_ . . .|Blýskavice|O| _ _ _ | Ó náš pán|
 |C|_ . _ .| Cílovníci|P|. _ _ . |Papírnící|
 |D|_ . . |Dálava|Q| _ _ . _ |Kvílí orkán|
@@ -42,10 +42,16 @@ Méně známá tabulka zobrazuje postupné rozložení podle množství čárek 
 řešení: Gondor
 - základní: _ _ . / _ _ _ / _ . / _ . . / _ _ _ / . _ . //
 - převrácená: . . _ / . . . / . _ / . _ _ / . . . / _ . _ //
-- záměna za obrázky: :frowning_face: :frowning_face: :smiley: :neutral_face:  :frowning_face: :frowning_face: :frowning_face: :neutral_face: :frowning_face: :smiley: :neutral_face: :frowning_face: :smiley: :smiley: :neutral_face: :frowning_face: :frowning_face: :frowning_face: :neutral_face: :smiley:  :neutral_face: :smiley:  
+- záměna za obrázky: :frowning_face: :frowning_face: :smiley: :neutral_face:  :frowning_face: :frowning_face: :frowning_face: :neutral_face: :frowning_face: :smiley: :neutral_face: :frowning_face: :smiley: :smiley: :neutral_face: :frowning_face: :frowning_face: :frowning_face: :neutral_face: :smiley:  :neutral_face: :smiley: 
+pzn. záměna může být také například 1 a 0, častá je šipka otočená na jednu či druhou stranu
 - speciální:
 	 - vlny
 	 - les
+- rozšířené (morseovku lze schovat do čehokoli, co má dvě varianty. Zde je ukázaných pár, možností je ale celá řada. Kromě velkých a malých písmen, nebo licých a sudých čísel, se může jednat o 
+	- velká malá písmena: AFd BMW Gq Tli XCV rTg
+  - lichá sudá čísla: 241 682 83 479 862 741
+  - morseovku lze schovat do čehokoli, co má dvě varianty. Zde je ukázaných pár, možností je ale celá řada. Kromě velkých a malých písmen, nebo licých a sudých čísel, se může jednat například o souhlásky a samohlásky. Stejný princip lze použít u obrázků. Nemusí jít o dva/tři obrázky, ale o dvě/tři kategorie obrázků.
+  
 
 
 
