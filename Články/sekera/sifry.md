@@ -2,7 +2,7 @@
 title: Šifry ze sekery
 description: 
 published: true
-date: 2023-08-28T13:01:02.584Z
+date: 2023-08-28T13:05:03.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-28T09:18:29.805Z
@@ -67,6 +67,8 @@ Jedná se o druhá písmena na daném řádku.
 
 ## Rok 2023
 Roku 2023 byla vytvořena nová sada šifer. Výsledkem byly (až na jednu výjimku) názvy afrických států, aby bylo zabráněno možnosti si výsledky lehce domýšlet. Šifry byly ovšem těžší než předchozí verze a proto k nim byla od začátku dávána nápověda a v průběhu luštění bylo upozorňováno na chyby nebo naopak na dobré nápady, které stačí jen dokončit.
+
+I přes počáteční obavy, zvládla jedna družina 5,5 šifry a s 5 dokončenými ji následovaly hned 2 další.
 
 1)
 SPERA
