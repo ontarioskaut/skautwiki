@@ -2,7 +2,7 @@
 title: Šifry ze sekery
 description: 
 published: true
-date: 2023-08-28T12:47:45.396Z
+date: 2023-08-28T13:01:02.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-28T09:18:29.805Z
@@ -66,7 +66,7 @@ Jedná se o druhá písmena na daném řádku.
 ![sifry_2021.jpg](/obrazky/sifry_2021.jpg)
 
 ## Rok 2023
-Roku 2023 byla vytvořena nová sada šifer. Výsledkem byly tentokrát názvy afrických států, aby bylo zabráněno možnosti si výsledky lehce domýšlet. Šifry byly ovšem těžší než předchozí verze a proto k nim byla od začátku dávána nápověda a v průběhu luštění bylo upozorňováno na chyby nebo naopak na dobré nápady, které stačí jen dokončit.
+Roku 2023 byla vytvořena nová sada šifer. Výsledkem byly (až na jednu výjimku) názvy afrických států, aby bylo zabráněno možnosti si výsledky lehce domýšlet. Šifry byly ovšem těžší než předchozí verze a proto k nim byla od začátku dávána nápověda a v průběhu luštění bylo upozorňováno na chyby nebo naopak na dobré nápady, které stačí jen dokončit.
 
 1)
 SPERA
@@ -112,7 +112,26 @@ pí = 3,14159265358979232
 K této tzv. PÍtomé básničce, bylo přiložené číslo pí. Ve výsledku měl člověk z prvního řádku vzít 3. písmeno, z druhého 1., ze třetího řádku 4. atd. 
 
 5)
-[:up_arrow:]
+:arrow_right: :arrow_down: :arrow_left: :arrow_up: :arrow_up: :arrow_right: 
+:arrow_up: :arrow_up: :arrow_down: :arrow_right: :arrow_up: :arrow_down: :arrow_down: 
+:arrow_up: :arrow_up:  :arrow_right: :arrow_down: :arrow_left:  :arrow_right: :arrow_down: 
+:arrow_up: :arrow_up: :arrow_lower_right: :arrow_lower_right: :arrow_up: :arrow_up: 
+:arrow_up: :arrow_up:  :arrow_right: :arrow_down: :arrow_left:  :arrow_right: :arrow_down: 
+řešení: Ghana
+stačilo nakreslit obrzace podle šipek vždy po řádku
 
+6)
+AGLAON
+řešení: Angola
+Jednoduché přesmyčka stejná jako v předchozí verzi. Přední-zadní.
+
+7)
+5 / 2 / 27 / 10 / 3 / 14
+
+Genesis 12.10
+V zemi pak nastal hlad, a tak se Abram vydal dolů do Egypta. Chtěl tam nějakou dobu pobýt, neboť v zemi panoval krutý hlad.
+
+řešení: Izrael
+Z přiloženého citátu stačilo vždy jen vzít 5. pak 2. pak 27. znak. Šifra byla ve výsledku docela jednoduchá. A v tento moment se asi už nikdo nedozví, proč byl vybrán Izrael a ne nějaký Africký stát. Zvláště po zjištění, že první písmena řešení dávají dohromady název Senegal je záměna L za I na konci poměrně matoucí. Tato osmá, bonusová, šifra nakonec ale nebyla ani představována.
 
 
