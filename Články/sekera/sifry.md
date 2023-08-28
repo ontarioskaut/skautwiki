@@ -2,7 +2,7 @@
 title: Šifry ze sekery
 description: 
 published: true
-date: 2023-08-28T09:18:29.805Z
+date: 2023-08-28T12:47:45.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-28T09:18:29.805Z
@@ -96,3 +96,23 @@ Tak se snažte.
 
 mezikrok: _ . / . _ / _ _ / .. / _... / .. / .
 řešení: Namibie
+Skupinám bylo na začátku řečeno, že mají v textu hledat morseovku. Našla ji ale jen jedna skupina. Doslova stačí najít čárky a tečky ve větách, vždy s jedním písmenem na řádek. 
+
+4)
+Tvé oči jsou jak nebe
+Radost z nich přímo čiší
+Safíry proti nim vypadají bledé
+Tvá mysl je plně na výši.
+Ruka ruku drží
+city emoce stěží
+tento nápor vydrží.
+
+pí = 3,14159265358979232
+řešení: Eritrea
+K této tzv. PÍtomé básničce, bylo přiložené číslo pí. Ve výsledku měl člověk z prvního řádku vzít 3. písmeno, z druhého 1., ze třetího řádku 4. atd. 
+
+5)
+[:up_arrow:]
+
+
+
