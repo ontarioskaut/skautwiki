@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-27T17:53:56.721Z
+date: 2023-08-28T13:02:19.980Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -41,7 +41,7 @@ Mezi klasické patří:
 - zdravověda (nejčastěji simulace)
 - uzly
 - historie
-- šifry
+- [šifry](/Články/sekera/sifra_sekera)
 
 Mezi obvyklé patří také
 
