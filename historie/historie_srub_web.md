@@ -2,7 +2,7 @@
 title: Historie srubu
 description: Převzato z webu střediska
 published: true
-date: 2022-09-08T13:42:38.777Z
+date: 2023-08-31T19:48:26.731Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-08T13:42:38.777Z
@@ -14,6 +14,9 @@ Uveřejněno ve střediskovém zpravodaji v září 2004. Srub byl dostaven roku
 > Plus někdy byla postavena kuchyň na dolní louce.
 {.is-info}
 
+
+>následující část je převzata ze stránek střediska 
+{.is-warning}
 
 ## Důvody ke stavbě srubu
 Většinu táborového materiálu máme uskladněnou ve stodole pana Brhela v Lidečku-Račném. Kdo z vás jezdí k nám na tábory, jistě si všiml této stodoly přímo u cesty na jejím konci v Račném. Stodola je v současné době již ve špatném stavu a v minulosti jsme tam zaznamenali také krádeže. Během roku 2002 byl majitel stodoly pan Brhel hospitalizován v nemocnici a do svého domu se již nevrátil. Později byl umístěn v pečovatelském domě v Nedašově Lhotě. O necelý rok později se z domu odstěhovala i jeho žena. Dům i se stodolou nyní spravuje synovec pana Brhela a se stodolou má další úmysly.
