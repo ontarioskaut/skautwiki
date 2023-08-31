@@ -2,7 +2,7 @@
 title: Historie srubu
 description: Převzato z webu střediska
 published: true
-date: 2023-08-31T19:50:12.876Z
+date: 2023-08-31T19:53:47.328Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-08T13:42:38.777Z
