@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T16:50:46.585Z
+date: 2023-08-31T16:57:35.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -73,8 +73,7 @@ Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce
 ## Definice nové abecedy
 Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo.
 
-řešení: ROHAN
-- caesarova šifra: spibo
+
 
 Mnohé šifry ale definují "novou" abecedu složitějším způsobem. Typickým je soupis nějakých 26 položek, ze kterých vždy první písmeno vezmeme a to pak zastupuje A, první písmeno z druhé položky zastupuje B, atd. 
 
@@ -82,7 +81,7 @@ Používaný je též systém otočené abecedy, kdy A=Z, Y=B
 
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
-|B|O|D|J|E|S|T|C|N|M|A|I|L|U|R|P|K|Z|Y|H|V|
+|Z|Y|X|W|V|U|T|S|R|Q|P|O|N|M|L|K|J|I|H|G|F|E|D|C|B|A|
 
 
 Stará vojenská šifra je pak založena na znalosti nějakého úryvku (často používána kniha, kterou měli všichni u sebe, například Bible). 
@@ -93,11 +92,14 @@ například úryvek z Euklidových základů:
 By vytvořil abecedu kdy první písmeno úryvku odpovídá písmenu A atd. Ale pak je nutné přeskočit opakující se symboly (pokud tedy potřebujeme používat poslední písmena abecedy, je nutné použít úryvek se všemi znaky)
 
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|VSS|W|X|Y|Z|
-|Z|Y|X|W|V|U|T|S|R|Q|P|O|N|M|L|K|J|I|H|G|F|E
-slovo ROHAN, by tak bylo zašifrováno jako ZRCB
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
+|B|O|D|J|E|S|T|C|N|M|A|I|L|U|R|P|K|Z|Y|H|V|
 
 
+řešení: ROHAN
+- caesarova šifra: spibo
+- otočená abeceda: ilszm
+- abeceda z úryvku: zrcb
 
 
 ## Definované šifr (se šifrovacím pravítkem)
