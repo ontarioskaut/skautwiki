@@ -2,7 +2,7 @@
 title: Vkládání a úprava obrázků
 description: 
 published: true
-date: 2023-01-19T13:48:39.561Z
+date: 2023-08-31T19:09:59.817Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-10T09:12:44.317Z
@@ -36,4 +36,4 @@ Zde je vše udělané jednoduše. Stačí jen stisknout tlačítko obrázku a na
 
 ![img_20230119_143922.jpg](/img_20230119_143922.jpg)
 
-# Obrázky nelze vlkádat vložením ze schtánky!!!
+# Obrázky nelze vlkádat vložením ze schránky!!!
