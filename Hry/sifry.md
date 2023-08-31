@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T16:57:35.404Z
+date: 2023-08-31T16:59:52.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -108,12 +108,9 @@ By vytvořil abecedu kdy první písmeno úryvku odpovídá písmenu A atd. Ale 
 
 řešené: Sirmarilion
 - dvojice znaků > AC znamená B: RT HJ QS LN ZB QS HJ KM HJ NP MO
-- 
-
+- čísla znamenají pořadí v abecedě: 
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21||22|23|24|25|26|
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
 
   
-
-
-
-
-
