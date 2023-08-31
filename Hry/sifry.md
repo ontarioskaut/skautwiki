@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T17:32:15.877Z
+date: 2023-08-31T18:21:16.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -121,6 +121,9 @@ další kategorií je záměna písmen abecedy za zpravidla první písmeno náz
 |1|2|3|             |ABC|DEF|GHI|        ||ABC|DEF|
 |4|5|6|             |JKL|MNO|PQR|        |GHI|JKL|MNO|
 |7|8|9|             |STU|VWX|YZ|         |PQRS|TUV|WXYZ|
+- za písmenem: DAHJQSJHSQIDFAKNQRDBYCQMDGJQAJIFYQIDFPOQRNUABQIDBAQLDCBIQICDDACBKQOCQN
+*písmeno šifry je vždy za nějakým písmenem, typicky něco méně obvyklého, jako Q nebo X*
+
 
 
 
