@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T18:21:35.739Z
+date: 2023-08-31T19:17:58.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -62,6 +62,7 @@ Mnoho šifer je založeno jen na přeskládání písmen podle určitého klíč
 - text zapsán pozpátku: Rodaire
 - každé druhé: Ewroiaapdlomr
 - přední - zadní: Eidroar
+- dopředu ob jedno a návrat zpět: Erroida
 - čtverce
 |-|-|-|
 |E|E|R|
@@ -106,8 +107,14 @@ další kategorií je záměna písmen abecedy za zpravidla první písmeno náz
 
 ## Definované šifr (se šifrovacím pravítkem)
 
+Existuje mnoho zaužívaných šifer, které si ale obvykle člověk nepamatuje z hlavy. Mezi nejznámější patří (hned po morseovce, což je výjimka u skautů) Brailovo písmo, praporková nebo praporová abeceda. Pro podobné šifry existují takzvaná šifrovací pravítka. Na soutěžích se používá například [napalm](/obrazky/sifr_prav_napalm.pdf)
 
+Nejpoužívanější je tento sloupec. Obsahuje obrácenou abecedu, čísla v pořadí, normální abecedu, morseovu abecedu, brailovo písmo, pořadí v římských číslech, pořadí ve dvojkové, trojkové, osmičkové i šesnáctkové soustavě, praporkovou abecedu tzv. semafor a námořní vlajky pro abecedu.
+![sifr_prav.png](/obrazky/sifr_prav.png)
 
+Tato velká tabulka je používána pro sčítací šifru. Je dáno dopředu známé heslo. Napřéklad ARNOR. A slovo které chceme zašifrovat, například GONDOR. Postupujeme tak, že si v horní liště najdeme písmeno G (7. sloupec) a sjíždíme v daném sloupci dolů, dokud nenarazíme na písmeno A (20. řádek), první písmeno v šifře pak tedy bude T. Dále postoupíme k písmenu O a najdeme pod ním písmeno R, dostaneme C. Po "vyplýtvání" hesla ho bereme odznovu. V našem případě tak celkový klíč bude ARNORA
+Celková šifra bude TCZKCI
+![sifr_prav2.png](/obrazky/sifr_prav2.png)
 
 ## Zbylé
 
