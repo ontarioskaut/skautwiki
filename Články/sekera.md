@@ -2,7 +2,7 @@
 title: Sekera
 description: Tradiční mezidružinová a mezioddílová soutěž
 published: true
-date: 2023-08-28T13:11:32.419Z
+date: 2023-08-31T16:26:35.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-24T06:45:06.847Z
@@ -32,6 +32,8 @@ Po vzoru skautů vytvořil tradici sekery také oddíl vlčat.
 > který je opět třeba doplnit
 {.is-info}
 
+
+![sekera_vlcata.jpg](/obrazky/sekera_vlcata.jpg =400x)  ![sekera_vlcata_2.jpg](/obrazky/sekera_vlcata_2.jpg =400x)
 
 ## Úkoly
 
