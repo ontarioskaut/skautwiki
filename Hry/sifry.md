@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T19:17:58.546Z
+date: 2023-08-31T19:30:21.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -72,7 +72,9 @@ Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce
 
 
 ## Definice nové abecedy
-Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo.
+Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo. Někdy jde posun definovat také písmenem. Například posun o 4 znamená že A=E. A samozřejmě existuje těžší verze posouvání každého písmene o jiný počet. To je podobné šifrování pomocí velké tabulky.
+
+
 
 Mnohé šifry ale definují "novou" abecedu složitějším způsobem. Typickým je soupis nějakých 26 položek, ze kterých vždy první písmeno vezmeme a to pak zastupuje A, první písmeno z druhé položky zastupuje B, atd. 
 
@@ -94,11 +96,18 @@ By vytvořil abecedu kdy první písmeno úryvku odpovídá písmenu A atd. Ale 
 |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
 |B|O|D|J|E|S|T|C|N|M|A|I|L|U|R|P|K|Z|Y|H|V|
 
+Další možností je postunutí abecedy podle klíčového slova. Zbytek je doplněn podle abecedy.
+S klíčovým slovem Tolkien, bychom tak dostali abecedu
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
+|T|O|L|K|I|E|N|A|B|C|D|F|G|H|J|M|P|Q|R|S|U|V|W|X|Y|Z|
+
 
 řešení: ROHAN
 - caesarova šifra: spibo
 - otočená abeceda: ilszm
-- abeceda z úryvku: zrcb
+- abeceda z úryvku: zrcbu
+- posunutá abeceda: qjath
 
 další kategorií je záměna písmen abecedy za zpravidla první písmeno názvu. Asi nejrozšířenější je vlajková šifra. Použít můžeme ale teoreticky i značky aut, nebo jakýchkoli libovolných předmětů.
 řešení: SIRMARILION
@@ -112,7 +121,7 @@ Existuje mnoho zaužívaných šifer, které si ale obvykle člověk nepamatuje 
 Nejpoužívanější je tento sloupec. Obsahuje obrácenou abecedu, čísla v pořadí, normální abecedu, morseovu abecedu, brailovo písmo, pořadí v římských číslech, pořadí ve dvojkové, trojkové, osmičkové i šesnáctkové soustavě, praporkovou abecedu tzv. semafor a námořní vlajky pro abecedu.
 ![sifr_prav.png](/obrazky/sifr_prav.png)
 
-Tato velká tabulka je používána pro sčítací šifru. Je dáno dopředu známé heslo. Napřéklad ARNOR. A slovo které chceme zašifrovat, například GONDOR. Postupujeme tak, že si v horní liště najdeme písmeno G (7. sloupec) a sjíždíme v daném sloupci dolů, dokud nenarazíme na písmeno A (20. řádek), první písmeno v šifře pak tedy bude T. Dále postoupíme k písmenu O a najdeme pod ním písmeno R, dostaneme C. Po "vyplýtvání" hesla ho bereme odznovu. V našem případě tak celkový klíč bude ARNORA
+Tato velká tabulka je používána pro sčítací šifru (též Tritheimovu). Je dáno dopředu známé heslo. Napřéklad ARNOR. A slovo které chceme zašifrovat, například GONDOR. Postupujeme tak, že si v horní liště najdeme písmeno G (7. sloupec) a sjíždíme v daném sloupci dolů, dokud nenarazíme na písmeno A (20. řádek), první písmeno v šifře pak tedy bude T. Dále postoupíme k písmenu O a najdeme pod ním písmeno R, dostaneme C. Po "vyplýtvání" hesla ho bereme odznovu. V našem případě tak celkový klíč bude ARNORA
 Celková šifra bude TCZKCI
 ![sifr_prav2.png](/obrazky/sifr_prav2.png)
 
