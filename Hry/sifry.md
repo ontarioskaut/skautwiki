@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T17:28:05.532Z
+date: 2023-08-31T17:32:15.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -73,8 +73,6 @@ Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce
 ## Definice nové abecedy
 Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo.
 
-
-
 Mnohé šifry ale definují "novou" abecedu složitějším způsobem. Typickým je soupis nějakých 26 položek, ze kterých vždy první písmeno vezmeme a to pak zastupuje A, první písmeno z druhé položky zastupuje B, atd. 
 
 Používaný je též systém otočené abecedy, kdy A=Z, Y=B
@@ -101,6 +99,10 @@ By vytvořil abecedu kdy první písmeno úryvku odpovídá písmenu A atd. Ale 
 - otočená abeceda: ilszm
 - abeceda z úryvku: zrcb
 
+další kategorií je záměna písmen abecedy za zpravidla první písmeno názvu. Asi nejrozšířenější je vlajková šifra. Použít můžeme ale teoreticky i značky aut, nebo jakýchkoli libovolných předmětů.
+řešení: SIRMARILION
+- vlajková: :sweden: :ireland: :romania: :macedonia: :australia: :ru: :it: :latvia: :israel: :oman: :norway:
+*Může nastat mírný konflikt mezi anglickými a českými názvy. Zajímavostí je, že na písmeno O začíná pouze Omán. Který ale bohužel není příliš známý.*
 
 ## Definované šifr (se šifrovacím pravítkem)
 
@@ -120,9 +122,7 @@ By vytvořil abecedu kdy první písmeno úryvku odpovídá písmenu A atd. Ale 
 |4|5|6|             |JKL|MNO|PQR|        |GHI|JKL|MNO|
 |7|8|9|             |STU|VWX|YZ|         |PQRS|TUV|WXYZ|
 
-- vlajková: :sweden: :ireland: :romania: :macedonia: :australia: :ru: :it: :latvia: :israel: :oman: :norway:
 
-*záměna písmen za vlajku státu podle prvního písmen. Izrael = I. Může nastat mírný konflikt mezi anglickými a českými názvy. Zajímavostí je, že na písmeno O začíná pouze Omán. Který ale bohužel není příliš známý.*
 
 
 
