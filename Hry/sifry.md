@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T18:21:16.186Z
+date: 2023-08-31T18:21:35.739Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -105,6 +105,9 @@ další kategorií je záměna písmen abecedy za zpravidla první písmeno náz
 *Může nastat mírný konflikt mezi anglickými a českými názvy. Zajímavostí je, že na písmeno O začíná pouze Omán. Který ale bohužel není příliš známý.*
 
 ## Definované šifr (se šifrovacím pravítkem)
+
+
+
 
 ## Zbylé
 
