@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-08-31T19:30:21.671Z
+date: 2023-08-31T20:08:44.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -74,8 +74,6 @@ Lze pracovat s vícero směry a možnostmi projití tabulky (šnek, had, sloupce
 ## Definice nové abecedy
 Celá škála šifer je založených na definici nové abecedy. Nejjednoduším příkladem je Caesarova šifra (posun písmen v abecedě). Už tam ale může dojít k posunu o jedno až 27 písmen. Při vyšších číslech je ale nutné někdy bokem definovat právě toto posunové číslo. Někdy jde posun definovat také písmenem. Například posun o 4 znamená že A=E. A samozřejmě existuje těžší verze posouvání každého písmene o jiný počet. To je podobné šifrování pomocí velké tabulky.
 
-
-
 Mnohé šifry ale definují "novou" abecedu složitějším způsobem. Typickým je soupis nějakých 26 položek, ze kterých vždy první písmeno vezmeme a to pak zastupuje A, první písmeno z druhé položky zastupuje B, atd. 
 
 Používaný je též systém otočené abecedy, kdy A=Z, Y=B
@@ -113,6 +111,11 @@ další kategorií je záměna písmen abecedy za zpravidla první písmeno náz
 řešení: SIRMARILION
 - vlajková: :sweden: :ireland: :romania: :macedonia: :australia: :ru: :it: :latvia: :israel: :oman: :norway:
 *Může nastat mírný konflikt mezi anglickými a českými názvy. Zajímavostí je, že na písmeno O začíná pouze Omán. Který ale bohužel není příliš známý.*
+
+Pokud neznáme klíč tak můžeme u větších textů postupovat podle frekvenční analýzy. 
+Frekvenční analýza udává poměrové zastoupení jednotlivých písmen v průměrném textu. Pak tedy lze spočítat zastoupení jednotlivých znaků v zašifrovaném textu a doplnit je podle průměru. Každy jazyk má svoje údaje, tato tabulka pochází ze stujijí Masarykovy univerzity. Někdy se četnost udává graficky, tento graf je ovšem pro angličtinu. I přesto se obě statistiky shodnou, že samohlásky budou používány častěji.
+
+![frekvencni_analyza.png](/obrazky/frekvencni_analyza.png =400x) ![frekvencni_analyza.png](/frekvencni_analyza.png =300x)
 
 ## Definované šifr (se šifrovacím pravítkem)
 
