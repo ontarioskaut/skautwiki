@@ -2,14 +2,14 @@
 title: Historie srubu
 description: Převzato z webu střediska
 published: true
-date: 2023-08-31T19:48:26.731Z
+date: 2023-08-31T19:50:12.876Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-08T13:42:38.777Z
 ---
 
 # Srub v Lidečku
-Uveřejněno ve střediskovém zpravodaji v září 2004. Srub byl dostaven roku 2009 a v roce 2010 se začalo s opravou hřiště před Paseckou klubovnou. Většina prvků byla přidána do roku 2012. Další důležitou stavbou byla Vrtaná studna. Samozný vrt byl hluboký 40,25 metru a byl proveden 30.09.2011. Na jaro roku 2017 byl vybudován přístřešek na louce hroního tábořiště. V listopadu 2018 začala rekonstrukce farního domu na Kudlově. Již následující rok začala být využívána. Během jara 2022 došlo k zateplení půdy Srubu.
+Uveřejněno ve střediskovém zpravodaji v září 2004. Srub byl dostaven roku 2009 a v roce 2010 se začalo s opravou hřiště před Paseckou klubovnou. Většina prvků byla přidána do roku 2012. Další důležitou stavbou byla Vrtaná studna. Samozný vrt byl hluboký 40,25 metru a byl proveden 30.09.2011. (Voda byla do té doby čerpána z cisteren, které byly na začátku sezóny přivezeny a případě z malé studánky, ovšem s nedostatečnou kapacitou a čistotou) Na jaro roku 2017 byl vybudován přístřešek na louce hroního tábořiště. V listopadu 2018 začala rekonstrukce farního domu na Kudlově. Již následující rok začala být využívána. Během jara 2022 došlo k zateplení půdy Srubu.
 
 > Plus někdy byla postavena kuchyň na dolní louce.
 {.is-info}
