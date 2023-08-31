@@ -2,7 +2,7 @@
 title: Džejms
 description: Historie a popis akcí zaměřených pro vedoucí
 published: true
-date: 2023-08-31T19:43:54.181Z
+date: 2023-08-31T19:46:11.829Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T06:42:33.729Z
