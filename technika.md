@@ -2,7 +2,7 @@
 title: Technika a IT
 description: 
 published: true
-date: 2022-09-04T21:59:49.477Z
+date: 2023-09-08T23:37:08.493Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T21:03:15.791Z
@@ -30,4 +30,7 @@ resp. budeme mít. Zatím tvoříme nějakou osnovu, aby se měli případní p�
 
 ### Provozní záležitosti
 - [:potable_water: Voda ve srubu *Kde se bere vode z hadic ve srubu? Jak funguje celá soustava pro provoz? Jaké mohou nastat problémy a jak je řešit? Tady vše odpovíme!*](voda_srub)
+- [:fire: Kamna *Jak se správně staví kamna*](kamna)
+- [:tent: Zubříky & teepee *Jak to správně stavět*](kamna)
+
 {.links-list}
