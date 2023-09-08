@@ -2,7 +2,7 @@
 title: Asterion
 description: 53. oddíl vlčat
 published: true
-date: 2023-08-27T22:49:21.291Z
+date: 2023-09-08T23:42:30.279Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-31T07:13:31.330Z
@@ -39,6 +39,7 @@ V září roku 2022 začínal oddíl se čtyřmi vedoucími:
 
 Postupem času se dařilo do vedení oddílu získávat další posily. Přes snahu přibrat do vedení oddílu i mladší lidi se ve vedení oddílu za první rok fungování nikdo takový neobjevil.
 
-## Kontroverze
+## Budoucnost
+> TODO: napsat motivační text pro případné mladší vedoucí
+{.is-info}
 
-Vznik oddílu byl v mnoha ohledech atypický a proto nevzbudil pouze sympatie. V první řadě je důležité, že je vedený jen a pouze dospělými lidmi. Přítomnost rodičů nepodporuje některé důležité skautské hodnoty, jako samostatnost, a zároveň odrazuje nové mladé vedoucí, aby se k oddílu přidali. Nezdanedbatelnou obavu bylo možné pozorovat také v otázce, zda jsou tito rodiče pro vedení vůbec vhodní (dlouhá doba mimo skauting, potřeba prosazovat vlastní pohled na výchovu dětí před obecně přijímanými standardy střediska, či fakt, že některé z nových vedoucích zbytek střediska téměř nezná). Druhá část problému spočívala v tom, že původní vlčata odmítla, aby se jednalo o rozdělení, ale upřednostila pouhý vznik paralelního oddílu. V Asterionech se tak nacházel jen první ročník příchozích ze Slůňat, což opět ohrožuje možnost být vychováván staršími kamarády a naopak zvedá roli, kterou ve výchově hrají vedoucí...
