@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2023-09-08T23:30:29.551Z
+date: 2023-09-08T23:33:54.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -22,6 +22,9 @@ Tým wiki chtěl lepší, vlastní a originální systém. Jako prozatimní ře�
 
 > Původně náš tým vyvíjel tuto webovou aplikaci na vlastní mapy, ale nedočkala se zdárného konce (resp. téměř ani začátku...). Pokud rád programuješ, můžeme společně projekt oživit. Napiš nám na [některý z kontaktů](/owiki/kontakt_spravce).
 > [Tady je web](https://kronikomapy.pernicka.cz) a [Tady je Github repozitář](https://github.com/ontarioskaut/kronikomapy)
+{.is-info}
+
+> Bylo by cool k místem níže a do odkazovaných stránek doplnit vlastnictví, pokud je to místo námi často používané.
 {.is-info}
 
 ## Lidečko
