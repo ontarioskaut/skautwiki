@@ -2,8 +2,8 @@
 title: Psychologie členů
 description: Psychologický rozbor emocí zachycených na členech oddílu
 published: true
-date: 2023-09-08T23:05:24.033Z
-tags: ontario
+date: 2023-09-09T09:58:53.877Z
+tags: ontario, oddily
 editor: markdown
 dateCreated: 2022-11-24T10:05:53.634Z
 ---
