@@ -2,7 +2,7 @@
 title: Klubovny
 description: Klubovny střediska
 published: true
-date: 2023-04-03T14:14:36.271Z
+date: 2023-09-09T00:15:47.273Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-03T11:08:07.534Z
@@ -22,4 +22,4 @@ Půda slouží jako skladiště
 Klubovna bývá pronajímána i pro zájemce zvenčí. 
 
 ## Kudlovská klubovna
-Není ve vlastnictví našeho střediska, nýbrž řipadá dolní farnosti. Ke své činnosti její prostory však používají oddíly Ontario, Artemis a Berušky
+Není ve vlastnictví našeho střediska, nýbrž připadá dolní farnosti. Ke své činnosti její prostory však používají oddíly Ontario, Artemis a Berušky
