@@ -2,8 +2,8 @@
 title: PraSe
 description: pracovní setkání
 published: true
-date: 2022-10-16T20:33:57.863Z
-tags: 
+date: 2023-09-09T00:18:25.242Z
+tags: ontario
 editor: markdown
 dateCreated: 2022-10-16T20:14:55.670Z
 ---
