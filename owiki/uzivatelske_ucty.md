@@ -2,7 +2,7 @@
 title: Uživatelské účty
 description: Jak se registrovat, jaké jsou zde role, atd.
 published: true
-date: 2023-09-09T00:57:34.930Z
+date: 2023-09-09T09:53:33.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-09T00:45:07.323Z
@@ -28,6 +28,7 @@ Pokud nemáš střediskovou emailovou adresu, tvé pokusy o sebe-registraci budo
 - stejné jako Návštěvník, ale povoluje psaní komentářů
 ### Editor
 - role automaticky přidělena lidem registrovaným pomocí zlin6.cz emailu
-- umožňuje přístup pro úpravy do všech částí wiki kromě stránek se štítkem oddílu
+- umožňuje přístup pro úpravy do všech částí wiki kromě stránek se štítkem `oddily`
 ### Oddíly/Oddíl
-- rozšiřuje práva Editora o přístup ke stránkám se štítkem určitého oddílu (včetně úprav)
+- stejná role jako Editor, akorát rozšířená o přístup ke stránkám se štítkem určitého oddílu (včetně úprav)
+- štítky oddílů jsou název oddílu malými písmeny a bez diakritiky
