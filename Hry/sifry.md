@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-09-12T18:16:51.578Z
+date: 2023-09-12T18:19:55.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -148,13 +148,19 @@ Celková šifra bude TCZKCI
 
 ## Náhodná sbírka šifer pro další použit
 
-další příklady šifer naleznete ve složce o sekeře[sekera](/Články/sekera)
+*další příklady šifer naleznete ve složce o [sekeře](/Články/sekera)*
 
 - SNAAAN ŘÍTAP AN ZZIPU 625314 45321 12 43215
-		= ananas patří na pizzu
+			= ananas patří na pizzu
 - eregeontfdwqrtgfvhocfvfcvrt 00010110010000000010000010
-	= gondor
-
+			= gondor
+- graficky do určitého tvaru
+			=A
+hugrtqqkdjl
+rnvqqnqqpod
+ejqqqqqqqfhr
+wqqunfkfqqdz
+qqndkfuhfqqud
 
 
 
