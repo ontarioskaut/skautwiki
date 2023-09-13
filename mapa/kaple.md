@@ -2,7 +2,7 @@
 title: Táborová kaple
 description: 
 published: true
-date: 2023-09-13T21:13:04.803Z
+date: 2023-09-13T21:13:51.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-27T13:19:00.251Z
