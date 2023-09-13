@@ -2,7 +2,7 @@
 title: Mapa skautských míst
 description: 
 published: true
-date: 2023-09-08T23:33:54.933Z
+date: 2023-09-13T21:05:48.923Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-04T20:14:43.106Z
@@ -14,6 +14,8 @@ dateCreated: 2022-09-04T20:14:43.106Z
 Zde vám proto přinášíme rozcestí odkazů pro popsaná místa.
 
 Tým wiki chtěl lepší, vlastní a originální systém. Jako prozatimní řešení jsme začali ale používat systém od google a webovou aplikaci Mapotic. Obě jsou funkční, ale mají své nedostatky.
+
+> Místa zatím nemají vlastní stránky s historií nebo popisem, ale mnohé mají popis přidaný přímo po rozkliknutí daného ukazatele.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1DrNsJGCwZqQTeCUohSjGi6ti8nczVEY&ehbc=2E312F"></iframe>
 
