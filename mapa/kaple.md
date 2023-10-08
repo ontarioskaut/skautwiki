@@ -2,7 +2,7 @@
 title: Táborová kaple
 description: 
 published: true
-date: 2023-09-13T21:13:51.487Z
+date: 2023-10-08T20:03:29.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-27T13:19:00.251Z
@@ -22,3 +22,4 @@ Velmi dlouhou dobu byla otočena severozápadním směrem. Základ oltáře a am
 ## 2023
 
 Bývalá kaple byla celá demontována. Otočena tak, aby směřovala přibližně východním směrem a navíc směrem z kopce. Prostro na lavice byl srovnán do roviny a místo kůlů byly vytvořeny podstavce z kamene spojeného cementovou směsí.
+V podstavci jsou chemickou kotvou přidělané vždy dvě závitové tyče na něž se napojuje příčka. Do ní jsou zavrtány 3 podélné kůly tvořící samotnou lavici.
