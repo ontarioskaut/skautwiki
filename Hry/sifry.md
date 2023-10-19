@@ -2,7 +2,7 @@
 title: Šifry
 description: 
 published: true
-date: 2023-10-18T09:38:29.493Z
+date: 2023-10-19T18:10:10.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-03T06:42:39.515Z
@@ -81,6 +81,11 @@ Používaný je též systém otočené abecedy, kdy A=Z, Y=B
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
 |Z|Y|X|W|V|U|T|S|R|Q|P|O|N|M|L|K|J|I|H|G|F|E|D|C|B|A|
+
+Pro zpřehlednění lze použít jen poloviční velikost tabulky. Tato metoda se nazývá *předložení*
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|A|B|C|D|E|F|G|H|I|J|K|L|M|
+|Z|Y|X|W|V|U|T|S|R|Q|P|O|N|
 
 \*pzn.: *tato šifra je známá též pod názvem Atbaš a byla nalezena v židovských svitcích v době více než 500 př. Kr.*
 
