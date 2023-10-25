@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:19:46.613Z
+date: 2023-10-25T09:20:42.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -47,7 +47,7 @@ Potřčebujete přidat komentář, chceš se omluvit ze schůzky? Tento návod j
 *pokud si vedoucí, tak tento návod nepoužívěj, účet si musíš vytvořit přímo přes wix.com a následně budeš přidát jako editor stránek*
 1) najdi si webovky: https://ontarioskaut.wixsite.com/ontario
 2) vpravo nahoře rozklikni **přihlásit se**
-3) pomocí **zaregistrujte se** si vytvoř účet
+3) pomocí **zaregistrujte se** (v angličtině **sing up**) si vytvoř účet
 4) zvol si nějaké rozumné jméno
 5) nech se schváli vedoucími (snažíme se být rychlý, když to bude trvat moc dlouho tak se připoměň)
 
