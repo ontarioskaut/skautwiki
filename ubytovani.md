@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-05-25T21:29:25.593Z
+date: 2023-10-25T09:30:35.025Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -11,7 +11,7 @@ dateCreated: 2022-09-14T07:21:54.964Z
 # Přehled ubytování 
 Tady máme společný, volně rozšiřovatelný, seznam možností ubytování na skautské akce. Pokud máte něco osvědčeného, budeme rádi, když se podělíte. (Můžete buď v komentáři nebo po přihlášení rozšiřte přehled)
 
-> Již dříve vznikl pokus o něco podobného. Ale nechceme porušovat autorská práva majitelů proto vkládáme pouze s omezeným přístupem: <a href="https://docs.google.com/spreadsheets/d/116oM0DL1-3EimeF5AFWvOeUNHrSAbsZo/edit?usp=sharing&ouid=111050924856016951167&rtpof=true&sd=true">odkaz</a>
+> Již dříve vznikl pokus o něco podobného. Ale nechceme porušovat autorská práva majitelů proto vkládáme pouze s omezeným přístupem: <a href="https://docs.google.com/spreadsheets/d/116oM0DL1-3EimeF5AFWvOeUNHrSAbsZo/edit?usp=sharing&ouid=111050924856016951167&rtpof=true&sd=true">odkaz</a> Navíc je starší a zejména ceny mohly výrazně vzrůst
 {.is-info}
 
 > Taktéž někdo na internetu udělal docela obsáhlý [Mapový přehled](https://1url.cz/@zakladny)
