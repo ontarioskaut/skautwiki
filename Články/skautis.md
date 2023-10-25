@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-10-25T12:22:51.258Z
+date: 2023-10-25T13:46:56.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
