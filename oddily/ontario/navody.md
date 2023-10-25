@@ -2,14 +2,14 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:20:42.077Z
+date: 2023-10-25T09:22:44.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
 ---
 
 # Návody
-Třeba se tady časem objeví nějaké užitečné návody, primárně pro oddíl Ontario, ale možná i nějak tak celkově
+Třeba se tady časem objeví nějaké užitečné návody, primárně pro oddíl Ontario, ale možná i nějak tak celkově. A třeba budou doplněny pěknými obrázky. Třeba jednou.
 
 
 ## Návod na reddit
