@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-10-25T09:27:36.076Z
+date: 2023-10-25T09:27:46.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -44,7 +44,7 @@ První kolo proběhlo na podzim roku 2022. Bojovali mezi sebou 3 družiny a sout
 #### 2. kolo
 Druhé kolo stále probíhá. Zahájeno bylo 32.10 a trvá až do vánoční oddílovky, tedy měsíc a půl
 
-Síň slávy
+## Síň slávy
 
 | Rok | Výherní  družina | Celkový výherce |Lovec bobříků| Nabušenec | Giga Chad | Uklizeč | Čtenář|
 | ----- | ------- | ----- |-----| ---- | ---- | ---- | ----|
