@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:24:10.178Z
+date: 2023-10-25T18:17:16.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -16,6 +16,8 @@ Třeba se tady časem objeví nějaké užitečné návody, primárně pro oddí
 
 ### Jak se k nám dostat?
 ![new.png](/obrazky/new.png)
+
+Abychom mohli bez rizika publikovat také naše fotky a interní vtípky, tak je subbredit **neveřejný** proto je připojení mírně složitější, ale stále jednoduché.
 
 1) vytvořte si účet
 2) připojte se na subbredit
