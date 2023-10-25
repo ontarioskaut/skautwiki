@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T08:57:33.015Z
+date: 2023-10-25T09:12:10.727Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -34,3 +34,8 @@ Na hlavní stránce rozklikne **create post**
 Následně změníte communitu na **r/OntarioSkaut** a zvolíte variantu **Images** (jinak se to bude špatně zobrazovat). Následně jednoduše přes **Upload** přidáte váš dokonalý meme a nebo ho jen přetáhnout myší.
 Pak přidáte fajnový popisek, který stejně nikdo nebude číst, a zveřejníte (vpravo dole **post**)
 ![reddit_create.png](/obrazky/reddit_create.png)
+
+## Discord
+Nejdříve si opět musíte zřídit účet. 
+na tomto odkazu https://discord.com/ si vyberete mezi stáhnutím aplikace a používáním webové verze (která není v ničem výrazně horší než aplikace)
+Na registraci se buď proklikáte odsud, nebo můžete použít přímo tento: https://discord.com/register odkaz.
