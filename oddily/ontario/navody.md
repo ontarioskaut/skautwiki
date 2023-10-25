@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:13:43.590Z
+date: 2023-10-25T09:15:23.740Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
