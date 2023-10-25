@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-10-25T09:44:14.823Z
+date: 2023-10-25T09:47:21.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -85,7 +85,8 @@ Nechcete upravovat údaje přímo a nechcete rodiče nutit zakládat si účet n
 {.is-warning}
 
 #### Exporty
-Vedoucí se často mohly setkat s potřebou vybrat například, 
+Vedoucí se často mohly setkat s potřebou vybrat například, veškeré kontakty na rodiče. Nebo sehnat seznam všech členů oddílu. Právě k tomu slouží exporty.
+Správce si jednoduše nechá vygenerovat pořadované údaje a následně je může nechat v podobě odkazu, nebo si je stáhnout, například do formátu pro excel.
 
 
 
