@@ -2,7 +2,7 @@
 title: Příhody
 description: doplněk kroniky: vtipné příhody
 published: true
-date: 2023-08-27T10:15:11.180Z
+date: 2023-10-25T09:06:58.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-20T19:56:03.513Z
@@ -10,6 +10,11 @@ dateCreated: 2023-01-20T19:56:03.513Z
 
 # Příhody
 Jedna věc je mít kroniku, kde jsou relativně seriózně popsány akce, program a hlavní body. Život se ovšem skládá z maličkostí, tato stránka by tak měla, bez jakékoli urážky či posměchu, shrnovat vtipné příhody či nehody, které by měly být zachovány dalším generacím.
+
+
+> Tato stránka je velmi nedopracovaná a nehodna čtení, ale třeba jednou, možná, když se nám bude chtít...
+{.is-warning}
+
 
 
 ### n.1~d~
