@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-10-25T12:20:19.176Z
+date: 2023-10-25T12:20:30.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -84,9 +84,9 @@ Nechcete upravovat údaje přímo a nechcete rodiče nutit zakládat si účet n
 > doplnit
 {.is-warning}
 
-[skautis01.png](/obrazky/skautis01.png)
+![skautis01.png](/obrazky/skautis01.png)
 
-![skautis00.png](/obrazky/skautis00.png)!
+![skautis00.png](/obrazky/skautis00.png)
 
 #### Exporty
 Vedoucí se často mohly setkat s potřebou vybrat například, veškeré kontakty na rodiče. Nebo sehnat seznam všech členů oddílu. Právě k tomu slouží exporty.
