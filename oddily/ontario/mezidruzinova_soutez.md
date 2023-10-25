@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-10-25T09:27:46.461Z
+date: 2023-10-25T09:28:00.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
