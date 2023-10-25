@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:12:10.727Z
+date: 2023-10-25T09:13:43.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -39,3 +39,6 @@ Pak přidáte fajnový popisek, který stejně nikdo nebude číst, a zveřejní
 Nejdříve si opět musíte zřídit účet. 
 na tomto odkazu https://discord.com/ si vyberete mezi stáhnutím aplikace a používáním webové verze (která není v ničem výrazně horší než aplikace)
 Na registraci se buď proklikáte odsud, nebo můžete použít přímo tento: https://discord.com/register odkaz.
+
+Následně nám, stejně jako u redditu, buď pošlete své uživatelské jméno, a nebo nás požádáte o odkaz. Zvací odkaz má ale omezenou platnost, takže musí být vygenerován nový.
+
