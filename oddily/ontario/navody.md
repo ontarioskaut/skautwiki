@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T18:17:16.581Z
+date: 2023-10-25T18:19:12.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -19,7 +19,7 @@ Třeba se tady časem objeví nějaké užitečné návody, primárně pro oddí
 
 Abychom mohli bez rizika publikovat také naše fotky a interní vtípky, tak je subbredit **neveřejný** proto je připojení mírně složitější, ale stále jednoduché.
 
-1) vytvořte si účet
+1) vytvořte si účet (na adrese www.reddit.com vpravo nahoře rozkliknete **přihlásit se** a následně **zaregistrovat**)
 2) připojte se na subbredit
 	buď na https://www.reddit.com/r/OntarioSkaut/ požádáte o připojení
   nebo nám napíšete své reddit-jméno a my vás přidáme ručně
