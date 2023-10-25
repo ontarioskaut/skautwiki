@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-10-25T12:02:03.296Z
+date: 2023-10-25T12:20:19.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -83,6 +83,10 @@ Oddíl má právo na několik výtisků časopisu Skauting. Určený je zejména
 Nechcete upravovat údaje přímo a nechcete rodiče nutit zakládat si účet na skautisu? Nevadí. Skautis nabízí integrované řešení. Stačí použít funkci a skautis automaticky rozešle rodičům dětí mail s možností úpravy údajů. Samořejmě dojde na mail uvedený u rodičů daného dítěte, tuto sekci tedy musí správce urpavit sám.
 > doplnit
 {.is-warning}
+
+[skautis01.png](/obrazky/skautis01.png)
+
+![skautis00.png](/obrazky/skautis00.png)!
 
 #### Exporty
 Vedoucí se často mohly setkat s potřebou vybrat například, veškeré kontakty na rodiče. Nebo sehnat seznam všech členů oddílu. Právě k tomu slouží exporty.
