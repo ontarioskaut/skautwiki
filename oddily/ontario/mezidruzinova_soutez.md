@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-01-15T11:22:54.878Z
+date: 2023-10-25T09:26:00.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -46,5 +46,6 @@ Síň slávy
 | Rok | Výherní  družina | Celkový výherce |Lovec bobříků| Nabušenec | Giga Chad | Uklizeč | Čtenář|
 | ----- | ------- | ----- |-----| ---- | ---- | ---- | ----|
 | 2022 | Medojedi | Jóža |Jóža| Tobík |Mira | Teo | Kuba|
+| 2023 | in progress | ? | ? | ? | ? | ? | ?|
 
 
