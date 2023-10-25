@@ -2,7 +2,7 @@
 title: Skautis
 description: 
 published: true
-date: 2023-04-03T14:03:25.907Z
+date: 2023-10-25T09:44:14.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-05T09:55:34.491Z
@@ -79,7 +79,13 @@ První krok je mít časopisy zaregistrované. V druhém kroce lze uvažovat o j
 Pokud neměla osoba zvolenoou registraci s časopisem, nemůže časopis získat.
 Oddíl má právo na několik výtisků časopisu Skauting. Určený je zejména pro vedoucí oddílu. V tomto případě je možné přidat.
 
+#### Úprava údajů
+Nechcete upravovat údaje přímo a nechcete rodiče nutit zakládat si účet na skautisu? Nevadí. Skautis nabízí integrované řešení. Stačí použít funkci a skautis automaticky rozešle rodičům dětí mail s možností úpravy údajů. Samořejmě dojde na mail uvedený u rodičů daného dítěte, tuto sekci tedy musí správce urpavit sám.
+> doplnit
+{.is-warning}
 
+#### Exporty
+Vedoucí se často mohly setkat s potřebou vybrat například, 
 
 
 
