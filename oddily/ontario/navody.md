@@ -2,7 +2,7 @@
 title: Návody
 description: 
 published: true
-date: 2023-10-25T09:22:44.067Z
+date: 2023-10-25T09:24:10.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-25T08:57:33.015Z
@@ -50,5 +50,7 @@ Potřčebujete přidat komentář, chceš se omluvit ze schůzky? Tento návod j
 3) pomocí **zaregistrujte se** (v angličtině **sing up**) si vytvoř účet
 4) zvol si nějaké rozumné jméno
 5) nech se schváli vedoucími (snažíme se být rychlý, když to bude trvat moc dlouho tak se připoměň)
+
+Přihlášením se vám také odemyká sekce **skupiny**, které aktuálně nejsou příliš používané, ale třeba jednou budou. A web má také zabudouvaný vlastní chat, je ovšem lehce pomalejší.
 
 
