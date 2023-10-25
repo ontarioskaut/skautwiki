@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-10-25T09:28:00.710Z
+date: 2023-10-25T09:28:50.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -22,6 +22,10 @@ Soutěžilo se po družinách, hodnoceni byli ale také jednotlivci a to nejen v
  
 
 ## Úkoly
+
+> úkoly jsou pro rok 2022, nyní nemusí být aktuální
+{.is-info}
+
 |cislo|název|úkol|body|
 |-|--------| -----------|--|
 |1|	kliky |	udělej 10 kliků	|10 |
@@ -42,7 +46,7 @@ Soutěžilo se po družinách, hodnoceni byli ale také jednotlivci a to nejen v
 První kolo proběhlo na podzim roku 2022. Bojovali mezi sebou 3 družiny a soutěž trvala shruba 2 týdny.
 
 #### 2. kolo
-Druhé kolo stále probíhá. Zahájeno bylo 32.10 a trvá až do vánoční oddílovky, tedy měsíc a půl
+Druhé kolo stále probíhá. Zahájeno bylo 23.10 a trvá až do vánoční oddílovky, tedy měsíc a půl
 
 ## Síň slávy
 
