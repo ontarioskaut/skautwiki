@@ -2,7 +2,7 @@
 title: Tisknutí vlastní mapy
 description: 
 published: true
-date: 2023-08-27T18:39:41.426Z
+date: 2023-10-31T19:11:42.569Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T22:34:35.149Z
@@ -41,4 +41,4 @@ Na to píšu jednoduchý skript v Pythonu:
 ![bbox.png](/obrazky/bbox.png)
 - poslat je Hruškovi
 ## Využití
-- už se to jednou hodilo, když medvědice plánovaly dvoudenku. Ovšem nakonec zřejmě změnily trasu atak naše mapa byla nejspíše nevyužita
+- už se to jednou hodilo, když medvědice plánovaly dvoudenku. Ovšem nakonec zřejmě změnily trasu, takže naše mapa byla nejspíše nevyužita
