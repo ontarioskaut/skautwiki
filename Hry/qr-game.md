@@ -2,7 +2,7 @@
 title: Scout QR game
 description: 
 published: true
-date: 2023-10-31T18:52:52.024Z
+date: 2023-10-31T18:57:30.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-31T18:08:41.983Z
@@ -21,7 +21,7 @@ Pokud se na to díváš a říkáš si, že na to nemáš dostatečné informati
 - scannerem si každá družinka naskenuje svůj aktivační kód a dozví se místo svého prvního stanoviště
 - na každém dalším stanoviti je nějaký úkol nebo otázka, na kterou se dá odpoědět textovou odpovědí. Pokud je odpověď správná, tk se dozví místo dalšího stanoviště.
 
-## jak to funguje technicky
+## Jak to funguje technicky
 - je to naprasená aplikace za krátkou dobu, odpovídá tomu kvalita
 - qr scanner čte prostý text z kódů:
 	- Aktivační kód: skupina <číslo skupiny>
@@ -63,4 +63,5 @@ Pokud se na to díváš a říkáš si, že na to nemáš dostatečné informati
 Z někdejší schůzky běží verze i s otázkami: https://old.pernicka.cz/scout_qr_game/ 
 Zdrojové kódy jsou dostupné [na Githubu](https://github.com/ontarioskaut/scout_qr_game)
 
-
+## Jak to vypadá
+![scout_qr_game_group.png](/obrazky/qr_game/scout_qr_game_group.png)![scout_qr_game_result.png](/obrazky/qr_game/scout_qr_game_result.png)![scout_qr_game_error.png](/obrazky/qr_game/scout_qr_game_error.png)![scout_qr_game_scan.png](/obrazky/qr_game/scout_qr_game_scan.png)![scout_qr_game_main.png](/obrazky/qr_game/scout_qr_game_main.png)
