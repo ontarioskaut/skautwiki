@@ -2,7 +2,7 @@
 title: Šifry ze sekery
 description: 
 published: true
-date: 2023-08-28T13:05:03.335Z
+date: 2023-11-21T11:36:38.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-28T09:18:29.805Z
@@ -24,7 +24,7 @@ Výsledkem každé z šifer bylo několik slov s "poselstvím"
 Jednoduchá morseovka na rozehřátí.
 2)
 14+6=
-5*4=
+5\*4=
 2:0,1=
 15*4/3=
 10/0,5=
@@ -115,9 +115,13 @@ K této tzv. PÍtomé básničce, bylo přiložené číslo pí. Ve výsledku m�
 
 5)
 :arrow_right: :arrow_down: :arrow_left: :arrow_up: :arrow_up: :arrow_right: 
+
 :arrow_up: :arrow_up: :arrow_down: :arrow_right: :arrow_up: :arrow_down: :arrow_down: 
+
 :arrow_up: :arrow_up:  :arrow_right: :arrow_down: :arrow_left:  :arrow_right: :arrow_down: 
+
 :arrow_up: :arrow_up: :arrow_lower_right: :arrow_lower_right: :arrow_up: :arrow_up: 
+
 :arrow_up: :arrow_up:  :arrow_right: :arrow_down: :arrow_left:  :arrow_right: :arrow_down: 
 řešení: Ghana
 stačilo nakreslit obrzace podle šipek vždy po řádku
