@@ -2,7 +2,7 @@
 title: Ubytování 
 description: Přehled ubytování na akce
 published: true
-date: 2023-10-25T09:30:35.025Z
+date: 2023-12-06T10:23:12.649Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-14T07:21:54.964Z
@@ -35,6 +35,7 @@ Tady máme společný, volně rozšiřovatelný, seznam možností ubytování n
 |[Klubovna Vyškov](klubovna_vyskov) :house: :fleur_de_lis:|Vyškov|90 Kč| 4 velké místnosti, vždy s polovičním druhým patrem. Velká kuchyň (hluboké talíře jen pro 20 lidí, jinak dobře vybavena)|9 /10| 50 |rezervacevyskov@skaut.cz|
 |[Srub v Lidečku](srub_lidecko) :house: :fleur_de_lis:|Lidečko Račné| 100 Kč| Dvoupatrový srub, v přírodě. Dvojplotýnka a základní nádobí. | 7 /10| 30 |mail@mail.com|
 |[Fara Kelč](fara_kelc) :house: :bed:|Kelč| ?? Kč| TODO: doplnit (Albion tam byl)| ? /10| ?? |mail@mail.com|
+|[Salesiáni Žabovřesky](salesiani_zabiny) :house |Brno| 80 Kč | prostory ve středisku u Salesiánů, spánek na zemi | /10 | 40 (záleží na prostorech) | mail@mail.com|
 
 
 
