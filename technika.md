@@ -2,7 +2,7 @@
 title: Technika a IT
 description: 
 published: true
-date: 2024-01-06T22:52:41.754Z
+date: 2024-01-06T22:55:37.328Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T21:03:15.791Z
