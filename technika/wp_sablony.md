@@ -2,7 +2,7 @@
 title: Poznámky ke skautským Wordpress šablonám
 description: 
 published: true
-date: 2024-01-07T00:30:21.534Z
+date: 2024-01-07T01:11:01.634Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-06T22:55:23.153Z
@@ -61,3 +61,19 @@ Nějaký text nad tím
 </div>
 ```
   - takový je výsledek: https://wp-test.pernicka.cz/
+- tabulky s popiskem dělají nepořádek s overflow - scrollovací lišta se zobrazí vždy, pokud je přítomen popisek (figcaption). Zároveň tabulky nejsou připravené na zobrazení na mobilech.
+  ![wp_skaut_tables_wrong.png](/obrazky/wordpress/wp_skaut_tables_wrong.png)
+  - řešení by mohlo vypadat takto:
+  ![wp_skaut_tables_1.png](/obrazky/wordpress/wp_skaut_tables_1.png)
+  a na mobilech takto: 
+  ![wp_skaut_tables.png](/obrazky/wordpress/wp_skaut_tables.png)
+  - řešení: 
+```css
+.wp-block-table figcaption{
+    display: inline;
+}
+
+.wp-block-table table {
+    white-space: nowrap;
+}
+```
