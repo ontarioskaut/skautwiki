@@ -2,7 +2,7 @@
 title: Mezidružinová soutěž
 description: 
 published: true
-date: 2023-10-25T09:28:50.799Z
+date: 2024-01-11T18:17:29.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-15T10:57:25.123Z
@@ -50,9 +50,9 @@ Druhé kolo stále probíhá. Zahájeno bylo 23.10 a trvá až do vánoční odd
 
 ## Síň slávy
 
-| Rok | Výherní  družina | Celkový výherce |Lovec bobříků| Nabušenec | Giga Chad | Uklizeč | Čtenář|
+| Rok | Výherní  družina | Celkový výherce |Lovec bobříků| Nabušenec | Meme maker | Uklizeč | Čtenář|
 | ----- | ------- | ----- |-----| ---- | ---- | ---- | ----|
 | 2022 | Medojedi | Jóža |Jóža| Tobík |Mira | Teo | Kuba|
-| 2023 | in progress | ? | ? | ? | ? | ? | ?|
+| 2023 | Kanci | Bohuš | Jóža | Turbo | Lasi | Bohuš | Kuba |
 
 
