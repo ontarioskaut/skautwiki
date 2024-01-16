@@ -2,7 +2,7 @@
 title: Technika a IT
 description: 
 published: true
-date: 2024-01-16T21:23:19.820Z
+date: 2024-01-16T21:23:38.922Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-16T21:03:15.791Z
@@ -25,7 +25,7 @@ resp. budeme mít. Zatím tvoříme nějakou osnovu, aby se měli případní p�
 ### Vychytávky
 - [:world_map: Tisknutí vlastní mapy *Jaké jsou možnosti tisku vlastní mapy např. na dvoudenku tak, aby nad tím člověk nestrávil hodiny času?*](map2print)
 - [:memo: Pár poznámek ke skautským Wordpress šablonám](wp_sablony)
-- [:link: Loga *Grafické assety pro plakátky atd.*](loga)
+- [:link: Loga *Grafické assety pro plakátky atd.*](/oddily/loga)
 {.links-list}
 
 <br>
