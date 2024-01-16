@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T22:39:12.879Z
+date: 2024-01-16T23:23:35.569Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -17,13 +17,13 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
 
 ## Ontario
 - font: Bebas Neue
-- barva: <span class="color" style="color: #0a224e"></span>#0a224e
+- barva: <span class="color" style="background-color: #0a224e"></span> #0a224e
 <div class="flex">
 <figure>
   <img src="/loga/ontario/blue_notext.png">
   <figcaption>
     <a href="/loga/ontario/blue_notext.png">
-      Modré s textem
+      Modré bez textu
     </a>
   </figcaption>
 </figure>
@@ -31,7 +31,7 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
   <img src="/loga/ontario/blue_text.png">
   <figcaption>
     <a href="/loga/ontario/blue_text.png">
-      Modré bez textu
+      Modré s textem
     </a>
   </figcaption>
 </figure>
@@ -67,6 +67,14 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
     </a>
   </figcaption>
 </figure>
+<figure>
+  <img src="/loga/ontario/blue_text.png">
+  <figcaption>
+    <a href="/loga/ontario/blue_notext.svg">
+      Vektor
+    </a>
+  </figcaption>
+</figure>
 </div>
 
 ### Družinky
@@ -95,3 +103,57 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
     </a>
   </figcaption>
 </figure>
+</div>
+
+## Artemis
+- písmo: Skaut Bold
+- barvy: 
+  - hlavní: <span class="color" style="background-color: #dd2a47"></span> #dd2a47
+  - pozadí: <span class="color" style="background-color: #fffbef"></span> #fffbef
+
+> TODO: doplnit varianty + vektor (varianty jsou ručně vytvořené na základě obrázků z webu => nižší kvalita)
+{.is-warning}
+
+
+<div class="flex">
+<figure>
+  <img src="/loga/artemis/medium_normal.png">
+  <figcaption>
+    <a href="/loga/artemis/medium_normal.png">
+      Medium normální
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/artemis/medium_black.png">
+  <figcaption>
+    <a href="/loga/artemis/medium_black.png">
+      Medium černé
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/artemis/medium_white.png" class="bg-dark">
+  <figcaption>
+    <a href="/loga/artemis/medium_white.png">
+      Medium bílé
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/artemis/small_profile.jpg">
+  <figcaption>
+    <a href="/loga/artemis/small_profile.jpg">
+      Malé - profilový obrázek s pozadím
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/artemis/banner_white.jpg">
+  <figcaption>
+    <a href="/loga/artemis/banner_white.jpg">
+      Banner s pozadím
+    </a>
+  </figcaption>
+</figure>
+</div>
