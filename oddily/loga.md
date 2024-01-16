@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T23:23:35.569Z
+date: 2024-01-16T23:40:45.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -153,6 +153,45 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
   <figcaption>
     <a href="/loga/artemis/banner_white.jpg">
       Banner s pozadím
+    </a>
+  </figcaption>
+</figure>
+</div>
+
+## Medvědice
+- písmo: Skaut Bold / Raleway Flex (web)
+- barva: <span class="color" style="background-color: #000000"></span> #000000
+
+<div class="flex">
+<figure>
+  <img src="/loga/medvedice/large_black_notext.png">
+  <figcaption>
+    <a href="/loga/medvedice/large_black_notext.png">
+      Černé bez textu
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/medvedice/large_white_notext.png" class="bg-dark">
+  <figcaption>
+    <a href="/loga/medvedice/large_white_notext.png">
+      Bílé bez textu
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/medvedice/small_text.png">
+  <figcaption>
+    <a href="/loga/medvedice/small_text.png">
+      Malé s textem
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/medvedice/small_text_whitebg.jpg">
+  <figcaption>
+    <a href="/loga/medvedice/small_text_whitebg.jpg">
+      Malé s textem a pozadím
     </a>
   </figcaption>
 </figure>
