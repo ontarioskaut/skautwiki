@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T22:19:24.215Z
+date: 2024-01-16T22:24:55.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -35,7 +35,7 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
 </figure>
 
 <figure>
-  <img src="/loga/ontario/white_text.png">
+  <img src="/loga/ontario/white_text.png" class="bg-dark">
   <figcaption>Bílé s textem</figcaption>
 </figure>
 
