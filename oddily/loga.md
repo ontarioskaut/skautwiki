@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T21:19:56.822Z
+date: 2024-01-16T21:51:25.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -10,3 +10,10 @@ dateCreated: 2024-01-16T21:19:56.822Z
 
 # Loga a zdroje pro grafiky na akce
 Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho střediska, kdyby je bylo potřeba použít např. na plakátky různých akcí. Zároveň tady bude prostor pro další střediskově-specifickou grafiku.
+
+## Ontario
+<div class="gallery">
+  
+![blue_notext.png](/loga/ontario/blue_notext.png)
+
+</div>
