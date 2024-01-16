@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T23:45:26.623Z
+date: 2024-01-16T23:57:19.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -195,6 +195,35 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
   <figcaption>
     <a href="/loga/medvedice/small_text_whitebg.jpg">
       Malé s textem a pozadím
+    </a>
+  </figcaption>
+</figure>
+</div>
+
+## Další oddíly
+> TODO: Doplnit
+{.is-warning}
+
+## Středisko
+- barvy: paleta?
+
+> Doplnit logo v lepší kvalitě + vektor (pokud je)
+{.is-warning}
+
+<div class="flex">
+<figure>
+  <img src="/loga/stredisko/small.jpg">
+  <figcaption>
+    <a href="/loga/stredisko/small.jpg">
+      Malé s pozadím
+    </a>
+  </figcaption>
+</figure>
+<figure>
+  <img src="/loga/stredisko/small_transparent.png">
+  <figcaption>
+    <a href="/loga/stredisko/small_transparent.png">
+      Malé bez pozadí
     </a>
   </figcaption>
 </figure>
