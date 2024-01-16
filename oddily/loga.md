@@ -2,7 +2,7 @@
 title: Loga oddílů
 description: loga a zdroje pro skautské grafiky na akce
 published: true
-date: 2024-01-16T23:40:45.691Z
+date: 2024-01-16T23:41:26.163Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-16T21:19:56.822Z
@@ -161,6 +161,9 @@ Tato stránka vznikla, abychom měli všichi po ruce loga oddílů našeho stře
 ## Medvědice
 - písmo: Skaut Bold / Raleway Flex (web)
 - barva: <span class="color" style="background-color: #000000"></span> #000000
+
+> TODO: doplnit varianty + vektor (varianty jsou ručně vytvořené na základě obrázků z webu => nižší kvalita)
+{.is-warning}
 
 <div class="flex">
 <figure>
