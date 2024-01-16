@@ -2,7 +2,7 @@
 title: Oddíly
 description: 
 published: true
-date: 2023-08-27T22:15:10.145Z
+date: 2024-01-16T21:13:24.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-07T13:10:48.624Z
@@ -42,6 +42,8 @@ Nejdříve se tak stalo o prázdninách roku 2018, kdy se od oddílu [Antares](a
 > ještě old skauty a rodinky.
 {.is-info}
 
+- [:link: Loga *Grafické assety pro plakátky atd.*](loga)
+{.links-list}
 
 
 
