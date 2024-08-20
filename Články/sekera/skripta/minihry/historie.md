@@ -2,7 +2,7 @@
 title: Minihra Skautská historie
 description: 
 published: true
-date: 2024-08-20T11:05:44.247Z
+date: 2024-08-20T11:06:52.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-20T10:47:24.924Z
@@ -21,7 +21,7 @@ dateCreated: 2024-08-20T10:47:24.924Z
         <div class="container_final"></div>
     </div>
     <div class="button_wrapper">
-        <button class="checking-btn">Check order</button>
+        <button id="checkni">Check order</button>
     </div>
     <p id="result"></p>
   </div>
