@@ -2,7 +2,7 @@
 title: Minihra - kroj
 description: 
 published: true
-date: 2024-08-24T19:16:38.839Z
+date: 2024-08-24T19:17:53.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T19:16:38.839Z
@@ -16,11 +16,8 @@ dateCreated: 2024-08-24T19:16:38.839Z
         <button id="right-pos-btn">Right solution</button>
     </div>
     <p id="result">hej</p>
-
-
     <div class="container">
         <img src="outline_rotated.png">
-
         <p class="card" id="oddil"></p>
         <p class="card" id="wosm"></p>
         <p class="card" id="domovenka_zlin"></p>
@@ -28,6 +25,5 @@ dateCreated: 2024-08-24T19:16:38.839Z
         <p class="card" id="druzina"></p>
         <p class="card" id="listek"></p>
         <p class="card" id="slib"></p>
-
     </div>
 </div>
