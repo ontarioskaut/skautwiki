@@ -2,14 +2,14 @@
 title: Minihra - kroj
 description: 
 published: true
-date: 2024-08-25T16:01:33.194Z
+date: 2024-08-25T16:01:38.972Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T19:16:38.839Z
 ---
 
 # Minihra kroj
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
 <div class='minigame'>
     <div class="button_wrapper">
         <button id="checking-btn">Check order</button>
