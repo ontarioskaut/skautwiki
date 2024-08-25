@@ -2,7 +2,7 @@
 title: Minihra - kroj
 description: 
 published: true
-date: 2024-08-25T16:01:38.972Z
+date: 2024-08-25T16:07:45.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T19:16:38.839Z
@@ -25,5 +25,6 @@ dateCreated: 2024-08-24T19:16:38.839Z
         <p class="card" id="druzina"></p>
         <p class="card" id="listek"></p>
         <p class="card" id="slib"></p>
+      	<p class="card" id="st_domovenka"></p>
     </div>
 </div>
