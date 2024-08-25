@@ -2,7 +2,7 @@
 title: Minihra - kroj
 description: 
 published: true
-date: 2024-08-25T15:57:48.905Z
+date: 2024-08-25T15:59:34.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-24T19:16:38.839Z
@@ -15,7 +15,8 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
         <button id="checking-btn">Check order</button>
         <button id="right-pos-btn">Right solution</button>
     </div>
-    <p id="result">hej</p>
+  	
+  <p>Výsledek:</p><p id="result"></p>
     <div class="container">
         <img src="/scripty/outline.png">
         <p class="card" id="oddil"></p>
