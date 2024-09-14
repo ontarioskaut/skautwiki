@@ -2,7 +2,7 @@
 title: Etapy Ontario
 description: 
 published: true
-date: 2024-09-14T18:45:40.801Z
+date: 2024-09-14T18:52:51.106Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:43:25.246Z
@@ -54,7 +54,10 @@ Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napol
 
 ## Čína (2022)
 
-## Western 2.0 (2023)
+## Indiáni (2023)
+
+Od chvíle, co bylo na táboře roku 2018 zakopáno zlato OR čekala na vhodnou příležitost pro jeho vykopání a navázání na etapu. Pro rok 2023 došlo ke kompletní obnově členské základy a dokonce se i z některých bývalých členů stali vedoucí, kteří tak mohli navázat na své tehdejší postavy. Celá etapa ale nebyla pouhým pokračováním, ale byla přijata z druhého pohledu - pohledu Indiánů.
+
 
 ### Písničky
 
