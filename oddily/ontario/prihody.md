@@ -1,8 +1,8 @@
 ---
 title: Příhody
 description: doplněk kroniky: vtipné příhody
-published: true
-date: 2023-10-25T09:06:58.906Z
+published: false
+date: 2024-09-14T18:20:39.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-20T19:56:03.513Z
