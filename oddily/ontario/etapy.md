@@ -2,7 +2,7 @@
 title: Etapy Ontario
 description: 
 published: true
-date: 2024-09-14T18:37:49.128Z
+date: 2024-09-14T18:38:23.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:43:25.246Z
@@ -57,6 +57,10 @@ Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napol
 ## Western 2.0
 
 ## Středověk
+Rok 2024
+
+### Vymýšlení
+
 
 ### Měna
 V této etapě byla znvou po 6 letech obnoven koncept celotáborové měny. V předchozích sice něco na ten způsob existovalo, využívána byla ale výhradně na bary. V tomto roce ale hrála výraznější roli. Nejdůležitější byl nákup zbraní a vybavení.
