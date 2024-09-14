@@ -2,7 +2,7 @@
 title: Etapy Ontario
 description: 
 published: true
-date: 2024-09-14T18:44:07.514Z
+date: 2024-09-14T18:44:59.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:43:25.246Z
@@ -13,13 +13,13 @@ dateCreated: 2023-03-16T10:43:25.246Z
 Každý rok vedoucí Ontaria vymýšlí nový příběh. Na rozdíl od jiných oddílů se přímo neinspirují žádnými filmy ani knihami. A vzhledem k tomu, že etapová hra stále ještě není to nejdůležitější z tábora, tak kronika nikdy nepokryje všechno. Z mnohých vytvořených příběhů by ovšem bylo možné napsat knih, či natočit film.
 A i když se to mnohdy nezdá, tyto příběhy mají většinou myšlenku a chtěly skrze příběh předat poznatky, které by se jinak předávaly jen ztěží. Často byly tyto myšlenky ovšem odkryty jen v myslích tvůrců, zde jsou proto zaznamenány.
 
-## Western
+## Western (2018)
 
-## Vikingové
+## Vikingové (2019)
 
-## Navlnáti
+## Navlnáti (2020)
 
-## VOSB
+## VOSB (2021)
 
 VOSB, tedy Výbor pro ochranu světové bezpečnosti, je název tábora pro rok 2021.
 
@@ -52,9 +52,9 @@ V celé etapě jde o zisk informací. Vstupujeme do ní slepí, bez kritického 
 ### Side story z vymýšlení
 Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napoleon a Tom a vysnili si etapu o cestování časem a prostorem, nejen do předešlých etap, ale i volně do minulosti. Kvůli časové a zejména materiální problematice jim to však bylo osekáno do této podoby.
 
-## Čína
+## Čína (2022)
 
-## Western 2.0
+## Western 2.0 (2023)
 
 ### Písničky
 
@@ -63,8 +63,7 @@ Generál Harrison
 Kláda
 
 
-## Středověk
-Rok 2024
+## Středověk (2024)
 
 ### Vymýšlení
 
