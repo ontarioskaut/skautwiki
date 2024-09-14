@@ -2,7 +2,7 @@
 title: Etapy Ontario
 description: 
 published: true
-date: 2024-09-14T18:44:59.319Z
+date: 2024-09-14T18:45:40.801Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:43:25.246Z
@@ -46,7 +46,7 @@ Kvůli tomu získáváme Willa Smithse na svou stranu, ovládneme stroj Annie, v
 Artefakt získáváme, jsme ovšem napadeni. VOSB nám jej ukradne. My se ale nezvdáme, svedeme velkou bitvu, vyhrajeme a zachráníme svět.
 
 ### Myšlenka
-V celé etapě jde o zisk informací. Vstupujeme do ní slepí, bez kritického myšlení, slepě následující představitele. Postupně ale rozšiřujeme své obzory a dozvídáme se toho stále víc. A i po odstoupení od VOSB stále nevíme, kde je poslední artefakt. Do minulosit se nevracíme kvůli artefaktu samotnému, ale kvůli prosté myšlence, vzpomínce, či informaci o něm. Protože informace, je to nejdražší, co můžeme v životě získat a lidstvo možná nepojde na pandemii, ale na naslouchání lžím a fakenews.
+V celé etapě jde o zisk informací. Vstupujeme do ní slepí, bez kritického myšlení, slepě následující představitele. Postupně ale rozšiřujeme své obzory a dozvídáme se toho stále víc. A i po odstoupení od VOSB stále nevíme, kde je poslední artefakt. Do minulosit se nevracíme kvůli artefaktu samotnému, ale kvůli prosté myšlence, vzpomínce, či informaci o něm. Protože informace, je to nejdražší, co můžeme v životě získat a lidstvo možná nepojde na pandemii, ale na naslouchání lžím a fakenews. *{psáno za panedmie, zpětně se omlouvám}*
 
 
 ### Side story z vymýšlení
