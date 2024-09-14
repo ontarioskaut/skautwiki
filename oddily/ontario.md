@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2024-09-14T18:17:38.302Z
+date: 2024-09-14T18:26:34.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -19,7 +19,6 @@ dateCreated: 2022-09-06T18:29:08.803Z
 - [:iphone: Sociální sítě ](socialni_site)
 - [:trophy: Mezidružinová soutěž ](mezidruzinova_soutez)
 - [📒 Etapy](etapy)
-- [📜Příhody](prihody)
 - [😵Psychologie členů Ontaria](psychologie_clenu_ont)
 {.links-list}
 
