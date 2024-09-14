@@ -2,7 +2,7 @@
 title: Ontario
 description: 
 published: true
-date: 2023-09-21T17:40:35.411Z
+date: 2024-09-14T18:17:38.302Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-06T18:29:08.803Z
@@ -34,7 +34,7 @@ dateCreated: 2022-09-06T18:29:08.803Z
 ## Aktuální a bývale vedení
 
 Od září roku 2021 je vůdcem oddílu David Bush Holík. Jeho zástupcem je Matěj Škarka. Tuto roli převzali po Janu Homerovi Riedlovi, respektive Lukášovi Lubášovi Machalíkovi, kteří oddíl vedli od jeho vzniku v roce 2017. Po odstoupení z funkce i oddílu se rozhodli přejít do vyšších pozic a nyní se angažují v rámci fungování střediska.
-Je dobré ale upozornit, že Lubáš dělal zástupce a hospodáře již několik let před vznikem samotného oddílu.
+Je dobré ale upozornit, že Lukáš dělal zástupce a hospodáře již několik let před vznikem samotného oddílu.
 
 
 
