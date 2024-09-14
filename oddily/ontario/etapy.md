@@ -2,7 +2,7 @@
 title: Etapy Ontario
 description: 
 published: true
-date: 2024-09-14T18:28:32.588Z
+date: 2024-09-14T18:37:49.128Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-16T10:43:25.246Z
@@ -12,6 +12,12 @@ dateCreated: 2023-03-16T10:43:25.246Z
 
 Každý rok vedoucí Ontaria vymýšlí nový příběh. Na rozdíl od jiných oddílů se přímo neinspirují žádnými filmy ani knihami. A vzhledem k tomu, že etapová hra stále ještě není to nejdůležitější z tábora, tak kronika nikdy nepokryje všechno. Z mnohých vytvořených příběhů by ovšem bylo možné napsat knih, či natočit film.
 A i když se to mnohdy nezdá, tyto příběhy mají většinou myšlenku a chtěly skrze příběh předat poznatky, které by se jinak předávaly jen ztěží. Často byly tyto myšlenky ovšem odkryty jen v myslích tvůrců, zde jsou proto zaznamenány.
+
+## Western
+
+## Vikingové
+
+## Navlnáti
 
 ## VOSB
 
@@ -45,3 +51,29 @@ V celé etapě jde o zisk informací. Vstupujeme do ní slepí, bez kritického 
 
 ### Side story z vymýšlení
 Neověřené zdroje tvrdí, že se jednou, nebo dokonce vícekrát, setkal Napoleon a Tom a vysnili si etapu o cestování časem a prostorem, nejen do předešlých etap, ale i volně do minulosti. Kvůli časové a zejména materiální problematice jim to však bylo osekáno do této podoby.
+
+## Čína
+
+## Western 2.0
+
+## Středověk
+
+### Měna
+V této etapě byla znvou po 6 letech obnoven koncept celotáborové měny. V předchozích sice něco na ten způsob existovalo, využívána byla ale výhradně na bary. V tomto roce ale hrála výraznější roli. Nejdůležitější byl nákup zbraní a vybavení.
+Jako měna byly znovu využity Onty, připravené pro první tábor.
+
+První ceník na začátku tábora:
+- Dlouhý meč 500
+- Krátký meč 300
+- Řemdih 350
+- Štít erb 700
+- Štít mandle (kapka) 1400
+Ceny se ale zvedaly s počtem zakoupených kusů. Poslední byly dražší, i obyčejný štít se tak vyšplhal až přes dva tisíce.
+
+Peníze bylo možné získat za celou řadu záležitostí
+Základ je *Pracovní den ve vesnici za 50*
+Dále například za
+- Verbování 500
+- Nástup do armády 250
+- Denní žold 200 (dostali ho dvakrát)
+Do jisté míry také questy, ale hlavně sázení a vlastní obchod.
