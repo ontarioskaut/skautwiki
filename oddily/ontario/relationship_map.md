@@ -2,7 +2,7 @@
 title: Mapa vztahů
 description: 
 published: false
-date: 2024-10-19T19:56:34.096Z
+date: 2024-10-19T19:57:36.703Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-19T19:24:49.462Z
@@ -29,7 +29,7 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
   <div id="network"></div>
 
   <!-- Include vis.js library -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <!--script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script-->
   <!-- Link to your JavaScript -->
   <script src="script.js"></script>
 </div>
