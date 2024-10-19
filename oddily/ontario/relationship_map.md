@@ -2,21 +2,13 @@
 title: Mapa vztahů
 description: 
 published: false
-date: 2024-10-19T19:39:52.495Z
+date: 2024-10-19T19:42:36.599Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-19T19:24:49.462Z
 ---
 
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-<head>
-  <meta charset="UTF-8">
-  <title>Relationship map</title>
-  <!-- Include vis.js CSS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css" rel="stylesheet" type="text/css" />
-  <!-- Link to your CSS -->
-  <link rel="stylesheet" href="styles.css">
-</head>
 
 <div class=game>
   <h1>Map of relationships</h1>
