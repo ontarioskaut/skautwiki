@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2024-09-15T20:57:33.498Z
+date: 2025-07-15T22:35:26.169Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -23,6 +23,7 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:book: Workshopy a praxe *Poznatky ke vzdělávacím blokům na táborech*](/workshopy_praxe)
 - [:wrench: Technika a IT *Vše okolo techniky*](/technika)
 - [:house: Ubytování *Zajímavé možnosti ubytování na akce*](/ubytovani)
+- [:fork_and_knife: Vaření *Vše okolo táborového a oddlovkového vaření*](/vareni)
 {.links-list}
 
 
