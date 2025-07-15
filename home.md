@@ -2,7 +2,7 @@
 title: Úvodní stránka
 description: 
 published: true
-date: 2025-07-15T22:35:26.169Z
+date: 2025-07-15T22:54:51.813Z
 tags: veřejné
 editor: markdown
 dateCreated: 2022-08-05T23:15:55.710Z
@@ -25,7 +25,6 @@ Ahoj! Vítáme tě na střediskové wiki stránce, kde nalezneš všelijaké inf
 - [:house: Ubytování *Zajímavé možnosti ubytování na akce*](/ubytovani)
 - [:fork_and_knife: Vaření *Vše okolo táborového a oddlovkového vaření*](/vareni)
 {.links-list}
-
 
 
 <br>
